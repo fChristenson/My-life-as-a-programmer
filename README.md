@@ -7,7 +7,7 @@ ask me on my [Youtube channel](https://www.youtube.com/user/Fidde12345).
 
 ## Questions
 
-> Can you make a inteview question video for React?
+> Can you make a interview question video for React?
 
 > Can you make a video about flutter?
 
