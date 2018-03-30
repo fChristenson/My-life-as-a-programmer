@@ -19,6 +19,10 @@ https://youtu.be/gC8hVGqUsHE
 
 ## Suggestions
 
+> Hold the camera in landscape mode
+
+I started holding the camera in landscape mode.
+
 > Get a better microphone
 
 I bought a new microphone so the audio quality got a bit better.
