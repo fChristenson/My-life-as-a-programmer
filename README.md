@@ -3,7 +3,7 @@
 ## Description
 
 This is a repository where I can store all the questions and suggestions that my viewers
-ask me on my Youtube channel.
+ask me on my (Youtube channel)[https://www.youtube.com/user/Fidde12345].
 
 ## Questions
 
