@@ -7,7 +7,52 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Questions
 
+> What is harder, frontend or backend?
+
+https://youtu.be/Yn7UQGblgZQ
+
+> Can you talk about how to give testers more time to work?
+
+https://youtu.be/bbtBr9HwHbU
+
+> Can you talk about REST api's in Node vs Go?
+
+https://youtu.be/muYstr7gjSY
+
+> Where did my passion for programming start?
+
+https://youtu.be/lMlwwTk5xiI
+
+> What are the most important characteristics of a programmer?
+
+https://youtu.be/Rk4wdn2sOF0
+
+> Can you talk about how to handle client side translations?
+
+https://youtu.be/WSgjSV30H2M
+
+> Can you talk about using democracy or management decisions in a IT company?
+
+https://youtu.be/u3q_85vP3t8
+
+> Can you share your experiences working in Ios and Android?
+
+https://youtu.be/-Omxe5FBLds
+
+> Are frontend developers in more demand than backend developers?
+
+https://youtu.be/ZC6N4FObSLU
+
+> Can you make a interview question video for Frontend?
+
+https://youtu.be/gXnbUvttj6M
+https://youtu.be/p9u4ymj-yJw
+https://youtu.be/Ihm8cmJ06mg
+
 > Can you make a interview question video for React?
+
+https://youtu.be/nRI0dn6GTj8
+https://youtu.be/vtUdacXj4Ws
 
 > Can you make a video about flutter?
 
