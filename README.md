@@ -7,6 +7,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Questions
 
+> Do I need a degree to be a programmer?
+
+https://youtu.be/vui1MmegqyQ
+
 > Where can I go to get involved in projects that will help improve my skills?
 
 > What will web assembly be used for?
