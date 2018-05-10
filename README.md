@@ -7,6 +7,16 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Questions
 
+> Where can I go to get involved in projects that will help improve my skills?
+
+> What will web assembly be used for?
+
+> Should I get a masters degree?
+
+> Why is the bar so high for programming jobs?
+
+> What is a bad frontend developer?
+
 > What is harder, frontend or backend?
 
 https://youtu.be/Yn7UQGblgZQ
