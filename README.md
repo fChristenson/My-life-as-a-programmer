@@ -7,6 +7,34 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Questions
 
+> What sources of information do you recommend for programming content?
+
+https://egghead.io
+
+https://changelog.com
+
+https://www.javacodegeeks.com
+
+http://exercism.io
+
+https://www.youtube.com/user/thenewboston
+
+https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA
+
+https://nodeweekly.com
+
+https://www.codecademy.com
+
+https://eu.udacity.com
+
+https://www.edx.org
+
+https://this-week-in-rust.org
+
+https://www.lynda.com
+
+https://www.pluralsight.com
+
 > Do I need a degree to be a programmer?
 
 https://youtu.be/vui1MmegqyQ
