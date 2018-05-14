@@ -7,6 +7,12 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Questions
 
+> Can you talk about Polymer?
+
+https://youtu.be/BwHtHAkuQ-E
+
+https://youtu.be/2_TGauMEmf4
+
 > What sources of information do you recommend for programming content?
 
 https://egghead.io
