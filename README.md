@@ -27,10 +27,6 @@ https://youtu.be/vui1MmegqyQ
 
 https://youtu.be/ZC6N4FObSLU
 
-> What are your experiences working in Ios vs Android?
-
-https://youtu.be/-Omxe5FBLds
-
 > What does it take to be a email developer?
 
 https://youtu.be/W0MLmSFeTdk
