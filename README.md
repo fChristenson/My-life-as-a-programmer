@@ -105,11 +105,7 @@ https://youtu.be/vui1MmegqyQ
 
 > What will web assembly be used for?
 
-> Should I get a masters degree?
-
-> Why is the bar so high for programming jobs?
-
-> What is a bad frontend developer?
+https://youtu.be/yhvdAuxMR1M
 
 > What is harder, frontend or backend?
 
