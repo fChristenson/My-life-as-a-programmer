@@ -23,10 +23,6 @@ https://youtu.be/aetP6eVpgBo
 
 https://youtu.be/vui1MmegqyQ
 
-> Are frontend developers in more demand than backend developers?
-
-https://youtu.be/ZC6N4FObSLU
-
 > What does it take to be a email developer?
 
 https://youtu.be/W0MLmSFeTdk
