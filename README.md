@@ -93,10 +93,6 @@ https://www.pluralsight.com
 
 https://youtu.be/vui1MmegqyQ
 
-> Where can I go to get involved in projects that will help improve my skills?
-
-> Can you make a backend job interview video?
-
 > What will web assembly be used for?
 
 https://youtu.be/yhvdAuxMR1M
@@ -158,6 +154,12 @@ https://youtu.be/xqdWNS4HEMc
 > Can you make a video about how to dress in a job interview?
 
 https://youtu.be/gC8hVGqUsHE
+
+## Pending questions
+
+> Where can I go to get involved in projects that will help improve my skills?
+
+> Can you make a backend job interview video?
 
 ## Suggestions
 
