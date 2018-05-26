@@ -7,6 +7,62 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Questions
 
+> Why is Java so popular in enterprises?
+
+https://youtu.be/u8UOadYTOo0
+
+> What are the best programming languages to bet on for the future?
+
+https://youtu.be/7lksmiw9nQ4
+
+> When should I use continuous delivery tools?
+
+https://youtu.be/aetP6eVpgBo
+
+> Do I need a degree to be a programmer?
+
+https://youtu.be/vui1MmegqyQ
+
+> Are frontend developers in more demand than backend developers?
+
+https://youtu.be/ZC6N4FObSLU
+
+> What are your experiences working in Ios vs Android?
+
+https://youtu.be/-Omxe5FBLds
+
+> What does it take to be a email developer?
+
+https://youtu.be/W0MLmSFeTdk
+
+> Why do people use bad tech?
+
+https://youtu.be/ui-kssv8bv0
+
+> What is BDD?
+
+https://youtu.be/aDVjepR1yI0
+
+> What is TDD?
+
+https://youtu.be/vHEcBPdh7i0
+
+> Should I get a masters degree?
+
+https://youtu.be/9YZVxJ4FsfQ
+
+> Why is the bar so high for programming jobs?
+
+https://youtu.be/5ozRR8Trf8Q
+
+> Can you make a video about job hopping vs climbing the ladder?
+
+https://youtu.be/hxSrw2b0wX8
+
+> Why are enterprises so slow?
+
+https://youtu.be/rMjuxIqJngk
+
 > Can you talk about Polymer?
 
 https://youtu.be/BwHtHAkuQ-E
