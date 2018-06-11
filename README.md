@@ -7,6 +7,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Questions
 
+> Where can I go to get involved in projects that will help improve my skills?
+
+https://youtu.be/r9lH_fKhEbI
+
 > Do I still enjoy Css?
 
 https://youtu.be/SKdFpZgEw9Q
@@ -160,8 +164,6 @@ https://youtu.be/xqdWNS4HEMc
 https://youtu.be/gC8hVGqUsHE
 
 ## Pending questions
-
-> Where can I go to get involved in projects that will help improve my skills?
 
 > Can you make a backend job interview video?
 
