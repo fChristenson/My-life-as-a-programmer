@@ -165,6 +165,16 @@ https://youtu.be/gC8hVGqUsHE
 
 > Can you make a backend job interview video?
 
+> What is a static site generator?
+
+> Can I use Boostrap for my portfolio or do I need to handmake everything?
+
+> As a JavaScript developer should I use Wordpress or a JavaScript based CMS?
+
+> I feel like I jump from tutorial to tutorial without making anything meaningful, what should I do?
+
+> What do you think about [Gatsby](https://www.gatsbyjs.org/docs/)?
+
 ## Suggestions
 
 > Hold the camera in landscape mode
