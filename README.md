@@ -27,10 +27,6 @@ https://youtu.be/7lksmiw9nQ4
 
 https://youtu.be/aetP6eVpgBo
 
-> Do I need a degree to be a programmer?
-
-https://youtu.be/vui1MmegqyQ
-
 > What does it take to be a email developer?
 
 https://youtu.be/W0MLmSFeTdk
