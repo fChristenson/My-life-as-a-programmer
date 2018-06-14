@@ -163,13 +163,17 @@ https://youtu.be/xqdWNS4HEMc
 
 https://youtu.be/gC8hVGqUsHE
 
-## Pending questions
+> Can I use Boostrap for my portfolio or do I need to handmake everything?
 
-> Can you make a backend job interview video?
+https://youtu.be/j_pHUBjQibE
 
 > What is a static site generator?
 
-> Can I use Boostrap for my portfolio or do I need to handmake everything?
+https://youtu.be/AWjRk05Wikg
+
+## Pending questions
+
+> Can you make a backend job interview video?
 
 > As a JavaScript developer should I use Wordpress or a JavaScript based CMS?
 
