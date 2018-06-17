@@ -167,6 +167,10 @@ https://youtu.be/j_pHUBjQibE
 
 https://youtu.be/AWjRk05Wikg
 
+> Should I get a certification?
+
+https://youtu.be/rPqUD5C9Yv0
+
 ## Pending questions
 
 > Can you make a backend job interview video?
