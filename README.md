@@ -171,13 +171,17 @@ https://youtu.be/AWjRk05Wikg
 
 https://youtu.be/rPqUD5C9Yv0
 
+> As a JavaScript developer should I use Wordpress or a JavaScript based CMS?
+
+https://youtu.be/B3dnTmVkWz0
+
+> I feel like I jump from tutorial to tutorial without making anything meaningful, what should I do?
+
+https://youtu.be/nhlL4DODqsI
+
 ## Pending questions
 
 > Can you make a backend job interview video?
-
-> As a JavaScript developer should I use Wordpress or a JavaScript based CMS?
-
-> I feel like I jump from tutorial to tutorial without making anything meaningful, what should I do?
 
 > What do you think about [Gatsby](https://www.gatsbyjs.org/docs/)?
 
