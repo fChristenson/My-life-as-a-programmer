@@ -181,6 +181,8 @@ https://youtu.be/nhlL4DODqsI
 
 ## Pending questions
 
+> What makes a good frontend developer?
+
 > What do you think about [Blazor](https://github.com/aspnet/Blazor)?
 
 > Can you make a video about [nim](https://nim-lang.org/)?
