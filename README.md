@@ -181,6 +181,8 @@ https://youtu.be/nhlL4DODqsI
 
 ## Pending questions
 
+> Can you make a video about [nim](https://nim-lang.org/)?
+
 > Can you make a backend job interview video?
 
 > What do you think about [Gatsby](https://www.gatsbyjs.org/docs/)?
