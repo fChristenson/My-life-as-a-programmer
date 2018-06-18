@@ -181,6 +181,8 @@ https://youtu.be/nhlL4DODqsI
 
 ## Pending questions
 
+> Should I start as a backend developer and then go in to frontend?
+
 > What makes a good frontend developer?
 
 > What do you think about [Blazor](https://github.com/aspnet/Blazor)?
