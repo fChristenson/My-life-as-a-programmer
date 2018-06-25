@@ -181,6 +181,8 @@ https://youtu.be/nhlL4DODqsI
 
 ## Pending questions
 
+> Has this channel affected your professional career positively? If yes in which ways?﻿
+
 > Should I start as a backend developer and then go in to frontend?
 
 > What makes a good frontend developer?
