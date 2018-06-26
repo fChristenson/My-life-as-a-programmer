@@ -181,6 +181,8 @@ https://youtu.be/nhlL4DODqsI
 
 ## Pending questions
 
+> Should we work with liquid layouts or breakpoints?
+
 > Has this channel affected your professional career positively? If yes in which ways?﻿
 
 > Should I start as a backend developer and then go in to frontend?
