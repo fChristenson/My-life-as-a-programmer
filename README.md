@@ -179,15 +179,23 @@ https://youtu.be/B3dnTmVkWz0
 
 https://youtu.be/nhlL4DODqsI
 
-## Pending questions
-
 > Should we work with liquid layouts or breakpoints?
 
-> Has this channel affected your professional career positively? If yes in which ways?﻿
+https://youtu.be/ONNl0SJLdUg
+
+> What makes a good frontend developer?
+
+https://youtu.be/RP6H-1wigmk
+
+> Has this channel affected your professional career positively? If yes in which ways?
+
+https://youtu.be/oY_EVjvy4jU
 
 > Should I start as a backend developer and then go in to frontend?
 
-> What makes a good frontend developer?
+https://youtu.be/qXBqaoWx8eQ
+
+## Pending questions
 
 > What do you think about [Blazor](https://github.com/aspnet/Blazor)?
 
