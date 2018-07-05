@@ -195,6 +195,10 @@ https://youtu.be/oY_EVjvy4jU
 
 https://youtu.be/qXBqaoWx8eQ
 
+> Can you make a video about the social aspects of programming?
+
+https://youtu.be/Df525rytE6w
+
 ## Pending questions
 
 > What do you think about [Blazor](https://github.com/aspnet/Blazor)?
