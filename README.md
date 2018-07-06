@@ -209,6 +209,10 @@ https://youtu.be/Df525rytE6w
 
 > What do you think about [Gatsby](https://www.gatsbyjs.org/docs/)?
 
+> Can you make a video about PWA's using [Phoenix](http://phoenixframework.org)?
+
+> Can you make a video about using React with [Laravel](https://laravel.com/)?
+
 ## Suggestions
 
 > Hold the camera in landscape mode
