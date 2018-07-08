@@ -201,6 +201,10 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> How do you work with agile development?
+
+> What is a feature story?
+
 > What do you think about [Blazor](https://github.com/aspnet/Blazor)?
 
 > Can you make a video about [nim](https://nim-lang.org/)?
