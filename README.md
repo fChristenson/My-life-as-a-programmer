@@ -201,6 +201,10 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> What are your favourite languages for backend API's?
+
+> What do you mean about adding value to get promoted?
+
 > Can you make a Php job interview video?
 
 > How do you work with agile development?
