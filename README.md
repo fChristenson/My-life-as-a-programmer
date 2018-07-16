@@ -201,6 +201,8 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> Can you make a video about coffee?
+
 > What are your favourite languages for backend API's?
 
 > What do you mean about adding value to get promoted?
