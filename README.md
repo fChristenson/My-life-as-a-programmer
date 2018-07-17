@@ -201,6 +201,8 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> What is a "rock star" programmer?
+
 > Can you make a video about coffee?
 
 > What are your favourite languages for backend API's?
