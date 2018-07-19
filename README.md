@@ -201,6 +201,8 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> Why do some companies require work experience from a junior?
+
 > What is a "rock star" programmer?
 
 > Can you make a video about coffee?
