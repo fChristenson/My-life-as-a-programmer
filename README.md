@@ -201,6 +201,8 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> How do you keep programmers motivated?
+
 > Why do some companies require work experience from a junior?
 
 > What is a "rock star" programmer?
