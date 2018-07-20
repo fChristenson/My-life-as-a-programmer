@@ -201,6 +201,8 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> How do I convince people to use software instead of manual processes?
+
 > How do you keep programmers motivated?
 
 > Why do some companies require work experience from a junior?
