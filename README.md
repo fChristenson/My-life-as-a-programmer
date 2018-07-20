@@ -201,6 +201,8 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> Help my job is making me obsolete! What can I do if my company doesn't use modern technology?
+
 > How do we prevent computer related injuries?
 
 > How do I convince people to use software instead of manual processes?
