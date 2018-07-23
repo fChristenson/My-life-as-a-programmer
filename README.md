@@ -201,6 +201,8 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> What are your thoughts on GraphQL and REST API's?
+
 > Help my job is making me obsolete! What can I do if my company doesn't use modern technology?
 
 > How do we prevent computer related injuries?
