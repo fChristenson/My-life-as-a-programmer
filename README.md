@@ -201,6 +201,8 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> It feels like there is too much to learn to be a professional programmer, I just want to build websites!
+
 > What are your thoughts on GraphQL and REST API's?
 
 > Help my job is making me obsolete! What can I do if my company doesn't use modern technology?
