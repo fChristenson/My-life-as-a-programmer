@@ -201,6 +201,8 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> Why TypeScript, why not use something like elm or purescript?
+
 > It feels like there is too much to learn to be a professional programmer, I just want to build websites!
 
 > What are your thoughts on GraphQL and REST API's?
