@@ -201,6 +201,10 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> How do we create an architecture for GDPR?
+
+> What about GDPR?
+
 > What determines a juniors salary level?
 
 > How much does age matter?
