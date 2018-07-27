@@ -201,6 +201,8 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> How much does age matter?
+
 > Is game development a good way to become a programmer?
 
 > Why TypeScript, why not use something like elm or purescript?
