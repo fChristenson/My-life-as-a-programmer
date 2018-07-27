@@ -201,6 +201,8 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> What determines a juniors salary level?
+
 > How much does age matter?
 
 > Is game development a good way to become a programmer?
