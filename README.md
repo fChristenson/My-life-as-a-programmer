@@ -201,6 +201,8 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> I am a Java developer, should I learn Go or Haskell?
+
 > How will WebAssembly changes JavaScript's status?
 
 > What about Dart?
