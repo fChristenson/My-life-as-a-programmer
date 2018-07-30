@@ -201,6 +201,8 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> How will WebAssembly changes JavaScript's status?
+
 > What about Dart?
 
 > How do we create an architecture for GDPR?
