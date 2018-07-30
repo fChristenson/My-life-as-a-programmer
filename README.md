@@ -201,6 +201,8 @@ https://youtu.be/Df525rytE6w
 
 ## Pending questions
 
+> What about Dart?
+
 > How do we create an architecture for GDPR?
 
 > What about GDPR?
