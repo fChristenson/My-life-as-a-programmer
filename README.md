@@ -239,6 +239,14 @@ https://youtu.be/rGuPSp-K44M
 
 https://youtu.be/zJg1kzkO-fk
 
+> What are your thoughts on GraphQL and REST API's?
+
+https://youtu.be/pfOQ42F48MY
+
+> What are your favourite languages for backend API's?
+
+https://youtu.be/kxKFGEC14-o
+
 ## Pending questions
 
 > I am a Java developer, should I learn Go or Haskell?
@@ -255,13 +263,9 @@ https://youtu.be/zJg1kzkO-fk
 
 > Why TypeScript, why not use something like elm or purescript?
 
-> What are your thoughts on GraphQL and REST API's?
-
 > What is a "rock star" programmer?
 
 > Can you make a video about coffee?
-
-> What are your favourite languages for backend API's?
 
 > What do you mean about adding value to get promoted?
 
