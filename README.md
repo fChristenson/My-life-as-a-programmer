@@ -199,6 +199,46 @@ https://youtu.be/qXBqaoWx8eQ
 
 https://youtu.be/Df525rytE6w
 
+> It feels like there is too much to learn to be a professional programmer, I just want to build websites!
+
+https://youtu.be/Mkv8qmMIr7g
+
+> How much does age matter?
+
+https://youtu.be/I0dS79Q6pOg
+
+> What is a feature story?
+
+https://youtu.be/wgBxUxkDBSo
+
+> How do you work with agile development?
+
+https://youtu.be/oslIH8ik1n4
+
+> How do you keep programmers motivated?
+
+https://youtu.be/-6qilim-wXU
+
+> How do we prevent computer related injuries?
+
+https://youtu.be/slC-Uh5IbHs
+
+> How do I convince people to use software instead of manual processes?
+
+https://youtu.be/3HIs6mXWljY
+
+> Why do some companies require work experience from a junior?
+
+https://youtu.be/rGuPSp-K44M
+
+> Is game development a good way to become a programmer?
+
+https://youtu.be/rGuPSp-K44M
+
+> Help my job is making me obsolete! What can I do if my company doesn't use modern technology?
+
+https://youtu.be/zJg1kzkO-fk
+
 ## Pending questions
 
 > I am a Java developer, should I learn Go or Haskell?
@@ -213,25 +253,9 @@ https://youtu.be/Df525rytE6w
 
 > What determines a juniors salary level?
 
-> How much does age matter?
-
-> Is game development a good way to become a programmer?
-
 > Why TypeScript, why not use something like elm or purescript?
 
-> It feels like there is too much to learn to be a professional programmer, I just want to build websites!
-
 > What are your thoughts on GraphQL and REST API's?
-
-> Help my job is making me obsolete! What can I do if my company doesn't use modern technology?
-
-> How do we prevent computer related injuries?
-
-> How do I convince people to use software instead of manual processes?
-
-> How do you keep programmers motivated?
-
-> Why do some companies require work experience from a junior?
 
 > What is a "rock star" programmer?
 
@@ -242,10 +266,6 @@ https://youtu.be/Df525rytE6w
 > What do you mean about adding value to get promoted?
 
 > Can you make a Php job interview video?
-
-> How do you work with agile development?
-
-> What is a feature story?
 
 > What do you think about [Blazor](https://github.com/aspnet/Blazor)?
 
