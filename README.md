@@ -251,7 +251,7 @@ https://youtu.be/kxKFGEC14-o
 
 > I am a Java developer, should I learn Go or Haskell?
 
-> How will WebAssembly changes JavaScript's status?
+> How will WebAssembly change JavaScript's status?
 
 > What about Dart?
 
