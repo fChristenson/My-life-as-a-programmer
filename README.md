@@ -249,6 +249,8 @@ https://youtu.be/kxKFGEC14-o
 
 ## Pending questions
 
+> What about website templates?
+
 > I am a Java developer, should I learn Go or Haskell?
 
 > How will WebAssembly change JavaScript's status?
