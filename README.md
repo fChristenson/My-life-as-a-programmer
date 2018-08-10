@@ -249,6 +249,8 @@ https://youtu.be/kxKFGEC14-o
 
 ## Pending questions
 
+> Is there a reason that jQuery is not as popular as it once was?
+
 > What about website templates?
 
 > I am a Java developer, should I learn Go or Haskell?
