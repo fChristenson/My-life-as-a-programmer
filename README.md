@@ -247,13 +247,15 @@ https://youtu.be/pfOQ42F48MY
 
 https://youtu.be/kxKFGEC14-o
 
+> Is there a reason that jQuery is not as popular as it once was?
+
+https://youtu.be/y3Uz-bAatlI
+
 ## Pending questions
 
 > Is it worth learning Wordpress theme development as a beginner?
 
 > Do JavaScript and Node frameworks like Vue, React, Express, KOA hinder JavaScript skill progression?
-
-> Is there a reason that jQuery is not as popular as it once was?
 
 > What about website templates?
 
