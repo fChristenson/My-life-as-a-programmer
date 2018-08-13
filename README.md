@@ -249,6 +249,8 @@ https://youtu.be/kxKFGEC14-o
 
 ## Pending questions
 
+> Is it worth learning Wordpress theme development as a beginner?
+
 > Do JavaScript and Node frameworks like Vue, React, Express, KOA hinder JavaScript skill progression?
 
 > Is there a reason that jQuery is not as popular as it once was?
