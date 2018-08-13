@@ -249,6 +249,8 @@ https://youtu.be/kxKFGEC14-o
 
 ## Pending questions
 
+> Do JavaScript and Node frameworks like Vue, React, Express, KOA hinder JavaScript skill progression?
+
 > Is there a reason that jQuery is not as popular as it once was?
 
 > What about website templates?
