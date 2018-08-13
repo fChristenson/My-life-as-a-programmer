@@ -253,6 +253,8 @@ https://youtu.be/y3Uz-bAatlI
 
 ## Pending questions
 
+> Is it better to get a degree from a bad school than being self taught?
+
 > Is it worth learning Wordpress theme development as a beginner?
 
 > Do JavaScript and Node frameworks like Vue, React, Express, KOA hinder JavaScript skill progression?
