@@ -253,6 +253,8 @@ https://youtu.be/y3Uz-bAatlI
 
 ## Pending questions
 
+> Should I learn the backend before mobile development?
+
 > Should I start with Python or Java?
 
 > How do I pick a database?
