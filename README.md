@@ -253,6 +253,8 @@ https://youtu.be/y3Uz-bAatlI
 
 ## Pending questions
 
+> Should I start with Python or Java?
+
 > How do I pick a database?
 
 > Is it better to get a degree from a bad school than being self taught?
