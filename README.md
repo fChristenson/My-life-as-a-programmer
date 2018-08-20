@@ -253,6 +253,8 @@ https://youtu.be/y3Uz-bAatlI
 
 ## Pending questions
 
+> Could you make a video about pair programming as a default setting?
+
 > How do we predict the most likely requirements changes?
 
 > Should I learn the backend before mobile development?
