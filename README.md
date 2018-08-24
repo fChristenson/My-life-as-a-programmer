@@ -253,6 +253,8 @@ https://youtu.be/y3Uz-bAatlI
 
 ## Pending questions
 
+> Can you make a video about React, Angular and Vue where you compare their strengths?
+
 > Could you make a video about pair programming as a default setting?
 
 > How do we predict the most likely requirements changes?
