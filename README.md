@@ -307,21 +307,25 @@ https://youtu.be/_fK2zgSR9kY
 
 https://youtu.be/a9X8Nla4mRs
 
+> Should I learn the backend before mobile development?
+
+https://youtu.be/1hLHnt9mJfg
+
+> Why TypeScript, why not use something like Elm or Purescript?
+
+https://youtu.be/vysZUYYb-cs
+
 ## Pending questions
 
 > Can you add a talk about average salaries by years and knowledge?
 
 > Can you make a video about React, Angular and Vue where you compare their strengths?
 
-> Should I learn the backend before mobile development?
-
 > Is it worth learning Wordpress theme development as a beginner?
 
 > How do we create an architecture for GDPR?
 
 > What determines a juniors salary level?
-
-> Why TypeScript, why not use something like elm or purescript?
 
 > Can you make a Php job interview video?
 
