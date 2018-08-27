@@ -317,6 +317,8 @@ https://youtu.be/vysZUYYb-cs
 
 ## Pending questions
 
+> Do you thinks that css and js are mature enough to do all vanilla?
+
 > Can you add a talk about average salaries by years and knowledge?
 
 > Can you make a video about React, Angular and Vue where you compare their strengths?
