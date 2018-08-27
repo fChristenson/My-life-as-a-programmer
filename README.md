@@ -251,47 +251,77 @@ https://youtu.be/kxKFGEC14-o
 
 https://youtu.be/y3Uz-bAatlI
 
-## Pending questions
+> What about Dart?
 
-> Can you make a video about React, Angular and Vue where you compare their strengths?
-
-> Could you make a video about pair programming as a default setting?
-
-> How do we predict the most likely requirements changes?
-
-> Should I learn the backend before mobile development?
-
-> Should I start with Python or Java?
-
-> How do I pick a database?
-
-> Is it better to get a degree from a bad school than being self taught?
-
-> Is it worth learning Wordpress theme development as a beginner?
-
-> Do JavaScript and Node frameworks like Vue, React, Express, KOA hinder JavaScript skill progression?
-
-> What about website templates?
+https://youtu.be/tw26xzqmOvw
 
 > I am a Java developer, should I learn Go or Haskell?
 
+https://youtu.be/MghDX6Ownck
+
 > How will WebAssembly change JavaScript's status?
 
-> What about Dart?
+https://youtu.be/PeIOCXRsl-0
 
-> How do we create an architecture for GDPR?
+> What is a rockstar programmer?
+
+https://youtu.be/mPieizvZfS4
+
+> Can you make a video about coffee?
+
+https://youtu.be/4S5btqLyyjc
+
+> What do you mean about adding value to get promoted?
+
+https://youtu.be/WVi5z_8szDs
+
+> What about website templates?
+
+https://youtu.be/qVXRD5H9-_s
+
+> Do JavaScript and Node frameworks like Vue, React, Express, KOA hinder JavaScript skill progression?
+
+https://youtu.be/zqpr9_-fOSY
+
+> Is it better to get a degree from a bad school than being self taught?
+
+https://youtu.be/2FsNZ5aiyBg
 
 > What about GDPR?
+
+https://youtu.be/N_abOlCFVHc
+
+> Should I start with Python or Java?
+
+https://youtu.be/eIK96Je9-QU
+
+> How do I pick a database?
+
+https://youtu.be/ok5opuk2YBk
+
+> Could you make a video about pair programming as a default setting?
+
+https://youtu.be/_fK2zgSR9kY
+
+> How do we predict the most likely requirements changes?
+
+https://youtu.be/a9X8Nla4mRs
+
+## Pending questions
+
+> Can you add a talk about average salaries by years and knowledge?
+
+> Can you make a video about React, Angular and Vue where you compare their strengths?
+
+> Should I learn the backend before mobile development?
+
+> Is it worth learning Wordpress theme development as a beginner?
+
+> How do we create an architecture for GDPR?
 
 > What determines a juniors salary level?
 
 > Why TypeScript, why not use something like elm or purescript?
-
-> What is a "rock star" programmer?
-
-> Can you make a video about coffee?
-
-> What do you mean about adding value to get promoted?
 
 > Can you make a Php job interview video?
 
