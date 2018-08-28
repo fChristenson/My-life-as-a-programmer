@@ -317,6 +317,8 @@ https://youtu.be/vysZUYYb-cs
 
 ## Pending questions
 
+> Is it ok to only focus on backend development?
+
 > Do you thinks that css and js are mature enough to do all vanilla?
 
 > Can you add a talk about average salaries by years and knowledge?
