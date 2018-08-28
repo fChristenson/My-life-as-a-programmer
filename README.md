@@ -317,6 +317,8 @@ https://youtu.be/vysZUYYb-cs
 
 ## Pending questions
 
+> Is pixel perfect a thing anymore?
+
 > Is it ok to only focus on backend development?
 
 > Do you thinks that css and js are mature enough to do all vanilla?
