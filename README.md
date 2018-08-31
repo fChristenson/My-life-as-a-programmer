@@ -317,6 +317,8 @@ https://youtu.be/vysZUYYb-cs
 
 ## Pending questions
 
+> What about Deno?
+
 > What was the reason your team decided to use React over vanilla JavaScript?
 
 > Is pixel perfect a thing anymore?
