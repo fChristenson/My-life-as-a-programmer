@@ -317,6 +317,8 @@ https://youtu.be/vysZUYYb-cs
 
 ## Pending questions
 
+> What about pug?
+
 > What is basic css in enterprise?
 
 > What about Deno?
