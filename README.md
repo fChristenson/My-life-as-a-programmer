@@ -317,6 +317,8 @@ https://youtu.be/vysZUYYb-cs
 
 ## Pending questions
 
+> Can I use Firebase instead of a real server?
+
 > What about pug?
 
 > What is basic css in enterprise?
