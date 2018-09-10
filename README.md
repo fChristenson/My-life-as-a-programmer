@@ -317,6 +317,8 @@ https://youtu.be/vysZUYYb-cs
 
 ## Pending questions
 
+> Can you make a video about deploying microservices with Kubernetes?
+
 > Can you make a video about Express API tokens with token refresh?
 
 > Can I use Firebase instead of a real server?
