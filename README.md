@@ -315,31 +315,43 @@ https://youtu.be/1hLHnt9mJfg
 
 https://youtu.be/vysZUYYb-cs
 
+> What about Golang?
+
+https://youtu.be/SLrljBpAQag
+
+> Can I use Firebase instead of a real server?
+
+https://youtu.be/wkUL8nokFc0
+
+> Do you thinks that css and js are mature enough to do all vanilla?
+
+https://youtu.be/UcjZs2ah8Jc
+
+> Is it ok to only focus on backend development?
+
+https://youtu.be/6cMjHbhaWNU
+
+> Is pixel perfect a thing anymore?
+
+https://youtu.be/L6GiuEk5txM
+
+> What is basic css in enterprise?
+
+https://youtu.be/TVX2kUOhBOA
+
+> What was the reason your team decided to use React over vanilla JavaScript?
+
+https://youtu.be/glEU77OiGJM
+
 ## Pending questions
 
 > Can you make a tutorial about BEM?
-
-> What about Golang?
 
 > Can you make a video about deploying microservices with Kubernetes?
 
 > Can you make a video about Express API tokens with token refresh?
 
-> Can I use Firebase instead of a real server?
-
-> What about pug?
-
-> What is basic css in enterprise?
-
 > What about Deno?
-
-> What was the reason your team decided to use React over vanilla JavaScript?
-
-> Is pixel perfect a thing anymore?
-
-> Is it ok to only focus on backend development?
-
-> Do you thinks that css and js are mature enough to do all vanilla?
 
 > Can you add a talk about average salaries by years and knowledge?
 
