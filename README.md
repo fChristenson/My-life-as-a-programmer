@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> How will worker threads in JavaScript affect languages like Go?
+
 > Can you make a tutorial about BEM?
 
 > Can you make a video about deploying microservices with Kubernetes?
