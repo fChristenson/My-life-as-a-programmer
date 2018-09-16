@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> Java has started to move, how do I keep up?
+
 > How will worker threads in JavaScript affect languages like Go?
 
 > Can you make a tutorial about BEM?
