@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> Could we learn higher coding by using github?
+
 > Can you make a tutorial about [Adonis.js](https://adonisjs.com/)?
 
 > Java has started to move, how do I keep up?
