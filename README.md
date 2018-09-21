@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> What in your opinion is a mid level web development project?
+
 > Could we learn higher coding by using github?
 
 > Can you make a tutorial about [Adonis.js](https://adonisjs.com/)?
