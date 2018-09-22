@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> TypeScript vs Go?
+
 > Can you make a series using TypeScript and React?
 
 > What in your opinion is a mid level web development project?
