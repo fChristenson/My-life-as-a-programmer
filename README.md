@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> Can you make a series using TypeScript and React?
+
 > What in your opinion is a mid level web development project?
 
 > Could we learn higher coding by using github?
