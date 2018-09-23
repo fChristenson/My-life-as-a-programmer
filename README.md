@@ -345,6 +345,14 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> What is a proxy?
+
+> What is the network tab in Chrome?
+
+> What is the performance tab in Chrome?
+
+> What is the JavaScript profile in Chrome?
+
 > TypeScript vs Go?
 
 > Can you make a series using TypeScript and React?
