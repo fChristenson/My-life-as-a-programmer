@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> Why Express and not Sails or Adonis?
+
 > What is a proxy?
 
 > What is the network tab in Chrome?
