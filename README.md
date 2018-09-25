@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> How do I get better with React?
+
 > Why Express and not Sails or Adonis?
 
 > What is a proxy?
