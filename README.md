@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> Can you make a video about what roadmap to follow in order to become a fullstack JavaScript developer?
+
 > Can you make a video where you compare a application built using FP and OOP?
 
 > How do I get better with React?
