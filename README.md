@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> What is npm ci?
+
 > Can you make a video about enterprise Java?
 
 > Can you make a video about what roadmap to follow in order to become a fullstack JavaScript developer?
