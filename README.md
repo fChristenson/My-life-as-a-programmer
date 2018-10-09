@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> How do I get better at Webpack, Babel, Npm and version control?
+
 > What is npm ci?
 
 > Can you make a video about enterprise Java?
