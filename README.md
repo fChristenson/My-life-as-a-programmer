@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> How do you build a Chrome extension with Vue.js?
+
 > What is the difference between http and http2?
 
 > How do I get better at Webpack, Babel, Npm and version control?
