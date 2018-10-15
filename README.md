@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> Can you make a video about beer?
+
 > What is heap memory?
 
 > How do you build a Chrome extension with Vue.js?
