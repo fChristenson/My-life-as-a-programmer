@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> Can you compare a relational database with MongoDB and focus on data integrity (transactions)?
+
 > Can you make a video about beer?
 
 > What is heap memory?
