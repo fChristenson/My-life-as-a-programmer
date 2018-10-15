@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> What is heap memory?
+
 > How do you build a Chrome extension with Vue.js?
 
 > What is the difference between http and http2?
