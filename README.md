@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> Why did Microsoft get in to open source?
+
 > Can you compare a relational database with MongoDB and focus on data integrity (transactions)?
 
 > Can you make a video about beer?
