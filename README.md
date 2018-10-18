@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> Can you make a video about using Microdata?
+
 > What about the picture element?
 
 > Why did Microsoft get in to open source?
