@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> What about the picture element?
+
 > Why did Microsoft get in to open source?
 
 > Can you compare a relational database with MongoDB and focus on data integrity (transactions)?
