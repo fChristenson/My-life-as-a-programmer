@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> Can a solution architect become a software developer?
+
 > Can you make a video about using Microdata?
 
 > What about the picture element?
