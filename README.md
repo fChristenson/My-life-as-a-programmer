@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> Should I migrate Jquery to standard JavaScript?
+
 > Can a solution architect become a software developer?
 
 > Can you make a video about using Microdata?
