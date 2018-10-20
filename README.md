@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> Is redux still relevant?
+
 > Should I migrate Jquery to standard JavaScript?
 
 > Can a solution architect become a software developer?
