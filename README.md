@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> What about CEO with no programming skills?
+
 > Is redux still relevant?
 
 > Should I migrate Jquery to standard JavaScript?
