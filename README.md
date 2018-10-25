@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> What about online degrees?
+
 > What about CEO with no programming skills?
 
 > Is redux still relevant?
