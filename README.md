@@ -345,6 +345,8 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> What's the point of consuming REST api's on the server?
+
 > What about online degrees?
 
 > What about CEO with no programming skills?
