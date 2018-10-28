@@ -345,6 +345,10 @@ https://youtu.be/glEU77OiGJM
 
 ## Pending questions
 
+> Is fullstack harder than mobile development?
+
+> Does knowing fullstack development make mobile development easier?
+
 > What's the point of consuming REST api's on the server?
 
 > What about online degrees?
