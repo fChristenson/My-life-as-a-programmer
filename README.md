@@ -343,6 +343,66 @@ https://youtu.be/TVX2kUOhBOA
 
 https://youtu.be/glEU77OiGJM
 
+> Is redux still relevant?
+
+https://youtu.be/8DGRV-f9soY
+
+> What about CEO with no programming skills?
+
+https://youtu.be/SJfz2h1SOtI
+
+> Should I migrate Jquery to standard JavaScript?
+
+https://youtu.be/8HKjh497nZg
+
+> Why did Microsoft get in to open source?
+
+https://youtu.be/-Xfxs-iSbdE
+
+> What is npm ci?
+
+https://youtu.be/JeK_d7KpulQ
+
+> How do I get better at Webpack, Babel, Npm and version control?
+
+https://youtu.be/Z0IFrptov0c
+
+> How do I get better with React?
+
+https://youtu.be/cZ7IrlEa9F0
+
+> Why Express and not Sails or Adonis?
+
+https://youtu.be/5yijzelsXb0
+
+> TypeScript vs Go?
+
+https://youtu.be/DmGsExNuzrc
+
+> What in your opinion is a mid level web development project?
+
+https://youtu.be/TtBWJVH_uKA
+
+> Could we learn higher coding by using github?
+
+https://youtu.be/r6owWnwkttY
+
+> How will worker threads in JavaScript affect languages like Go?
+
+https://youtu.be/zO7LT2UHOUg
+
+> Java has started to move, how do I keep up?
+
+https://youtu.be/xZaXQfjfLAI
+
+> What determines a juniors salary level?
+
+https://youtu.be/MUq4A6ZzqYg
+
+> Is it worth learning Wordpress theme development as a beginner?
+
+https://youtu.be/7XpHKsyHlgQ
+
 ## Pending questions
 
 > Is fullstack harder than mobile development?
@@ -353,33 +413,23 @@ https://youtu.be/glEU77OiGJM
 
 > What about online degrees?
 
-> What about CEO with no programming skills?
-
-> Is redux still relevant?
-
-> Should I migrate Jquery to standard JavaScript?
-
 > Can a solution architect become a software developer?
-
-> Can you make a video about using Microdata?
-
-> What about the picture element?
-
-> Why did Microsoft get in to open source?
-
-> Can you compare a relational database with MongoDB and focus on data integrity (transactions)?
 
 > Can you make a video about beer?
 
 > What is heap memory?
 
-> How do you build a Chrome extension with Vue.js?
-
 > What is the difference between http and http2?
 
-> How do I get better at Webpack, Babel, Npm and version control?
+> What about Deno?
 
-> What is npm ci?
+## Pending tutorials
+
+> Can you make a video about using Microdata?
+
+> Can you compare a relational database with MongoDB and focus on data integrity (transactions)?
+
+> How do you build a Chrome extension with Vue.js?
 
 > Can you make a video about enterprise Java?
 
@@ -387,31 +437,9 @@ https://youtu.be/glEU77OiGJM
 
 > Can you make a video where you compare a application built using FP and OOP?
 
-> How do I get better with React?
-
-> Why Express and not Sails or Adonis?
-
-> What is a proxy?
-
-> What is the network tab in Chrome?
-
-> What is the performance tab in Chrome?
-
-> What is the JavaScript profile in Chrome?
-
-> TypeScript vs Go?
-
 > Can you make a series using TypeScript and React?
 
-> What in your opinion is a mid level web development project?
-
-> Could we learn higher coding by using github?
-
 > Can you make a tutorial about [Adonis.js](https://adonisjs.com/)?
-
-> Java has started to move, how do I keep up?
-
-> How will worker threads in JavaScript affect languages like Go?
 
 > Can you make a tutorial about BEM?
 
@@ -419,21 +447,11 @@ https://youtu.be/glEU77OiGJM
 
 > Can you make a video about Express API tokens with token refresh?
 
-> What about Deno?
-
-> Can you add a talk about average salaries by years and knowledge?
-
 > Can you make a video about React, Angular and Vue where you compare their strengths?
-
-> Is it worth learning Wordpress theme development as a beginner?
 
 > How do we create an architecture for GDPR?
 
-> What determines a juniors salary level?
-
 > Can you make a Php job interview video?
-
-> What do you think about [Blazor](https://github.com/aspnet/Blazor)?
 
 > Can you make a video about [nim](https://nim-lang.org/)?
 
