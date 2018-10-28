@@ -405,6 +405,8 @@ https://youtu.be/7XpHKsyHlgQ
 
 ## Pending questions
 
+> Can Web assembly replace JavaScript?
+
 > Is fullstack harder than mobile development?
 
 > Does knowing fullstack development make mobile development easier?
