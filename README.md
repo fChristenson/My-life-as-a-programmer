@@ -427,6 +427,8 @@ https://youtu.be/7XpHKsyHlgQ
 
 ## Pending tutorials
 
+> Can you make a video about loading fonts?
+
 > Can you make a video about using Microdata?
 
 > Can you compare a relational database with MongoDB and focus on data integrity (transactions)?
