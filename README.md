@@ -409,6 +409,8 @@ https://youtu.be/eKAu2WAZTRY
 
 ## Pending questions
 
+> What is shadow DOM?
+
 > Also, are the junior job opportunities more plentiful for developers who use .NET as opposed to Java?
 
 > Is C#, quicker to learn than Java?
