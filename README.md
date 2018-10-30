@@ -409,6 +409,10 @@ https://youtu.be/eKAu2WAZTRY
 
 ## Pending questions
 
+> Also, are the junior job opportunities more plentiful for developers who use .NET as opposed to Java?
+
+> Is C#, quicker to learn than Java?
+
 > Is fullstack harder than mobile development?
 
 > Does knowing fullstack development make mobile development easier?
