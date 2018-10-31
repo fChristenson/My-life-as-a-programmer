@@ -409,6 +409,8 @@ https://youtu.be/eKAu2WAZTRY
 
 ## Pending questions
 
+> Do idealists make better computer scientists than programmers and engineers, or does that field also require more flexibility?
+
 > What is shadow DOM?
 
 > Also, are the junior job opportunities more plentiful for developers who use .NET as opposed to Java?
