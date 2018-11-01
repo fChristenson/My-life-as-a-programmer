@@ -407,6 +407,18 @@ https://youtu.be/7XpHKsyHlgQ
 
 https://youtu.be/eKAu2WAZTRY
 
+> Is fullstack harder than mobile development?
+
+https://youtu.be/BxzDTlHIHFE
+
+> What's the point of consuming REST api's on the server?
+
+https://youtu.be/6XkxmFgDOg0
+
+> What about online degrees?
+
+https://youtu.be/D-YceIjXHLY
+
 ## Pending questions
 
 > Do idealists make better computer scientists than programmers and engineers, or does that field also require more flexibility?
@@ -417,13 +429,7 @@ https://youtu.be/eKAu2WAZTRY
 
 > Is C#, quicker to learn than Java?
 
-> Is fullstack harder than mobile development?
-
 > Does knowing fullstack development make mobile development easier?
-
-> What's the point of consuming REST api's on the server?
-
-> What about online degrees?
 
 > Can a solution architect become a software developer?
 
