@@ -419,19 +419,27 @@ https://youtu.be/6XkxmFgDOg0
 
 https://youtu.be/D-YceIjXHLY
 
-## Pending questions
+> Can a solution architect become a software developer?
+
+https://youtu.be/OxKnxs6seKM
 
 > Do idealists make better computer scientists than programmers and engineers, or does that field also require more flexibility?
 
-> What is shadow DOM?
+https://youtu.be/MdFDxB153I4
 
-> Also, are the junior job opportunities more plentiful for developers who use .NET as opposed to Java?
+## Pending questions
+
+> When should you use serverless?
+
+> Which database would you suggest for Social Media data?
+
+> Is there any way to sharpen your mind outside of code in order to help you code more efficiently?
+
+> Should we use frameworks if since they limit us?
 
 > Is C#, quicker to learn than Java?
 
 > Does knowing fullstack development make mobile development easier?
-
-> Can a solution architect become a software developer?
 
 > Can you make a video about beer?
 
@@ -442,8 +450,6 @@ https://youtu.be/D-YceIjXHLY
 > What about Deno?
 
 ## Pending tutorials
-
-> Which database would you suggest for Social Media data?
 
 > Can you make a video about loading fonts?
 
