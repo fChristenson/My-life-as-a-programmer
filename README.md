@@ -427,19 +427,23 @@ https://youtu.be/OxKnxs6seKM
 
 https://youtu.be/MdFDxB153I4
 
-## Pending questions
+> Does knowing fullstack development make mobile development easier?
+
+https://youtu.be/e_DqFdftw8I
 
 > When should you use serverless?
+
+https://youtu.be/EdSoBbQFL9c
+
+## Pending questions
 
 > Which database would you suggest for Social Media data?
 
 > Is there any way to sharpen your mind outside of code in order to help you code more efficiently?
 
-> Should we use frameworks if since they limit us?
+> Should we use frameworks since they limit us?
 
 > Is C#, quicker to learn than Java?
-
-> Does knowing fullstack development make mobile development easier?
 
 > Can you make a video about beer?
 
