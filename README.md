@@ -437,6 +437,8 @@ https://youtu.be/EdSoBbQFL9c
 
 ## Pending questions
 
+> BEM vs SMACCS?
+
 > What about utility classes first in css?
 
 > Which database would you suggest for Social Media data?
