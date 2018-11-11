@@ -437,6 +437,8 @@ https://youtu.be/EdSoBbQFL9c
 
 ## Pending questions
 
+> What about utility classes first in css?
+
 > Which database would you suggest for Social Media data?
 
 > Is there any way to sharpen your mind outside of code in order to help you code more efficiently?
