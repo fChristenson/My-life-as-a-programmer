@@ -455,6 +455,8 @@ https://youtu.be/EdSoBbQFL9c
 
 ## Pending tutorials
 
+> Can you make a series on Chrome tools?
+
 > Can you make a video about loading fonts?
 
 > Can you make a video about using Microdata?
