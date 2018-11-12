@@ -459,6 +459,10 @@ https://youtu.be/EdSoBbQFL9c
 
 ## Pending tutorials
 
+> Can you make a video about [apollo-link-state](https://www.apollographql.com/docs/link/links/state.html)?
+
+> Can you make a video about [apollo-link-rest](https://www.apollographql.com/docs/link/links/rest.html)?
+
 > Can you make a video about utility class css?
 
 > Can you make a series on Chrome tools?
