@@ -435,17 +435,25 @@ https://youtu.be/e_DqFdftw8I
 
 https://youtu.be/EdSoBbQFL9c
 
-## Pending questions
+> Is there any way to sharpen your mind outside of code in order to help you code more efficiently?
 
-> BEM vs SMACCS?
-
-> What about utility classes first in css?
+https://youtu.be/y9faiK9-hd4
 
 > Which database would you suggest for Social Media data?
 
-> Is there any way to sharpen your mind outside of code in order to help you code more efficiently?
+https://youtu.be/GmCF_vLPZmg
 
 > Should we use frameworks since they limit us?
+
+https://youtu.be/f0CaBe84LHw
+
+> What about utility classes first in css?
+
+https://youtu.be/VnR0zH962S8
+
+## Pending questions
+
+> BEM vs SMACSS?
 
 > Is C#, quicker to learn than Java?
 
