@@ -453,6 +453,10 @@ https://youtu.be/VnR0zH962S8
 
 ## Pending questions
 
+> how much longer do you see React/Redux as relevant frameworks?
+
+> Should I learn any frameworks alongside React/Redux to be ready for a shift in trends?
+
 > BEM vs SMACSS?
 
 > Is C#, quicker to learn than Java?
