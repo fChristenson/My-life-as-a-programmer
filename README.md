@@ -453,6 +453,8 @@ https://youtu.be/VnR0zH962S8
 
 ## Pending questions
 
+> What about Vue?
+
 > Server side rendering React vs native rendering?
 
 > Why don't big ecommerce companies really use React?
