@@ -453,6 +453,8 @@ https://youtu.be/VnR0zH962S8
 
 ## Pending questions
 
+> Why don't big ecommerce companies really use React?
+
 > Is there any code language that will ever be completely obsolete?
 
 > how much longer do you see React/Redux as relevant frameworks?
