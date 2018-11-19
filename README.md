@@ -477,6 +477,8 @@ https://youtu.be/VnR0zH962S8
 
 ## Pending tutorials
 
+> Can you make a video about comparing server side rendered React vs client side rendering?
+
 > Can you make a video about [apollo-link-state](https://www.apollographql.com/docs/link/links/state.html)?
 
 > Can you make a video about [apollo-link-rest](https://www.apollographql.com/docs/link/links/rest.html)?
