@@ -453,6 +453,8 @@ https://youtu.be/VnR0zH962S8
 
 ## Pending questions
 
+> How valuable for a cv are freelance and non-profit work in contrast to salaried positions?
+
 > What would you consider to be missing in order for Vanilla to be a valid option?
 
 > What about Vue?
