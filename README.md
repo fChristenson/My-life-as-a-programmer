@@ -453,6 +453,8 @@ https://youtu.be/VnR0zH962S8
 
 ## Pending questions
 
+> Why would a company like Google or Facebook invest so heavily in creating, maintaining and aggressively marketing open source products?
+
 > How valuable for a cv are freelance and non-profit work in contrast to salaried positions?
 
 > What would you consider to be missing in order for Vanilla to be a valid option?
