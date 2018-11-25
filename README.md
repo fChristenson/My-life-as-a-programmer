@@ -453,6 +453,8 @@ https://youtu.be/VnR0zH962S8
 
 ## Pending questions
 
+> I want to work with unpopular tech and techiques, am I weird?
+
 > Why would a company like Google or Facebook invest so heavily in creating, maintaining and aggressively marketing open source products?
 
 > How valuable for a cv are freelance and non-profit work in contrast to salaried positions?
