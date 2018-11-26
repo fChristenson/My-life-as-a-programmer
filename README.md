@@ -453,6 +453,8 @@ https://youtu.be/VnR0zH962S8
 
 ## Pending questions
 
+> Should I learn Ruby after Node?
+
 > I am the only frontend developer and I have no one to learn from, what should I do?
 
 > I want to work with unpopular tech and techiques, am I weird?
