@@ -453,6 +453,8 @@ https://youtu.be/VnR0zH962S8
 
 ## Pending questions
 
+> What to use, require or import?
+
 > Can you talk about the security of Javascript. Is it secure like php or other languages? Node security!
 
 > Should I learn Ruby after Node?
