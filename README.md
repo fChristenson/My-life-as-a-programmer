@@ -451,39 +451,59 @@ https://youtu.be/f0CaBe84LHw
 
 https://youtu.be/VnR0zH962S8
 
+> What to use, require or import?
+
+https://youtu.be/Art-zLn4MY0
+
+> How valuable for a cv are freelance and non-profit work in contrast to salaried positions?
+
+https://youtu.be/I1vqzZe2u14
+
+> I want to work with unpopular tech and techiques, am I weird?
+
+https://youtu.be/tLXUoX4tz9c
+
+> I am the only frontend developer and I have no one to learn from, what should I do?
+
+https://youtu.be/9XReYJDTZPA
+
+> What would you consider to be missing in order for Vanilla to be a valid option?
+
+https://youtu.be/jaJNnuoVIuA
+
+> Should I learn any frameworks alongside React/Redux to be ready for a shift in trends?
+
+https://youtu.be/TBfoxyuekHI
+
+> How much longer do you see React/Redux as relevant frameworks?
+
+https://youtu.be/jWBLPHjTBeY
+
+> Why don't big ecommerce companies really use React?
+
+https://youtu.be/5oTVvBlWvNs
+
+> Is C#, quicker to learn than Java?
+
+https://youtu.be/yxV66gWgRNY
+
+> Why would a company like Google or Facebook invest so heavily in creating, maintaining and aggressively marketing open source products?
+
+https://youtu.be/EIQ56SRRm0c
+
 ## Pending questions
 
-> What to use, require or import?
+> What does it mean to be a small language?
 
 > Can you talk about the security of Javascript. Is it secure like php or other languages? Node security!
 
 > Should I learn Ruby after Node?
 
-> I am the only frontend developer and I have no one to learn from, what should I do?
-
-> I want to work with unpopular tech and techiques, am I weird?
-
-> Why would a company like Google or Facebook invest so heavily in creating, maintaining and aggressively marketing open source products?
-
-> How valuable for a cv are freelance and non-profit work in contrast to salaried positions?
-
-> What would you consider to be missing in order for Vanilla to be a valid option?
-
 > What about Vue?
-
-> Server side rendering React vs native rendering?
-
-> Why don't big ecommerce companies really use React?
 
 > Is there any code language that will ever be completely obsolete?
 
-> how much longer do you see React/Redux as relevant frameworks?
-
-> Should I learn any frameworks alongside React/Redux to be ready for a shift in trends?
-
 > BEM vs SMACSS?
-
-> Is C#, quicker to learn than Java?
 
 > Can you make a video about beer?
 
@@ -492,6 +512,12 @@ https://youtu.be/VnR0zH962S8
 > What is the difference between http and http2?
 
 > What about Deno?
+
+## Tutorials
+
+> Can you make a tutorial about BEM?
+
+https://youtu.be/Kfi7c4qvF6E
 
 ## Pending tutorials
 
@@ -522,8 +548,6 @@ https://youtu.be/VnR0zH962S8
 > Can you make a series using TypeScript and React?
 
 > Can you make a tutorial about [Adonis.js](https://adonisjs.com/)?
-
-> Can you make a tutorial about BEM?
 
 > Can you make a video about deploying microservices with Kubernetes?
 
