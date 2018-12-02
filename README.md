@@ -493,6 +493,10 @@ https://youtu.be/EIQ56SRRm0c
 
 ## Pending questions
 
+> Should I work for a small or large company?
+
+> What do you think about a small team versus a big team?
+
 > What does it mean to be a small language?
 
 > Can you talk about the security of Javascript. Is it secure like php or other languages? Node security!
