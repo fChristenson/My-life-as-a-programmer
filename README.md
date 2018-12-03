@@ -493,6 +493,8 @@ https://youtu.be/EIQ56SRRm0c
 
 ## Pending questions
 
+> Is it worth learning React native?
+
 > When do I use the state and when do I use the store?
 
 > what kind data should be saved in redux store?
