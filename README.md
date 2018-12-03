@@ -493,6 +493,8 @@ https://youtu.be/EIQ56SRRm0c
 
 ## Pending questions
 
+> When do I use the state and when do I use the store?
+
 > what kind data should be saved in redux store?
 
 > Should I work for a small or large company?
