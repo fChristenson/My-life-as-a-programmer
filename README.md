@@ -493,6 +493,8 @@ https://youtu.be/EIQ56SRRm0c
 
 ## Pending questions
 
+> what kind data should be saved in redux store?
+
 > Should I work for a small or large company?
 
 > What do you think about a small team versus a big team?
