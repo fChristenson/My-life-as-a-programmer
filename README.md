@@ -531,6 +531,8 @@ https://youtu.be/Kfi7c4qvF6E
 
 ## Pending tutorials
 
+> Can you make a video about Associate Arrays in JavaScript?
+
 > Can you make a video about comparing server side rendered React vs client side rendering?
 
 > Can you make a video about [apollo-link-state](https://www.apollographql.com/docs/link/links/state.html)?
