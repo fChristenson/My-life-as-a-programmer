@@ -533,6 +533,8 @@ https://youtu.be/Kfi7c4qvF6E
 
 ## Pending tutorials
 
+> Give examples of a few questions you are expecting mid-senior developer to know about React?
+
 > Can you make a video about Associate Arrays in JavaScript?
 
 > Can you make a video about comparing server side rendered React vs client side rendering?
