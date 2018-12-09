@@ -491,29 +491,39 @@ https://youtu.be/yxV66gWgRNY
 
 https://youtu.be/EIQ56SRRm0c
 
+> When do I use the state and when do I use the store?
+
+https://youtu.be/7z4iXyhikws
+
+> Should I work for a small or large company?
+
+https://youtu.be/kSirn_2mf6U
+
+> What do you think about a small team versus a big team?
+
+https://youtu.be/Yxvjidw0f2U
+
+> What does it mean to be a small language?
+
+https://youtu.be/jFHW46Jih1A
+
+> Can you talk about the security of Javascript. Is it secure like php or other languages? Node security!
+
+https://youtu.be/Y8BAsrOxdIs
+
+> Is there any code language that will ever be completely obsolete?
+
+https://youtu.be/W8b-Gm0JJ3g
+
 ## Pending questions
 
 > How do you avoid burnouts as a programmer?
 
 > Is it worth learning React native?
 
-> When do I use the state and when do I use the store?
-
-> what kind data should be saved in redux store?
-
-> Should I work for a small or large company?
-
-> What do you think about a small team versus a big team?
-
-> What does it mean to be a small language?
-
-> Can you talk about the security of Javascript. Is it secure like php or other languages? Node security!
-
 > Should I learn Ruby after Node?
 
 > What about Vue?
-
-> Is there any code language that will ever be completely obsolete?
 
 > BEM vs SMACSS?
 
@@ -531,9 +541,11 @@ https://youtu.be/EIQ56SRRm0c
 
 https://youtu.be/Kfi7c4qvF6E
 
-## Pending tutorials
-
 > Can you make a video about MVC?
+
+https://youtu.be/nSZ3zc6TFB4
+
+## Pending tutorials
 
 > Give examples of a few questions you are expecting mid-senior developer to know about React?
 
