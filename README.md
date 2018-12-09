@@ -545,13 +545,21 @@ https://youtu.be/Kfi7c4qvF6E
 
 https://youtu.be/nSZ3zc6TFB4
 
-## Pending tutorials
-
 > Give examples of a few questions you are expecting mid-senior developer to know about React?
 
-> Can you make a video about Associate Arrays in JavaScript?
+https://youtu.be/tiOkArbHnqY
 
 > Can you make a video about comparing server side rendered React vs client side rendering?
+
+https://youtu.be/ktBQjQ8DwGg
+
+> Can you make a video about what roadmap to follow in order to become a fullstack JavaScript developer?
+
+https://youtu.be/ke8P0ZdStDc
+
+## Pending tutorials
+
+> Can you make a video about Associate Arrays in JavaScript?
 
 > Can you make a video about [apollo-link-state](https://www.apollographql.com/docs/link/links/state.html)?
 
@@ -570,8 +578,6 @@ https://youtu.be/nSZ3zc6TFB4
 > How do you build a Chrome extension with Vue.js?
 
 > Can you make a video about enterprise Java?
-
-> Can you make a video about what roadmap to follow in order to become a fullstack JavaScript developer?
 
 > Can you make a video where you compare a application built using FP and OOP?
 
