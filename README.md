@@ -559,6 +559,8 @@ https://youtu.be/ke8P0ZdStDc
 
 ## Pending tutorials
 
+> Can you create the video about the deployment process of this MicroServices?
+
 > Can you make a video about Associate Arrays in JavaScript?
 
 > Can you make a video about [apollo-link-state](https://www.apollographql.com/docs/link/links/state.html)?
