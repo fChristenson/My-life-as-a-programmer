@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Can you do a video about the practical value of adding additional languages to your skillset?
+
 > How do you avoid burnouts as a programmer?
 
 > What about Vue?
