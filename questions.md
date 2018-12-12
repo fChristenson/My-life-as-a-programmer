@@ -515,3 +515,7 @@ https://youtu.be/QI4MBCkOOD0
 > Should I learn Ruby after Node?
 
 https://youtu.be/KrKaScK_6Ls
+
+> BEM vs SMACSS?
+
+https://youtu.be/nGhhXHzmecw
