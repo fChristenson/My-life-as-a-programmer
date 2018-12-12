@@ -519,3 +519,7 @@ https://youtu.be/KrKaScK_6Ls
 > BEM vs SMACSS?
 
 https://youtu.be/nGhhXHzmecw
+
+> How do you avoid burnouts as a programmer?
+
+https://youtu.be/qpVljZ-FcNI
