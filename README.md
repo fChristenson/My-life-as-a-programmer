@@ -17,8 +17,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What about Vue?
 
-> BEM vs SMACSS?
-
 > Can you make a video about beer?
 
 > What is heap memory?
