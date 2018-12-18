@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What technologies are considered server side rendering?
+
 > Can you do a video about the practical value of adding additional languages to your skillset?
 
 > What about Vue?
