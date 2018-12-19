@@ -11,6 +11,20 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What is your secret to writing beautiful code?
+
+> What does Javascript do?
+
+> What coding languages can help you get a job the fastest?
+
+> Do you see yourself in the top 3 at your company, in terms of skills?
+
+> What are the bad habits to avoid as a computer programmer?
+
+> Is computer programing more important than sports?
+
+> Is it still worth to build desktop applications?
+
 > Why don't any YouTubers talk about server side rendering?
 
 > What technologies are considered server side rendering?
@@ -19,13 +33,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What about Vue?
 
-> Can you make a video about beer?
-
 > What is heap memory?
 
 > What is the difference between http and http2?
-
-> What about Deno?
 
 ## Pending tutorials
 
