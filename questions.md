@@ -523,3 +523,12 @@ https://youtu.be/nGhhXHzmecw
 > How do you avoid burnouts as a programmer?
 
 https://youtu.be/qpVljZ-FcNI
+
+> Can you make a video about beer?
+
+https://youtu.be/7IQRg13IkYQ
+
+> What about Deno?
+
+https://youtu.be/xWlLfZQMhbA
+
