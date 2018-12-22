@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What is the average ratio of front end to back end devs in the industry?
+
 > What is your secret to writing beautiful code?
 
 > What does Javascript do?
