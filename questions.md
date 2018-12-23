@@ -548,3 +548,11 @@ https://youtu.be/9LuqVAN_fOo
 
 https://youtu.be/3hyB7TCRhng
 
+> What is heap memory?
+
+https://youtu.be/zmkOiQJcrUk
+
+> Can you do a video about the practical value of adding additional languages to your skillset?
+
+https://youtu.be/plBSF9jGSAA
+
