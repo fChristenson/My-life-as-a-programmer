@@ -13,12 +13,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What is the average ratio of front end to back end devs in the industry?
 
-> What is your secret to writing beautiful code?
-
-> What does Javascript do?
-
-> What coding languages can help you get a job the fastest?
-
 > Do you see yourself in the top 3 at your company, in terms of skills?
 
 > What are the bad habits to avoid as a computer programmer?
@@ -27,15 +21,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Is it still worth to build desktop applications?
 
-> Why don't any YouTubers talk about server side rendering?
-
-> What technologies are considered server side rendering?
-
-> Can you do a video about the practical value of adding additional languages to your skillset?
-
 > What about Vue?
-
-> What is heap memory?
 
 > What is the difference between http and http2?
 
