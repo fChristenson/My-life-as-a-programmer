@@ -11,6 +11,30 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> As a software engineer do quick deadlines challenge you to bring your A game forward, or does it puts you under pressure?
+
+> As a software engineer how important is it to be self critical?
+
+> What is the most important thing a beginner should know to become a good programmer?
+
+> What programming fads have you seen rise and then die out?
+
+> When is building a progressive web app (PWA) a good idea?
+
+> Why do programming languages have frameworks rather than just putting all these features directly in the language?
+
+> Why is AngularJS and ReactJS free?
+
+> Have you ever used your programming knowledge to prank someone?
+
+> What is CSS and what's its purpose?
+
+> Is it possible to use sessions without cookies?
+
+> What are the differences between SQL and JSON?
+
+> What do frameworks like Express do?
+
 > What is the average ratio of front end to back end devs in the industry?
 
 > Do you see yourself in the top 3 at your company, in terms of skills?
