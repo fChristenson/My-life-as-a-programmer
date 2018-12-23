@@ -532,3 +532,19 @@ https://youtu.be/7IQRg13IkYQ
 
 https://youtu.be/xWlLfZQMhbA
 
+> What coding languages can help you get a job the fastest?
+
+https://youtu.be/Dm1KRTmVf4w
+
+> What does Javascript do?
+
+https://youtu.be/JypRBB3rtoM
+
+> What is your secret to writing beautiful code?
+
+https://youtu.be/9LuqVAN_fOo
+
+> Why don't any YouTubers talk about server side rendering?
+
+https://youtu.be/3hyB7TCRhng
+
