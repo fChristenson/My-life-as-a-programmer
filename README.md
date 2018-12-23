@@ -47,6 +47,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What about Vue?
 
+> What about Blazor?
+
 > What is the difference between http and http2?
 
 ## Pending tutorials
