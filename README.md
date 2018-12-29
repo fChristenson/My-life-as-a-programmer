@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What is a junior Java developer expected to know?
+
 > As a software engineer do quick deadlines challenge you to bring your A game forward, or does it puts you under pressure?
 
 > As a software engineer how important is it to be self critical?
