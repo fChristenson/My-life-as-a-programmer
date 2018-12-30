@@ -19,3 +19,7 @@ https://youtu.be/ktBQjQ8DwGg
 > Can you make a video about what roadmap to follow in order to become a fullstack JavaScript developer?
 
 https://youtu.be/ke8P0ZdStDc
+
+> Can you make a video about utility class css?
+
+https://youtu.be/c8vo5ra9J-c
