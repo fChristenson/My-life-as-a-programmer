@@ -69,8 +69,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Can you make a video about [apollo-link-rest](https://www.apollographql.com/docs/link/links/rest.html)?
 
-> Can you make a video about utility class css?
-
 > Can you make a series on Chrome tools?
 
 > Can you make a video about loading fonts?
