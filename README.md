@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What qualities does a programmer need to be a successful entrepreneur? 
+
 > Why is it easy to get hired into frontend positions but backend positions are more difficult to secure?
 
 > What habits did you pick up as a programmer that most people would not understand?
