@@ -11,6 +11,18 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Why is it easy to get hired into frontend positions but backend positions are more difficult to secure?
+
+> What habits did you pick up as a programmer that most people would not understand?
+
+> What language would take over if Java disappeared?
+
+> Is game development in C++ a good career option for software engineers?
+
+> As a software engineer what makes you feel happy and satisfied?
+
+> As a software engineer do you get bored using the same language/ framework overtime?
+
 > What is a junior Java developer expected to know?
 
 > As a software engineer do quick deadlines challenge you to bring your A game forward, or does it puts you under pressure?
