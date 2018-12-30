@@ -556,3 +556,27 @@ https://youtu.be/zmkOiQJcrUk
 
 https://youtu.be/plBSF9jGSAA
 
+> As a software engineer do quick deadlines challenge you to bring your A game forward, or does it puts you under pressure?
+
+https://youtu.be/j_0BbdbmRm8
+
+> As a software engineer how important is it to be self critical?
+
+https://youtu.be/wl97h7ski68
+
+> What is CSS and what's its purpose?
+
+https://youtu.be/Fo8kSErIQtA
+
+> What is the most important thing a beginner should know to become a good programmer?
+
+https://youtu.be/LC5s0ay9RpM
+
+> When is building a progressive web app (PWA) a good idea?
+
+https://youtu.be/XptKR6JrJn8
+
+> Why do programming languages have frameworks rather than just putting all these features directly in the language?
+
+https://youtu.be/h6XZIyHPuTc
+
