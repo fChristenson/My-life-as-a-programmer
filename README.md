@@ -11,6 +11,32 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Will Jest become the top testing framework for JavaScript?
+
+> Why do companies complain about not being able to find talented developers but do nothing about it?
+
+> Why do bugs and glitches exist? Don't programmers have absolute control over what they program?
+
+> What types of programmers will always have difficulty finding jobs?
+
+> What is your most annoying problem being a web designer?
+
+> What is going to be the best paying computer language in 2019? Which will be the hippest?
+
+> What are the top rules a programmer must follow?
+
+> Are computer programmers often underpaid?
+
+> As a programmer, how well do you keep your computer?
+
+> How can I learn to write exceptional CSS?
+
+> How do I get out of tutorial purgatory?
+
+> How do I stay consistent and motivated to do code everyday?
+
+> I keep watching tutorials without practising to code, what should I do?
+
 > What qualities does a programmer need to be a successful entrepreneur? 
 
 > Why is it easy to get hired into frontend positions but backend positions are more difficult to secure?
