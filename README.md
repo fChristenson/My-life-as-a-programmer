@@ -11,6 +11,18 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Why is there so much hype around programming?
+
+> What details do interviewers check without telling the candidate?
+
+> What super specific programming skill has served you very well?
+
+> What programming languages are the most valuable to learn?
+
+> What bad habits of a software engineer can ultimately cause their career downfall?
+
+> What are the main benefits of using React instead of Wordpress?
+
 > Will Jest become the top testing framework for JavaScript?
 
 > Why do companies complain about not being able to find talented developers but do nothing about it?
