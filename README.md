@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What about React Native?
+
 > Why is there so much hype around programming?
 
 > What details do interviewers check without telling the candidate?
