@@ -11,6 +11,34 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What will be the programming language that will rule them all?
+
+> What are the biggest challenges in computer programming field for the coming years?
+
+> What are the 5 things to do to be a better computer programmer right now?
+
+> Should I still learn coding in 2019?
+
+> If a new software engineer was able to do the task they were assigned, but failed to push the file via git - what is your opinion about their standard?
+
+> If a software engineer gets things done but most often is unable to deliver on time, do they deserve to get fired after a warning?
+
+> How can I be a better backend developer in 2019?
+
+> How much JavaScript do you need to get a job as a beginner?
+
+> How can I be a better frontend developer in 2019?
+
+> After reading some books about Python and practicing all the given problems, I still do not know where to start on a project. How do I approach it and figure out what the first lines of code will be?
+
+> As a software engineer how do you make yourself very valuable and sought after?
+
+> As a software engineer how much do you worry when you've got to ship some heavy features and the deadline is very close?
+
+> Do I need to learn VR when I am a software engineer?
+
+> Given the rapid popularity of languages such as Python, Go or Java, will programmers in the future have less appreciation for C and C++?
+
 > What about React Native?
 
 > Why is there so much hype around programming?
