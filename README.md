@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> bidirectional dependencies, why are they bad, how to solve them?
+
 > What considerations do I need to make when starting a Fintech company?
 
 > What will be the programming language that will rule them all?
