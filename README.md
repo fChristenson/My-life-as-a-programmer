@@ -41,15 +41,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What considerations do I need to make when starting a Fintech company?
 
-> What will be the programming language that will rule them all?
-
-> What are the biggest challenges in computer programming field for the coming years?
-
 > What are the 5 things to do to be a better computer programmer right now?
-
-> Should I still learn coding in 2019?
-
-> If a new software engineer was able to do the task they were assigned, but failed to push the file via git - what is your opinion about their standard?
 
 > If a software engineer gets things done but most often is unable to deliver on time, do they deserve to get fired after a warning?
 
@@ -69,8 +61,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Given the rapid popularity of languages such as Python, Go or Java, will programmers in the future have less appreciation for C and C++?
 
-> What about React Native?
-
 > Why is there so much hype around programming?
 
 > What details do interviewers check without telling the candidate?
@@ -82,12 +72,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > What bad habits of a software engineer can ultimately cause their career downfall?
 
 > What are the main benefits of using React instead of Wordpress?
-
-> Will Jest become the top testing framework for JavaScript?
-
-> Why do companies complain about not being able to find talented developers but do nothing about it?
-
-> Why do bugs and glitches exist? Don't programmers have absolute control over what they program?
 
 > What types of programmers will always have difficulty finding jobs?
 
@@ -105,31 +89,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > How do I get out of tutorial purgatory?
 
-> How do I stay consistent and motivated to do code everyday?
-
 > I keep watching tutorials without practising to code, what should I do?
-
-> What qualities does a programmer need to be a successful entrepreneur? 
-
-> Why is it easy to get hired into frontend positions but backend positions are more difficult to secure?
-
-> What habits did you pick up as a programmer that most people would not understand?
-
-> What language would take over if Java disappeared?
-
-> Is game development in C++ a good career option for software engineers?
-
-> As a software engineer what makes you feel happy and satisfied?
-
-> As a software engineer do you get bored using the same language/ framework overtime?
-
-> What is a junior Java developer expected to know?
 
 > What programming fads have you seen rise and then die out?
 
 > Why is AngularJS and ReactJS free?
-
-> Have you ever used your programming knowledge to prank someone?
 
 > Is it possible to use sessions without cookies?
 
