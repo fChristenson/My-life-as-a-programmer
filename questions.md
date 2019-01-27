@@ -580,3 +580,78 @@ https://youtu.be/XptKR6JrJn8
 
 https://youtu.be/h6XZIyHPuTc
 
+> What will be the programming language that will rule them all?
+
+https://youtu.be/LA80nMWeQZU
+
+> What are the biggest challenges in computer programming field for the coming years?
+
+https://youtu.be/5iOLzXdhudA
+
+> Should I still learn coding in 2019?
+
+https://youtu.be/YIwY_RRHiaI
+
+> If a new software engineer was able to do the task they were assigned, but failed to push the file via git - what is your opinion about their standard?
+
+https://youtu.be/HCJEHqdjTrU
+
+> How do I get rich from programming?
+
+https://youtu.be/4im99QN0lg0
+
+> What about React Native?
+
+https://youtu.be/YliWq19JUEA
+
+> How do I stay consistent and motivated to do code everyday?
+
+https://youtu.be/4iAJH8YAkf4
+
+> Why do bugs and glitches exist? Don't programmers have absolute control over what they program?
+
+https://youtu.be/GF5ckcLkGD0
+
+> Why do companies complain about not being able to find talented developers but do nothing about it?
+
+https://youtu.be/uktmlrURoTg
+
+> Will Jest become the top testing framework for JavaScript?
+
+https://youtu.be/AXKIXgEoZd0
+
+> What is a junior Java developer expected to know?
+
+https://youtu.be/YDizS2Tkl8k
+
+> Is game development in C++ a good career option for software engineers?
+
+https://youtu.be/HKoBHvMFlpY
+
+> Have you ever used your programming knowledge to prank someone?
+
+https://youtu.be/xYXD7Tf6AIo
+
+> As a software engineer do you get bored using the same language/ framework overtime?
+
+https://youtu.be/4my3hZULoNM
+
+> As a software engineer what makes you feel happy and satisfied?
+
+https://youtu.be/DsJdgecReH4
+
+> What language would take over if Java disappeared?
+
+https://youtu.be/e85-eQXN7jo
+
+> What habits did you pick up as a programmer that most people would not understand?
+
+https://youtu.be/iDlJx8RIFn8
+
+> Why is it easy to get hired into frontend positions but backend positions are more difficult to secure?
+
+https://youtu.be/461BxGIvv5Q
+
+> What qualities does a programmer need to be a successful entrepreneur?
+
+https://youtu.be/B88-AwTf2Tw
