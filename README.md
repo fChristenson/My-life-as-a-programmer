@@ -11,6 +11,32 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Which classroom management strategies can I use to teach programming to a multi grade class where kids have different levels of programming knowledge?
+
+> Will JavaScript become obsolete like other languages, or is it too deeply rooted in the internet?
+
+> Why do so many developers have trouble with object-oriented programming?
+
+> What are the golden rules of programming in Java?
+
+> What do new computer programmers struggle with the most?
+
+> What happen s when you get cheap with programmers?
+
+> What is a software engineer's/ programmer’s worst nightmare?
+
+> What type of software engineers would you personally prefer for your startup?
+
+> What are the golden rules of programming in JavaScript?
+
+> What are your preferred programming languages and which do you in day-to-day work?
+
+> What are some examples of JavaScript code most of computer programmers write poorly? What is the better way of doing it?
+
+> How long do we have to wait to bid farewell to the most horrible programming language, JavaScript?
+
+> I want to become a programmer, what recommendations will you make for me according to current software industry demands?
+
 > bidirectional dependencies, why are they bad, how to solve them?
 
 > What considerations do I need to make when starting a Fintech company?
