@@ -5,7 +5,7 @@
 This is a repository where I can store all the 
 questions and suggestions from my viewers on my [Youtube channel](https://www.youtube.com/user/Fidde12345).
 
-* **[Answered questions](./questions.md)**
+* **[Answered questions](https://www.youtube.com/playlist?list=PLBAZWBMYeVYjXogYQDd1rwVI0c5YoioqU)**
 * **[Tutorials](./tutorials.md)**
 * **[Suggestions](./suggestions.md)**
 
