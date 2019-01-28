@@ -11,12 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Which classroom management strategies can I use to teach programming to a multi grade class where kids have different levels of programming knowledge?
-
-> Will JavaScript become obsolete like other languages, or is it too deeply rooted in the internet?
-
-> Why do so many developers have trouble with object-oriented programming?
-
 > What are the golden rules of programming in Java?
 
 > What do new computer programmers struggle with the most?
