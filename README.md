@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What's the highest priority when getting a project done on time ?
+
 > What happen s when you get cheap with programmers?
 
 > What is a software engineer's/ programmer’s worst nightmare?
