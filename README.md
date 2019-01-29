@@ -11,10 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> What are the golden rules of programming in Java?
-
-> What do new computer programmers struggle with the most?
-
 > What happen s when you get cheap with programmers?
 
 > What is a software engineer's/ programmer’s worst nightmare?
