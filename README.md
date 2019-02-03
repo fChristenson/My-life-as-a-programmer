@@ -11,17 +11,39 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> What's the highest priority when getting a project done on time ?
+> Does JavaScript's increasing popularity show that software engineers/ programmers are slowly starting to like it - in spite of its horrible syntax?
 
-> What happen s when you get cheap with programmers?
+> How can a web developer who has mainly used JavaScript throughout his career (13 years) transition to a more general software engineer?
 
-> What is a software engineer's/ programmer’s worst nightmare?
+> How do I tell whether something is open source?
 
-> What type of software engineers would you personally prefer for your startup?
+> How is Sass typically used?
 
-> What are the golden rules of programming in JavaScript?
+> How long does a junior computer programmer have to stay blocked on a program before asking for help from a senior computer programmer?
 
-> What are your preferred programming languages and which do you in day-to-day work?
+> If I know (HTML5+CSS3+Javascript) how much can I earn as a freelancer by building websites, per week?
+
+> If you're applying for a certain position as a software engineer, can you put on your resume projects that are impressive, but not related to that particular job you're applying for?
+
+> Is 25 years old too late to start programming?
+
+> Is Go a better server-side language than Java?
+
+> Why are so many people opting for web development even though JavaScript is a bad language to work with?
+
+> Will world go numb if every software engineer/ programmer stops working for a week?
+
+> Is NodeJS an easy programming language considering it is written in JavaScript?
+
+> Is it necessary to unit test JavaScript UI test code? How does one do this?
+
+> Is it true that a software engineer's skill is actually not tested until they get out of their comfort zone and work in a hard project?
+
+> How can a software engineer at a no-name firm, be as good as a software engineer at Google, without working at Google?
+
+> As sources on the internet are becoming better and free, will the quality of self-taught software engineers/ programmers also increase in the future?
+
+> Are coding classes on Udemy a better alternative to expensive coding bootcamps?
 
 > What are some examples of JavaScript code most of computer programmers write poorly? What is the better way of doing it?
 
@@ -29,11 +51,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I want to become a programmer, what recommendations will you make for me according to current software industry demands?
 
-> bidirectional dependencies, why are they bad, how to solve them?
-
-> What considerations do I need to make when starting a Fintech company?
-
-> What are the 5 things to do to be a better computer programmer right now?
+> What are the 3 things to do to be a better computer programmer right now?
 
 > If a software engineer gets things done but most often is unable to deliver on time, do they deserve to get fired after a warning?
 
