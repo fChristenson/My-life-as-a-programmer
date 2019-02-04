@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> is it a good idea to leave the country , if u where offered a job as a developer in a startup abroad ? how flexible should developer be ?
+
 > Does JavaScript's increasing popularity show that software engineers/ programmers are slowly starting to like it - in spite of its horrible syntax?
 
 > How can a web developer who has mainly used JavaScript throughout his career (13 years) transition to a more general software engineer?
@@ -53,8 +55,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What are the 3 things to do to be a better computer programmer right now?
 
-> If a software engineer gets things done but most often is unable to deliver on time, do they deserve to get fired after a warning?
-
 > How can I be a better backend developer in 2019?
 
 > How much JavaScript do you need to get a job as a beginner?
@@ -62,8 +62,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > How can I be a better frontend developer in 2019?
 
 > After reading some books about Python and practicing all the given problems, I still do not know where to start on a project. How do I approach it and figure out what the first lines of code will be?
-
-> As a software engineer how do you make yourself very valuable and sought after?
 
 > As a software engineer how much do you worry when you've got to ship some heavy features and the deadline is very close?
 
