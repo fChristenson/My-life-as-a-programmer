@@ -11,25 +11,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> is it a good idea to leave the country , if u where offered a job as a developer in a startup abroad ? how flexible should developer be ?
-
-> Does JavaScript's increasing popularity show that software engineers/ programmers are slowly starting to like it - in spite of its horrible syntax?
-
-> How can a web developer who has mainly used JavaScript throughout his career (13 years) transition to a more general software engineer?
-
-> How do I tell whether something is open source?
-
-> How is Sass typically used?
-
-> How long does a junior computer programmer have to stay blocked on a program before asking for help from a senior computer programmer?
-
-> If I know (HTML5+CSS3+Javascript) how much can I earn as a freelancer by building websites, per week?
-
-> If you're applying for a certain position as a software engineer, can you put on your resume projects that are impressive, but not related to that particular job you're applying for?
+> What did your coworkers teach you that made you think the way you do today?
 
 > Is 25 years old too late to start programming?
-
-> Is Go a better server-side language than Java?
 
 > Why are so many people opting for web development even though JavaScript is a bad language to work with?
 
