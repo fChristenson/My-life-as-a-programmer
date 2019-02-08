@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Why do you like React and not Angular?
+
 > What did your coworkers teach you that made you think the way you do today?
 
 > Is 25 years old too late to start programming?
