@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> There have been a lot of new studies saying that computer science is becoming the most popular major at universities in America. What impact do you think this will have on the industry. Is it just a trend? Do you think these students really know what they're getting themselves into?
+
 > Why do you like React and not Angular?
 
 > What did your coworkers teach you that made you think the way you do today?
