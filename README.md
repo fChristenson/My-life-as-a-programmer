@@ -11,17 +11,23 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> There have been a lot of new studies saying that computer science is becoming the most popular major at universities in America. What impact do you think this will have on the industry. Is it just a trend? Do you think these students really know what they're getting themselves into?
+> As a web developer, do you find a trace of elitism in the way everyone demonizes PHP and JavaScript?
 
-> Why do you like React and not Angular?
+> Excluding hacking, what are the other immoral sides of software engineering and programming?
 
-> What did your coworkers teach you that made you think the way you do today?
+> How does one get another programming job after being terminated for poor performance?
 
-> Is 25 years old too late to start programming?
+> How important is it for a software engineer to not only write good code, but also be a good team player?
 
-> Why are so many people opting for web development even though JavaScript is a bad language to work with?
+> If you've to judge a software engineer/ programmer's data structure and algorithm knowledge by just ONE question, what would you ask?
 
-> Will world go numb if every software engineer/ programmer stops working for a week?
+> Should I use Elm or Typescript for my next project? How do I decide?
+
+> Should programming become part of standard curriculum in public schools?
+
+> What's one programming language you don't like or won't work on again?
+
+> Why are there different programming languages?
 
 > Is NodeJS an easy programming language considering it is written in JavaScript?
 
