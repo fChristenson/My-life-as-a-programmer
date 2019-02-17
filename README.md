@@ -11,6 +11,32 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Is the hatred of JavaScript really just jealousy of its success?
+
+> Since JavaScript has supersets like TypeScript and TypeScript has all the capabilities of a language like C# is it fair to say that those who hate JavaScript are just ignorant or unwilling to learn new things?
+
+> Under what circumstances is Go more advantageous than Python for backend?
+
+> What 3 things can say a lot about a software engineer/ programmer's quality?
+
+> What are some software engineering/ programming skills that can only be harnessed with experience?
+
+> What are the coolest hackathon projects you've built?
+
+> What are the grey areas between writing good quality code and poor quality code?
+
+> What do advanced NodeJS programmers overlook about the development process that will be very costly for them?
+
+> What is the worst mentality a software engineer/ programmer can have?
+
+> How would you go about learning to build web apps? There’s so much conflicting advice, let alone an overload of options!
+
+> Do you like websites/apps with Pagination or Infinite scroll? What advantages/disadvantages each have?
+
+> Can 5 years of experience working as a software engineer really replace an undergrad computer science degree?
+
+> As a software engineer/ programmer do you feel embarrassed asking a senior engineer about a problem you might think is is silly?
+
 > As a web developer, do you find a trace of elitism in the way everyone demonizes PHP and JavaScript?
 
 > Excluding hacking, what are the other immoral sides of software engineering and programming?
