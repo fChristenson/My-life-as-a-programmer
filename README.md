@@ -37,31 +37,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > As a software engineer/ programmer do you feel embarrassed asking a senior engineer about a problem you might think is is silly?
 
-> As a web developer, do you find a trace of elitism in the way everyone demonizes PHP and JavaScript?
-
-> Excluding hacking, what are the other immoral sides of software engineering and programming?
-
-> How does one get another programming job after being terminated for poor performance?
-
-> How important is it for a software engineer to not only write good code, but also be a good team player?
-
 > If you've to judge a software engineer/ programmer's data structure and algorithm knowledge by just ONE question, what would you ask?
-
-> Should I use Elm or Typescript for my next project? How do I decide?
-
-> Should programming become part of standard curriculum in public schools?
 
 > What's one programming language you don't like or won't work on again?
 
 > Why are there different programming languages?
-
-> Is NodeJS an easy programming language considering it is written in JavaScript?
-
-> Is it necessary to unit test JavaScript UI test code? How does one do this?
-
-> Is it true that a software engineer's skill is actually not tested until they get out of their comfort zone and work in a hard project?
-
-> How can a software engineer at a no-name firm, be as good as a software engineer at Google, without working at Google?
 
 > As sources on the internet are becoming better and free, will the quality of self-taught software engineers/ programmers also increase in the future?
 
