@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What about WebGL?
+
 > How do I become a good backend developer?
 
 > Is the hatred of JavaScript really just jealousy of its success?
