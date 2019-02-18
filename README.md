@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> How do I become a good backend developer?
+
 > Is the hatred of JavaScript really just jealousy of its success?
 
 > Since JavaScript has supersets like TypeScript and TypeScript has all the capabilities of a language like C# is it fair to say that those who hate JavaScript are just ignorant or unwilling to learn new things?
