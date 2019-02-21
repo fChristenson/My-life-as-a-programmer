@@ -131,6 +131,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending tutorials
 
+> Can you make a video about JWT, OAuth and Sessions?
+
 > Can you make a video about how Node services talk to a C# backend and why companies would do this?
 
 > Can you make a video where you show the difference between juniors and seniors with a focus on testing?
