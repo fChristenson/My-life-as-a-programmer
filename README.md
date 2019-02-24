@@ -11,17 +11,19 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Can you remember the last time you where challenged as a programmer?
+> As a software engineer/ programmer what does a bad day for you look like?
 
-> Since JavaScript has supersets like TypeScript and TypeScript has all the capabilities of a language like C# is it fair to say that those who hate JavaScript are just ignorant or unwilling to learn new things?
+> As a software engineer/ programmer what is the first thing you do when you encounter a bug?
 
-> Under what circumstances is Go more advantageous than Python for backend?
+> Can Firebase be used as a backend for desktop applications?
 
-> What 3 things can say a lot about a software engineer/ programmer's quality?
+> How can Behavior Driven Development [BDD] make the lives of software testers easier?
 
-> What are some software engineering/ programming skills that can only be harnessed with experience?
+> How do you deal with a senior developer who sabotages your work because of ego problems?
 
-> What are the coolest hackathon projects you've built?
+> What are some bad habits you can pick up as a developer working for a large company?
+
+> Why is it important for software engineers/ programmers to master regex?
 
 > What are the grey areas between writing good quality code and poor quality code?
 
