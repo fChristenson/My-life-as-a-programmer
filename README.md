@@ -11,7 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Why are there not junior jobs for React?
+> Why are there no junior jobs for React?
 
 > As a software engineer/ programmer what does a bad day for you look like?
 
