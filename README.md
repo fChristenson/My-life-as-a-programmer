@@ -194,3 +194,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > Can you make a video about PWA's using [Phoenix](http://phoenixframework.org)?
 
 > Can you make a video about using React with [Laravel](https://laravel.com/)?
+
+## Pending reviews
+
+https://github.com/adam-golab/react-developer-roadmap
