@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What do you think is a problem that mobile development is facing?
+
 > How can I showcase that I am a good backend developer?
 
 > What is a junior React developer expected to know?
