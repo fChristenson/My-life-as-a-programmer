@@ -11,23 +11,21 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Why do novice programmers get fixated with things like "lines of code" rather than the actual usability and quality of a system?
+
+> What does success mean for you as a software engineer/ programmer?
+
+> What are some harsh truths a software engineer should gulp and accept?
+
+> As a software engineer when you fail a technical interview how do you stop feeling sorry about yourself?
+
+> How do you hire a good tester?
+
 > What happens to React when the corrupt and unethical facebook dies?
 
 > What do you think is a problem that mobile development is facing?
 
 > How can I showcase that I am a good backend developer?
-
-> What is a junior React developer expected to know?
-
-> Why are there no junior jobs for React?
-
-> As a software engineer/ programmer what does a bad day for you look like?
-
-> As a software engineer/ programmer what is the first thing you do when you encounter a bug?
-
-> Can Firebase be used as a backend for desktop applications?
-
-> How can Behavior Driven Development [BDD] make the lives of software testers easier?
 
 > How do you deal with a senior developer who sabotages your work because of ego problems?
 
