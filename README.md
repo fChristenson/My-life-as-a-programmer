@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What is the difference between ssr, static generator and prerendering?
+
 > Why do novice programmers get fixated with things like "lines of code" rather than the actual usability and quality of a system?
 
 > What does success mean for you as a software engineer/ programmer?
