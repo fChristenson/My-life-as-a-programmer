@@ -206,3 +206,5 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 ## Pending reviews
 
 https://github.com/adam-golab/react-developer-roadmap
+
+> Can you make a review of Vim and Emacs vs modern editors like Webstorm, VSC, Atom and IntelliJ?
