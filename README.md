@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Is it still worth learning C++ if you already know Go?﻿
+
 > should I consider learning c++ first and then Rust or I can directly jump into Rust?
 
 > Do you have any thoughts on what to look for in a Junior level position?
@@ -18,22 +20,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > Do you see tech recruiting practices being changed in the future?
 
 > What is the difference between ssr, static generator and prerendering?
-
-> Why do novice programmers get fixated with things like "lines of code" rather than the actual usability and quality of a system?
-
-> What does success mean for you as a software engineer/ programmer?
-
-> What are some harsh truths a software engineer should gulp and accept?
-
-> As a software engineer when you fail a technical interview how do you stop feeling sorry about yourself?
-
-> How do you hire a good tester?
-
-> What happens to React when the corrupt and unethical facebook dies?
-
-> What do you think is a problem that mobile development is facing?
-
-> How can I showcase that I am a good backend developer?
 
 > How do you deal with a senior developer who sabotages your work because of ego problems?
 
