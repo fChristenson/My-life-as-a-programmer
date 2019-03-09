@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> should I consider learning c++ first and then Rust or I can directly jump into Rust?
+
 > Do you have any thoughts on what to look for in a Junior level position?
 
 > Do you see tech recruiting practices being changed in the future?
