@@ -11,6 +11,12 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> How do you build a good software team?
+
+> How do you manage stakeholders?
+
+> Will ML set developers apart in the future?
+
 > Is it still worth learning C++ if you already know Go?﻿
 
 > should I consider learning c++ first and then Rust or I can directly jump into Rust?
