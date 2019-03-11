@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Should I always favour composition over inheritance?
+
 > How can I encourage myself to not give up?
 
 > As a software engineer/ programmer do you feel jealous when you come across another engineer who is more skillful than you?
