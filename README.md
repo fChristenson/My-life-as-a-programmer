@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Can you explain the startup mindset?
+
 > How do I get a company internship?
 
 > Should I always favour composition over inheritance?
