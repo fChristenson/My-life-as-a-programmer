@@ -11,23 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> As a software engineer/ programmer how do you feel when your team chooses a language for a project - you're not comfortable with?
-
-> Is it common for a software company to develop a program based on customer's desires and yet end up with him dissatisfied?
-
-> What are some timeless tips to learn any language in days, not years?
-
-> What is minimal CSS rules to know when I want to become a fullstack web developer but I hate CSS?
-
-> What is the weirdest thing you ever experienced when writing or testing code?
-
-> What makes a software engineer/ programmer look very unprofessional?
-
-> What will be the future of professional software development?
-
-> What's your unpopular programming opinion?
-
-> As a software engineer/ programmer what experience/ lesson that changed how you see software engineering?
+> What is the best way to plan sprint in the small team of developers ?
 
 > What about OKR's and stretch goals?
 
