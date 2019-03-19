@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What are the few dependencies you often need?
+
 > What is the best way to plan sprint in the small team of developers ?
 
 > What about OKR's and stretch goals?
