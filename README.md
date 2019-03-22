@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Is it true that the best code is written by just a few programmers?
+
 > What are the few dependencies you often need?
 
 > What is the best way to plan sprint in the small team of developers ?
