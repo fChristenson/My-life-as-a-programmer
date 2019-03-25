@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> OOP vs FP and its use case?
+
 > Java GUI app vs. C# GUI app?
 
 > What about MithrilJS?
