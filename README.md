@@ -11,31 +11,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Is it true that the best code is written by just a few programmers?
-
-> What are the few dependencies you often need?
-
-> What is the best way to plan sprint in the small team of developers ?
-
-> What about OKR's and stretch goals?
-
-> Can you explain the startup mindset?
-
-> How do I get a company internship?
-
-> Should I always favour composition over inheritance?
+> What are the most important things to learn when pursuing a front end developer job?
 
 > How can I encourage myself to not give up?
-
-> As a software engineer/ programmer do you feel jealous when you come across another engineer who is more skillful than you?
-
-> As a software engineer/ programmer how often are you able to deliver your best at work? How do you feel when you can't?
-
-> As a software engineer/ programmer what skill was once very challenging for you, that is now very easy?
-
-> How long will software engineering continue to be a viable career option?
-
-> If I have small business, which is more useful to me- either progressive web apps or native apps?
 
 > Should computer programming classes be mandatory in highschool?
 
