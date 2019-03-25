@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What about MithrilJS?
+
 > What are the most important things to learn when pursuing a front end developer job?
 
 > How can I encourage myself to not give up?
