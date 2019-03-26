@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> how about transition from backend to frontend? which way is easier?﻿
+
 > Java GUI app vs. C# GUI app?
 
 > What about MithrilJS?
