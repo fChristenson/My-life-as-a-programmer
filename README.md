@@ -11,9 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Is learning OOP a necessity in the industry?
-
-> how about transition from backend to frontend? which way is easier?﻿
+> What about React hooks?
 
 > Java GUI app vs. C# GUI app?
 
