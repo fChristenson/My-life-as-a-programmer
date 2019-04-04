@@ -11,27 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> What about React hooks?
-
-> Java GUI app vs. C# GUI app?
-
-> What about MithrilJS?
-
-> What are the most important things to learn when pursuing a front end developer job?
-
-> How can I encourage myself to not give up?
-
-> Should computer programming classes be mandatory in highschool?
-
-> What are the facts you learned too late in life?
-
-> What is the most rewarding thing for you as a software engineer/ programmer?
-
-> What is the most useful language when dealing in International Business?
-
-> What will be the most popular (and lucrative to learn) JavaScript library or framework in 2019?
-
-> What will you say to convince your younger self to learn NodeJS ASAP?
+> How can I convince my company to change tools?
 
 > Which JavaScript frameworks have the more potential in terms of scalability and why?
 
