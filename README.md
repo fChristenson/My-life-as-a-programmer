@@ -11,9 +11,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> How can I convince my company to change tools?
+> Why do you like React and not Vue?
 
-> Which JavaScript frameworks have the more potential in terms of scalability and why?
+> How is pugJS typically used?
 
 > How do you build a good software team?
 
