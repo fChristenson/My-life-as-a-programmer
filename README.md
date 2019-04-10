@@ -11,34 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Why do you like React and not Vue?
-
-> How is pugJS typically used?
-
-> How do you build a good software team?
-
-> How do you manage stakeholders?
-
-> Will ML set developers apart in the future?
-
-> Is it still worth learning C++ if you already know Go?﻿
-
-> should I consider learning c++ first and then Rust or I can directly jump into Rust?
-
-> Do you have any thoughts on what to look for in a Junior level position?
-
-> Do you see tech recruiting practices being changed in the future?
-
-> What is the difference between ssr, static generator and prerendering?
-
-> How do you deal with a senior developer who sabotages your work because of ego problems?
-
-> What are some bad habits you can pick up as a developer working for a large company?
-
-> Why is it important for software engineers/ programmers to master regex?
-
-> What are the grey areas between writing good quality code and poor quality code?
-
 > What do advanced NodeJS programmers overlook about the development process that will be very costly for them?
 
 > What is the worst mentality a software engineer/ programmer can have?
