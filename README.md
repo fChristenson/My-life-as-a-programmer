@@ -11,13 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> What do advanced NodeJS programmers overlook about the development process that will be very costly for them?
-
-> What is the worst mentality a software engineer/ programmer can have?
-
-> How would you go about learning to build web apps? There’s so much conflicting advice, let alone an overload of options!
-
-> Do you like websites/apps with Pagination or Infinite scroll? What advantages/disadvantages each have?
+> Blazor vs JS frameworks?
 
 > Can 5 years of experience working as a software engineer really replace an undergrad computer science degree?
 
