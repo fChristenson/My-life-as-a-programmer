@@ -11,11 +11,13 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Is it better for a pre-job junior to be a generalist/self-sufficient or heavily specialized?
+
 > Blazor vs JS frameworks?
 
 > Can 5 years of experience working as a software engineer really replace an undergrad computer science degree?
 
-> As a software engineer/ programmer do you feel embarrassed asking a senior engineer about a problem you might think is is silly?
+> As a software engineer/ programmer do you feel embarrassed asking a senior engineer about a problem you might think is silly?
 
 > If you've to judge a software engineer/ programmer's data structure and algorithm knowledge by just ONE question, what would you ask?
 
