@@ -11,27 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> When does someone know when they are ready to start looking for a job?
-
-> As a software engineer/ programmer do you feel embarrassed asking a senior engineer about a problem you might think is silly?
-
-> If you've to judge a software engineer/ programmer's data structure and algorithm knowledge by just ONE question, what would you ask?
-
-> What's one programming language you don't like or won't work on again?
-
-> Why are there different programming languages?
-
-> As sources on the internet are becoming better and free, will the quality of self-taught software engineers/ programmers also increase in the future?
-
-> Are coding classes on Udemy a better alternative to expensive coding bootcamps?
-
-> What are some examples of JavaScript code most of computer programmers write poorly? What is the better way of doing it?
-
-> How long do we have to wait to bid farewell to the most horrible programming language, JavaScript?
-
 > I want to become a programmer, what recommendations will you make for me according to current software industry demands?
-
-> What are the 3 things to do to be a better computer programmer right now?
 
 > How can I be a better backend developer in 2019?
 
