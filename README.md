@@ -11,17 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> I want to become a programmer, what recommendations will you make for me according to current software industry demands?
-
-> How can I be a better backend developer in 2019?
-
-> How much JavaScript do you need to get a job as a beginner?
-
-> How can I be a better frontend developer in 2019?
-
-> After reading some books about Python and practicing all the given problems, I still do not know where to start on a project. How do I approach it and figure out what the first lines of code will be?
-
-> As a software engineer how much do you worry when you've got to ship some heavy features and the deadline is very close?
+> what firm position have you changed your mind on
 
 > Do I need to learn VR when I am a software engineer?
 
