@@ -11,19 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> what firm position have you changed your mind on
-
-> Do I need to learn VR when I am a software engineer?
-
-> Given the rapid popularity of languages such as Python, Go or Java, will programmers in the future have less appreciation for C and C++?
-
-> Why is there so much hype around programming?
-
-> What details do interviewers check without telling the candidate?
-
-> What super specific programming skill has served you very well?
-
-> What programming languages are the most valuable to learn?
+> How to deal with project and product managers and artificial deadlines?﻿
 
 > What bad habits of a software engineer can ultimately cause their career downfall?
 
