@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> How can I as a developer try and influence the higher ups to focus more on rewriting old code?
+
 > How to deal with project and product managers and artificial deadlines?﻿
 
 > What bad habits of a software engineer can ultimately cause their career downfall?
