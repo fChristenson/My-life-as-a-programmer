@@ -11,9 +11,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Could you do a video on what a junior php developer needs to know?
+
 > How can I as a developer try and influence the higher ups to focus more on rewriting old code?
 
-> How to deal with project and product managers and artificial deadlines?﻿
+> How to deal with project and product managers and artificial deadlines?
 
 > What bad habits of a software engineer can ultimately cause their career downfall?
 
