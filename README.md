@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Would a developer need to read/learn about TDD before reading/learning BDD?﻿
+
 > Do I have to work in a TDD way?
 
 > Could you do a video on what a junior php developer needs to know?
