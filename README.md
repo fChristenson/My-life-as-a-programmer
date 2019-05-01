@@ -11,19 +11,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Do I have to work in a TDD way?
+
 > Could you do a video on what a junior php developer needs to know?
-
-> How can I as a developer try and influence the higher ups to focus more on rewriting old code?
-
-> How to deal with project and product managers and artificial deadlines?
-
-> What bad habits of a software engineer can ultimately cause their career downfall?
-
-> What are the main benefits of using React instead of Wordpress?
-
-> What types of programmers will always have difficulty finding jobs?
-
-> What is your most annoying problem being a web designer?
 
 > What is going to be the best paying computer language in 2019? Which will be the hippest?
 
