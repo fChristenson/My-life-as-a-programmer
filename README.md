@@ -11,21 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Would a developer need to read/learn about TDD before reading/learning BDD?﻿
-
-> Do I have to work in a TDD way?
-
-> Could you do a video on what a junior php developer needs to know?
-
-> What is going to be the best paying computer language in 2019? Which will be the hippest?
-
-> What are the top rules a programmer must follow?
-
-> Are computer programmers often underpaid?
-
 > As a programmer, how well do you keep your computer?
-
-> How can I learn to write exceptional CSS?
 
 > How do I get out of tutorial purgatory?
 
@@ -120,6 +106,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > Can you make a video about using React with [Laravel](https://laravel.com/)?
 
 ## Pending reviews
+
+https://www.npmjs.com/package/@react-google-maps/api
 
 https://github.com/adam-golab/react-developer-roadmap
 
