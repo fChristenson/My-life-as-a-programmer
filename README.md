@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What makes some companies pick a certain language for their backend?
+
 > As a programmer, how well do you keep your computer?
 
 > How do I get out of tutorial purgatory?
