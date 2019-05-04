@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What does maintaining code mean?﻿
+
 > Will react and angular ever become legacy?
 
 > What makes some companies pick a certain language for their backend?
