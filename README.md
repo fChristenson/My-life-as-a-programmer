@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Is the dream to just have enough money to stop working?﻿
+
 > What does maintaining code mean?﻿
 
 > Will react and angular ever become legacy?
