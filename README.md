@@ -11,45 +11,15 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Is the dream to just have enough money to stop working?﻿
-
-> What does maintaining code mean?﻿
-
-> Will react and angular ever become legacy?
-
-> What makes some companies pick a certain language for their backend?
+> Is the dream to just have enough money to stop working?
 
 > As a programmer, how well do you keep your computer?
-
-> How do I get out of tutorial purgatory?
-
-> I keep watching tutorials without practising to code, what should I do?
-
-> What programming fads have you seen rise and then die out?
-
-> Why is AngularJS and ReactJS free?
-
-> Is it possible to use sessions without cookies?
-
-> What are the differences between SQL and JSON?
-
-> What do frameworks like Express do?
-
-> What is the average ratio of front end to back end devs in the industry?
-
-> Do you see yourself in the top 3 at your company, in terms of skills?
-
-> What are the bad habits to avoid as a computer programmer?
-
-> Is computer programing more important than sports?
 
 > Is it still worth to build desktop applications?
 
 > What about Vue?
 
 > What about Blazor?
-
-> What is the difference between http and http2?
 
 ## Pending tutorials
 
