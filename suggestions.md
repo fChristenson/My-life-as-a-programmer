@@ -1,5 +1,9 @@
 ## Suggestions
 
+> Go back to your original intro "Today you and I are going to talk abooooout..."
+
+Well how can I refuse, ofc I will!
+
 > Hold the camera in landscape mode
 
 I started holding the camera in landscape mode.
