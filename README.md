@@ -11,15 +11,59 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Is the dream to just have enough money to stop working?
-
-> As a programmer, how well do you keep your computer?
-
-> Is it still worth to build desktop applications?
-
 > What about Vue?
 
 > What about Blazor?
+
+> Should I fire someone who unnecessarily wrote 500 lines of code?
+
+> What’s the hardest part about programming that no one ever talks about at all?
+
+> How do you spot a beginner programmer?
+
+> What are 5 tips for a successful job interview?
+
+> What do people not tell you about being a software engineer?
+
+> As a software developer, what is the most obnoxious request you’ve ever received during your career?
+
+> Which is the best technology to learn in 2019?
+
+> What programming language did you learn that ended up being a complete waste of time?
+
+> What's the biggest mistake new software developers make?
+
+> What red flags tell you that a programmer is more likely to be a poser relishing the image of being a software engineer than an actually being a productive developer?
+
+> What are 3 advice that you recommend to learn a new language for yourself?
+
+> What is the best scenario to use Kubernetes?
+
+> If you’re a programmer, would you buy a MacBook or a Windows Laptop?
+
+> What can I learn/know right now in 10 minutes that will be useful for the rest of my life?
+
+> How do you date a programmer?
+
+> What are some rules you do not violate as a software developer?
+
+> Is getting an internship easier than getting a full time job?
+
+> I hate backend developers in my company as they treat us frontend developers as idiot and they always say how easy it is to work on frontend and how cool it is to work on scalability and infrastructure stuff, what should I do?
+
+> Why aren't there more female programmers?
+
+> What kind of experience makes a software engineer the most valuable?
+
+> What is one thing that all programmers can agree on?
+
+> What is the most common way management causes programmers to quit?
+
+> What are some dead giveaways that someone is the smartest software engineer/developer in the room?
+
+> What are the best programming interview questions you've ever asked or been asked?
+
+> What ticks you off most in a day-to-day job as a software engineer?
 
 ## Pending tutorials
 
