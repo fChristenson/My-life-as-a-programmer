@@ -11,17 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> What about Vue?
-
-> What about Blazor?
-
-> Should I fire someone who unnecessarily wrote 500 lines of code?
-
-> What’s the hardest part about programming that no one ever talks about at all?
-
-> How do you spot a beginner programmer?
-
-> What are 5 tips for a successful job interview?
+> Is modern web development now sufficiently complex that it's impossible for an individual developer to make much beyond trivial toy projects and widgets? 
 
 > What do people not tell you about being a software engineer?
 
