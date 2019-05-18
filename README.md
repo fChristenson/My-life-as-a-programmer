@@ -11,29 +11,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Is modern web development now sufficiently complex that it's impossible for an individual developer to make much beyond trivial toy projects and widgets? 
-
-> What do people not tell you about being a software engineer?
-
-> As a software developer, what is the most obnoxious request you’ve ever received during your career?
-
-> Which is the best technology to learn in 2019?
+> How do I become a well rounded frontend developer who is respected by the backend developers?
 
 > What programming language did you learn that ended up being a complete waste of time?
-
-> What's the biggest mistake new software developers make?
-
-> What red flags tell you that a programmer is more likely to be a poser relishing the image of being a software engineer than an actually being a productive developer?
-
-> What are 3 advice that you recommend to learn a new language for yourself?
-
-> What is the best scenario to use Kubernetes?
-
-> If you’re a programmer, would you buy a MacBook or a Windows Laptop?
-
-> What can I learn/know right now in 10 minutes that will be useful for the rest of my life?
-
-> How do you date a programmer?
 
 > What are some rules you do not violate as a software developer?
 
