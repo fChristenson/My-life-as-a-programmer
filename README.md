@@ -11,29 +11,37 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> How do I become a well rounded frontend developer who is respected by the backend developers?
+> Considering that I have no programming knowledge, what algorithms should one know to crack a software developer or computer programmer interview?
 
-> What programming language did you learn that ended up being a complete waste of time?
+> What do programmers mean when they say the code has a ‘smell’?
 
-> What are some rules you do not violate as a software developer?
+> What are some things beginner programmers don't realize they don't understand?
 
-> Is getting an internship easier than getting a full time job?
+> What screams "You're a mediocre software engineer"?
 
-> I hate backend developers in my company as they treat us frontend developers as idiot and they always say how easy it is to work on frontend and how cool it is to work on scalability and infrastructure stuff, what should I do?
+> What programming concept is difficult for beginners to understand because of the way it’s taught?
 
-> Why aren't there more female programmers?
+> What’s something a software engineer knows that would terrify people who use computers?
 
-> What kind of experience makes a software engineer the most valuable?
+> What do great programmers know that average programmers don't?
 
-> What is one thing that all programmers can agree on?
+> Which modern software engineering trend makes you roll your eyes the most?
 
-> What is the most common way management causes programmers to quit?
+> What screams "I never properly learned to program"?
 
-> What are some dead giveaways that someone is the smartest software engineer/developer in the room?
+> What are the biggest myths software engineers believe?
 
-> What are the best programming interview questions you've ever asked or been asked?
+> I started my first dev job this week and I feel very out of my depth. The software code is huge and hard to navigate. What advice can you give which may help me with this new role?
 
-> What ticks you off most in a day-to-day job as a software engineer?
+> As a senior programmer, what makes you mad when you look at a junior developers code?
+
+> As a software engineer when you return home are you still worried about that bug/ problem you couldn't fix? Or do you shut off and relax?
+
+> What merits a "no-hire" decision for a senior engineer?
+
+> Will TypeScript become more popular than JavaScript for frontend software development?
+
+> 
 
 ## Pending tutorials
 
