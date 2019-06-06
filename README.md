@@ -11,63 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Should I fire a programmer who is using Stack Overflow?
-
-> Does the world of computer programming need more mature programmers?
-
-> How do you excel as a software engineer?
-
-> Is there currently a backlash against object-oriented programming in the software development industry?
-
-> Can you explain to a beginner why we use OOP?
-
-> How do you know when someone is a good programmer?
-
-> Why don't I get better at programming? I have been learning JavaScript for the last few months but I still find it very difficult to build a simple calculator app. My peers keep getting better instead of me.
-
-> My team lead said it's a waste of time to write elegant code because no end users would care about it, he said making the program work is way more important than making it efficient and elegant, is he right?
-
-> What are the advantages of learning Go over Rust?
-
-> How do you judge a JavaScript programmer by only 5 questions?
-
-> What is the occupational hazard of programmers?
-
-> Is it true that a lot of software engineers do like 1 hour's worth of programming and just surf the internet for the rest of the day?
-
-> Which is the best agile software project management tool?
-
-> What does someone who writes "Code" actually do?
-
-> Do programmers ever worry about investing time and money on learning a specific programming language with the understanding that there is a possibility that the language they invested may become obsolete and replaced by other languages?
-
-> As a programmer, What is one thing you wish the not so computer literate would understand?
-
-> As a software engineer, in your opinion, what are the biggest bottlenecks and/or inefficiencies in programming today?
-
-> Is programming difficult? Do I need to be a genius to learn it?
-
-> Can you explain to non-coders the most impressive code you've seen?
-
-> As a programmer, do you want to write code all your life?
-
-> Considering that I have no programming knowledge, what algorithms should one know to crack a software developer or computer programmer interview?
-
-> What do programmers mean when they say the code has a ‘smell’?
-
-> What are some things beginner programmers don't realize they don't understand?
-
-> What screams "You're a mediocre software engineer"?
-
-> What programming concept is difficult for beginners to understand because of the way it’s taught?
-
-> What’s something a software engineer knows that would terrify people who use computers?
-
-> What do great programmers know that average programmers don't?
-
-> Which modern software engineering trend makes you roll your eyes the most?
-
-> What screams "I never properly learned to program"?
+> Why do some programmers not consider web developers engineers?
 
 > What are the biggest myths software engineers believe?
 
