@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What is RxJS and what is the use case?
+
 > Why do some programmers not consider web developers engineers?
 
 > What are the biggest myths software engineers believe?
