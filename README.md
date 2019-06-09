@@ -11,6 +11,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Why should I not use Typescript?
+
+> When to use MongoDB?
+
 > What is RxJS and what is the use case?
 
 > Why do some programmers not consider web developers engineers?
