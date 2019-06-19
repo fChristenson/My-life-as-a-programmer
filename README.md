@@ -11,27 +11,27 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Why should I not use Typescript?
+> What are some great truths of computer programming?
 
-> When to use MongoDB?
+> A new software developer spent 4 days to make a simple HTML button and CSS, should I fire him?
 
-> What is RxJS and what is the use case?
+> Have you ever seen code so bad it made you laugh?
 
-> Why do some programmers not consider web developers engineers?
+> What are the programming mistakes most inexperienced programmers make?
 
-> What are the biggest myths software engineers believe?
+> How do you supervise programmers if you don't program yourself?
 
-> I started my first dev job this week and I feel very out of my depth. The software code is huge and hard to navigate. What advice can you give which may help me with this new role?
+> Programmers, what's the funniest outsider's view of your job you've ever heard?
 
-> As a senior programmer, what makes you mad when you look at a junior developers code?
+> Why is it so difficult to learn programming?
 
-> As a software engineer when you return home are you still worried about that bug/ problem you couldn't fix? Or do you shut off and relax?
+> Programmers, can you explain your job to a 5 year old?
 
-> What merits a "no-hire" decision for a senior engineer?
+> Why did you abandon your old programming language?
 
-> Will TypeScript become more popular than JavaScript for frontend software development?
+> What practice fuels your nightmares when it comes to code and code management?
 
-> 
+> What's the single most frustrating thing a junior developer has done / said to you?
 
 ## Pending tutorials
 
