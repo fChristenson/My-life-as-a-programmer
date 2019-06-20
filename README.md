@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What about Svelte.js?
+
 > What are some great truths of computer programming?
 
 > A new software developer spent 4 days to make a simple HTML button and CSS, should I fire him?
