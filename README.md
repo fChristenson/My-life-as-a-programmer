@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What should be the characteristics of a language created after 2020?
+
 > What about Svelte.js?
 
 > What are some great truths of computer programming?
