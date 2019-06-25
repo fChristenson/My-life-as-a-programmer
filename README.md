@@ -11,19 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> What about self promoting on your CV?
-
-> What should be the characteristics of a language created after 2020?
-
-> What about Svelte.js?
-
-> What are some great truths of computer programming?
-
-> A new software developer spent 4 days to make a simple HTML button and CSS, should I fire him?
-
-> Have you ever seen code so bad it made you laugh?
-
-> What are the programming mistakes most inexperienced programmers make?
+> Why php and java is being hated?
 
 > How do you supervise programmers if you don't program yourself?
 
