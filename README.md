@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What about .Net?
+
 > Why php and java is being hated?
 
 > How do you supervise programmers if you don't program yourself?
