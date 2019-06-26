@@ -13,6 +13,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What about .Net?
 
+> What about Svelte.js?
+
 > Why php and java is being hated?
 
 > How do you supervise programmers if you don't program yourself?
