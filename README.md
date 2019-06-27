@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What are you opinions on using PR reviews as a 'baptism of fire' (really pedantic observations) as a means of sieving through new employees?
+
 > How about crypto/blockchain technologies?
 
 > Why is someone a junior just because they lack work experience?
