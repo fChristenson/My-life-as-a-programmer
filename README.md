@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> How about crypto/blockchain technologies?
+
 > Why is someone a junior just because they lack work experience?
 
 > What about .Net?
