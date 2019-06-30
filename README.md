@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> I know Node what language should I learn next?
+
 > When in the development process should I use Gherkin?
 
 > What are you opinions on using PR reviews as a 'baptism of fire' (really pedantic observations) as a means of sieving through new employees?
