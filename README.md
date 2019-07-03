@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Will web dev be around for the next 20 years?
+
 > I know Node what language should I learn next?
 
 > When in the development process should I use Gherkin?
