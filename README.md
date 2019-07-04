@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Can you do a video on the type of organizational skills you have and the ones needed for software devs?
+
 > Will web dev be around for the next 20 years?
 
 > I know Node what language should I learn next?
