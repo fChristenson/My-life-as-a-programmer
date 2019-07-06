@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Do you feel that building a series of small projects is better for learning and cementing one's development skill than building moderate to large applications?
+
 > Can you do a video on the type of organizational skills you have and the ones needed for software devs?
 
 > Will web dev be around for the next 20 years?
