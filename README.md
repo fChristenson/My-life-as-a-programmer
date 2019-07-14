@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Would you ask a junior for help if you were stuck on a program?
+
 > Can you just touch upon some of the gaps of knowledge a self taught dev most commonly have ?
 
 > What are you opinions on using PR reviews as a 'baptism of fire' (really pedantic observations) as a means of sieving through new employees?
