@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> how do you feel about over-engineered solutions that come prepackaged and allow you to get to work easily?
+
 > Have you ever worked on a professional project that didn't use unnecessary libraries?
 
 > Would you ask a junior for help if you were stuck on a program?
