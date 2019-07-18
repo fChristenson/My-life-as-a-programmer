@@ -1,5 +1,9 @@
 ## Tutorials
 
+> Can you make a video about Associate Arrays in JavaScript?
+
+https://www.youtube.com/watch?v=VQZTppmwvL0&feature=youtu.be
+
 > Can you make a tutorial about TypeScript and React?
 
 https://www.youtube.com/playlist?list=PLBAZWBMYeVYjWVQi6oyf332N4R7ZG-AOS
