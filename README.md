@@ -65,8 +65,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Can you create the video about the deployment process of this MicroServices?
 
-> Can you make a video about Associate Arrays in JavaScript?
-
 > Can you make a video about [apollo-link-state](https://www.apollographql.com/docs/link/links/state.html)?
 
 > Can you make a video about [apollo-link-rest](https://www.apollographql.com/docs/link/links/rest.html)?
