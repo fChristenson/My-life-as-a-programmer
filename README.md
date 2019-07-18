@@ -81,11 +81,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > How do you build a Chrome extension with Vue.js?
 
-> Can you make a video about enterprise Java?
-
 > Can you make a video where you compare a application built using FP and OOP?
-
-> Can you make a series using TypeScript and React?
 
 > Can you make a tutorial about [Adonis.js](https://adonisjs.com/)?
 
