@@ -1,5 +1,9 @@
 ## Tutorials
 
+> Can you make a tutorial about TypeScript and React?
+
+https://www.youtube.com/playlist?list=PLBAZWBMYeVYjWVQi6oyf332N4R7ZG-AOS
+
 > Can you make a tutorial about BEM?
 
 https://youtu.be/Kfi7c4qvF6E
