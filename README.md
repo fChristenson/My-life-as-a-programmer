@@ -49,8 +49,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Also is there a way you could make a video about books or resources that we can use to improve the architecture of our project?
 
-> Can you make a video about JWT, OAuth and Sessions?
-
 > Can you make a video about how Node services talk to a C# backend and why companies would do this?
 
 > Can you make a video where you show the difference between juniors and seniors with a focus on testing?
