@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Can you make a video about how Node services talk to a C# backend and why companies would do this?
+
 > how do you feel about over-engineered solutions that come prepackaged and allow you to get to work easily?
 
 > Have you ever worked on a professional project that didn't use unnecessary libraries?
@@ -47,27 +49,17 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending tutorials
 
-> Also is there a way you could make a video about books or resources that we can use to improve the architecture of our project?
-
-> Can you make a video about how Node services talk to a C# backend and why companies would do this?
-
 > Can you make a video where you show the difference between juniors and seniors with a focus on testing?
 
 > Can you make a video about message queues?
 
 > Can you make a full stack Java roadmap?
 
-> Can you make a video about [autocanon](https://github.com/mcollina/autocannon)?
-
-> Can you please do a video on "How to read docs"?
-
 > Can you create the video about the deployment process of this MicroServices?
 
 > Can you make a video about [apollo-link-state](https://www.apollographql.com/docs/link/links/state.html)?
 
 > Can you make a video about [apollo-link-rest](https://www.apollographql.com/docs/link/links/rest.html)?
-
-> Can you make a series on Chrome tools?
 
 > Can you make a video about loading fonts?
 
@@ -81,15 +73,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Can you make a tutorial about [Adonis.js](https://adonisjs.com/)?
 
-> Can you make a video about deploying microservices with Kubernetes?
-
 > Can you make a video about Express API tokens with token refresh?
 
 > Can you make a video about React, Angular and Vue where you compare their strengths?
 
 > How do we create an architecture for GDPR?
-
-> Can you make a Php job interview video?
 
 > Can you make a video about [nim](https://nim-lang.org/)?
 
