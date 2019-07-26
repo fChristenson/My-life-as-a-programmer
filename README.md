@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What exactly is a consultant in the software industry and what do they do?
+
 > Can you make a video about how Node services talk to a C# backend and why companies would do this?
 
 > how do you feel about over-engineered solutions that come prepackaged and allow you to get to work easily?
