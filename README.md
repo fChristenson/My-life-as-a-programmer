@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> How do you deal with project managers who over-promise on deliveries?
+
 > what is your take away using jamstack?
 
 > What do you think of Ruby?
