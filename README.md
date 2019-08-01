@@ -61,6 +61,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending tutorials
 
+>  I am really struggling with jest enzyme(best practices) , specially when I need to test redux components and sagas, can you please make a series on this?
+
 > Can you make a video where you show the difference between juniors and seniors with a focus on testing?
 
 > Can you make a video about message queues?
