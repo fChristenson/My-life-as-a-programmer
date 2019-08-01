@@ -67,8 +67,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Can you make a video about message queues?
 
-> Can you make a full stack Java roadmap?
-
 > Can you create the video about the deployment process of this MicroServices?
 
 > Can you make a video about [apollo-link-state](https://www.apollographql.com/docs/link/links/state.html)?
