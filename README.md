@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What is the difference between professional grade software development and amateur grade?
+
 > don't you think that culutural fit is just big lie ?
 
 > How do I fool everyone into believing that I am a superstar-developer?
