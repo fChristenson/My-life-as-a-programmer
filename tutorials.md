@@ -2,7 +2,7 @@
 
 > Can you make a full stack Java roadmap?
 
-https://www.youtube.com/edit?o=U&video_id=2ZRSDWrH--Y
+https://youtu.be/2ZRSDWrH--Y
 
 > Can you make a video about JWT, OAuth and Sessions?
 
