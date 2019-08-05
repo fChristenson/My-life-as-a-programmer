@@ -11,17 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> if one potential employer uses this language and another uses another language, how should I choose which one?
-
-> What is the difference between professional grade software development and amateur grade?
-
-> don't you think that culutural fit is just big lie ?
-
-> How do I fool everyone into believing that I am a superstar-developer?
-
 > How do you deal with project managers who over-promise on deliveries?
-
-> what is your take away using jamstack?
 
 > What do you think of Ruby?
 
