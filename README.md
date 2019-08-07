@@ -11,16 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> How do you deal with project managers who over-promise on deliveries?
-
-> What do you think of Ruby?
-
-> What exactly is a consultant in the software industry and what do they do?
-
-> Can you make a video about how Node services talk to a C# backend and why companies would do this?
-
-> how do you feel about over-engineered solutions that come prepackaged and allow you to get to work easily?
-
 > Have you ever worked on a professional project that didn't use unnecessary libraries?
 
 > Would you ask a junior for help if you were stuck on a program?
