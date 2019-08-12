@@ -11,11 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Have you ever worked on a professional project that didn't use unnecessary libraries?
-
-> Would you ask a junior for help if you were stuck on a program?
-
-> Can you just touch upon some of the gaps of knowledge a self taught dev most commonly have ?
+> Do you feel that there is a divide in the world of front end development ? Between JavaScript engineers and those who focus more on html/css/ design systems, patterns, accessibility etc. and what are you’re thoughts on the term UX engineer ?
 
 > What are you opinions on using PR reviews as a 'baptism of fire' (really pedantic observations) as a means of sieving through new employees?
 
