@@ -51,6 +51,30 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > If the average programmer is writing less than 50 lines of code per day, what does the rest of their work day consist of?
 
+> If Python "doesn't scale", why is Quora built on it?
+
+> What does it mean when a programming language is "faster" than another?
+
+> Why do most developers say that Python should not be used to build mission-critical software systems?
+
+> How do I stop somebody from viewing the source code of JavaScript?
+
+> In coding, if something has a simple solution, would you take a more complex solution to make it slightly more readable, or would you rather keep the simple simple?
+
+> If programming is developed by humans, then why don't they make it easier?
+
+> What can male programmers do to foster a computing community that doesn't scare women away?
+
+> As a programmer what's the biggest mic drop you've experienced when arguing with a colleague?
+
+> How do you know that you've reached expert level at some programming language?
+
+> As a programmer, what's the dumbest thing someone asked you?
+
+> A senior software engineer told me that functions should be no longer than 5 lines, but I think it's unreadable and creates a bunch of spaghetti code when you break everything down like that, who is right?
+
+> How do software companies overcome the fact that source code is visible to everyone when they use JavaScript as the front-end language?
+
 ## Pending tutorials
 
 >  I am really struggling with jest enzyme(best practices) , specially when I need to test redux components and sagas, can you please make a series on this?
