@@ -11,33 +11,45 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Do you feel that there is a divide in the world of front end development ? Between JavaScript engineers and those who focus more on html/css/ design systems, patterns, accessibility etc. and what are you’re thoughts on the term UX engineer ?
-
-> What are you opinions on using PR reviews as a 'baptism of fire' (really pedantic observations) as a means of sieving through new employees?
-
-> How about crypto/blockchain technologies?
-
-> Why is someone a junior just because they lack work experience?
-
-> What about .Net?
-
-> What about Svelte.js?
-
-> Why php and java is being hated?
-
-> How do you supervise programmers if you don't program yourself?
-
-> Programmers, what's the funniest outsider's view of your job you've ever heard?
-
-> Why is it so difficult to learn programming?
-
-> Programmers, can you explain your job to a 5 year old?
-
-> Why did you abandon your old programming language?
-
 > What practice fuels your nightmares when it comes to code and code management?
 
-> What's the single most frustrating thing a junior developer has done / said to you?
+> Why do some developers at strong companies like Google consider Agile development to be nonsense?
+
+> How can I convince the students that programming is not difficult as they think?
+
+> What are the programming mistakes most inexperienced programmers make?
+
+> What is the most useful bash script that you have ever written?
+
+> Why do people with 10 years experience have such difficulty writing simple functions during code interviews?
+
+> Is it true that code works, but no one knows why in some cases?
+
+> Why did JavaScript create "let" instead of modifying "var"?
+
+> What programming languages are overhyped?
+
+> As a senior programmer, what makes you mad when you look at a junior developers code?
+
+> Will Node.js become more popular than Java for backend software development?
+
+> Why do so many programmers not understand the theory of monads?
+
+> Is Java the most important programming language in software development?
+
+> What do software developers do outside of coding/work that makes them better developers?
+
+> Does the 10X software engineer really exist?
+
+> What confuses a programmer?
+
+> What should every developer learn early on?
+
+> Why is web programming looked down amongst programmers?
+
+> Why do some programmers prefer using recursion?
+
+> If the average programmer is writing less than 50 lines of code per day, what does the rest of their work day consist of?
 
 ## Pending tutorials
 
