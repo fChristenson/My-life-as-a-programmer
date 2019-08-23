@@ -11,29 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> What practice fuels your nightmares when it comes to code and code management?
-
-> Why do some developers at strong companies like Google consider Agile development to be nonsense?
-
-> How can I convince the students that programming is not difficult as they think?
-
-> What are the programming mistakes most inexperienced programmers make?
-
-> What is the most useful bash script that you have ever written?
-
-> Why do people with 10 years experience have such difficulty writing simple functions during code interviews?
-
-> Is it true that code works, but no one knows why in some cases?
-
-> Why did JavaScript create "let" instead of modifying "var"?
-
-> What programming languages are overhyped?
-
-> As a senior programmer, what makes you mad when you look at a junior developers code?
-
-> Will Node.js become more popular than Java for backend software development?
-
-> Why do so many programmers not understand the theory of monads?
+> So where is the difficulty and fun in programming (CRUD will eventually become boring and repetitive)?
 
 > Is Java the most important programming language in software development?
 
