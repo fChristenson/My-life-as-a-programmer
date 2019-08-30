@@ -11,38 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> So where is the difficulty and fun in programming (CRUD will eventually become boring and repetitive)?
-
-> Is Java the most important programming language in software development?
-
-> What do software developers do outside of coding/work that makes them better developers?
-
-> Does the 10X software engineer really exist?
-
-> What confuses a programmer?
-
-> What should every developer learn early on?
-
-> Why is web programming looked down amongst programmers?
-
-> Why do some programmers prefer using recursion?
-
-> If the average programmer is writing less than 50 lines of code per day, what does the rest of their work day consist of?
-
-> If Python "doesn't scale", why is Quora built on it?
-
-> What does it mean when a programming language is "faster" than another?
-
-> Why do most developers say that Python should not be used to build mission-critical software systems?
-
-> How do I stop somebody from viewing the source code of JavaScript?
-
-> In coding, if something has a simple solution, would you take a more complex solution to make it slightly more readable, or would you rather keep the simple simple?
-
-> If programming is developed by humans, then why don't they make it easier?
-
-> What can male programmers do to foster a computing community that doesn't scare women away?
-
 > As a programmer what's the biggest mic drop you've experienced when arguing with a colleague?
 
 > How do you know that you've reached expert level at some programming language?
