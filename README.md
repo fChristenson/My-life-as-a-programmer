@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> When do should we unit test frontend?
+
 > As a programmer what's the biggest mic drop you've experienced when arguing with a colleague?
 
 > How do you know that you've reached expert level at some programming language?
