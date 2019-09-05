@@ -11,17 +11,47 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> When do should we unit test frontend?
+> All the job postings want at least 1 years of experience but what if I have the skills to do the job?
 
-> As a programmer what's the biggest mic drop you've experienced when arguing with a colleague?
+> What does a regret hire look like in Software Engineering?
 
-> How do you know that you've reached expert level at some programming language?
+> As a software developer, what are some red flags that would make you reject a pull request immediately?
 
-> As a programmer, what's the dumbest thing someone asked you?
+> What are the biggest lessons you have learned in the corporate world?
 
-> A senior software engineer told me that functions should be no longer than 5 lines, but I think it's unreadable and creates a bunch of spaghetti code when you break everything down like that, who is right?
+> What are some signs that you have become a better software engineer?
 
-> How do software companies overcome the fact that source code is visible to everyone when they use JavaScript as the front-end language?
+> What are some of the best ways to push your limits as a software engineer?
+
+> How does a software manager deal when he has hired a mediocre software engineer, who is not good, but not quite bad enough to qualify for firing?
+
+> What is the most shocking line of code you've seen a seasoned programmer write?
+
+> As a software engineer, what frustrates you about the hiring process?
+
+> What is the best way to become a great programmer?
+
+> Why do software developers say they do not need to be in front of a computer to be working?
+
+> If programming is so easy, why are there so many unfilled jobs?
+
+> What do you expect an intern programmer able to do?
+
+> How difficult is hacking in real life compared to how they hack in movies?
+
+> What is something that never gets old in software engineering?
+
+> What is the most common way management causes programmers to quit?
+
+> How long is a programmer's workday in Sweden?
+
+> An employee asked me for a raise but I didn't give it to him so he resigned. How can I get him back?
+
+> What is your strangest interview experience that made you say, "No, thanks. I'll keep looking?"
+
+> What code made you think, "you can't be serious…"?
+
+> What kills a programmer’s passion?
 
 ## Pending tutorials
 
