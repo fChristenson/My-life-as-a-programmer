@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Why is it so hard for companies and corporations to build compatibility for software that they use? I generally see a lot of companies tell their employees that they are not allowed to update software because it inst compatible with their system, but couldn't they just build compatibility?
+
 > I can't get my head around the Bootstrap grid system, what should I do?
 
 > What are some signs that you have become a better software engineer?
