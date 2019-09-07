@@ -11,13 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> All the job postings want at least 1 years of experience but what if I have the skills to do the job?
-
-> What does a regret hire look like in Software Engineering?
-
-> As a software developer, what are some red flags that would make you reject a pull request immediately?
-
-> What are the biggest lessons you have learned in the corporate world?
+> I can't get my head around the Bootstrap grid system, what should I do?
 
 > What are some signs that you have become a better software engineer?
 
