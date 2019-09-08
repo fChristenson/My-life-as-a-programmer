@@ -1,5 +1,11 @@
 ## Tutorials
 
+>  I am really struggling with jest enzyme(best practices) , specially when I need to test redux components and sagas, can you please make a series on this?
+
+https://www.youtube.com/watch?v=1cVHaqhT4bQ
+
+https://www.youtube.com/watch?v=OtLxpzqSJIA
+
 > Can you make a full stack Java roadmap?
 
 https://youtu.be/2ZRSDWrH--Y
