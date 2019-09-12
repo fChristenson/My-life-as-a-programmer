@@ -11,28 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Why is it so hard for companies and corporations to build compatibility for software that they use? I generally see a lot of companies tell their employees that they are not allowed to update software because it inst compatible with their system, but couldn't they just build compatibility?
-
-> I can't get my head around the Bootstrap grid system, what should I do?
-
-> What are some signs that you have become a better software engineer?
-
-> What are some of the best ways to push your limits as a software engineer?
-
-> How does a software manager deal when he has hired a mediocre software engineer, who is not good, but not quite bad enough to qualify for firing?
-
-> What is the most shocking line of code you've seen a seasoned programmer write?
-
-> As a software engineer, what frustrates you about the hiring process?
-
-> What is the best way to become a great programmer?
-
-> Why do software developers say they do not need to be in front of a computer to be working?
-
-> If programming is so easy, why are there so many unfilled jobs?
-
-> What do you expect an intern programmer able to do?
-
 > How difficult is hacking in real life compared to how they hack in movies?
 
 > What is something that never gets old in software engineering?
@@ -50,6 +28,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > What kills a programmer’s passion?
 
 ## Pending tutorials
+
+> Can you make a video where you compare .Net core and Spring boot and possibly reflect on their predecessors ASP and Spring?
 
 > Can you make a video where you show the difference between juniors and seniors with a focus on testing?
 
