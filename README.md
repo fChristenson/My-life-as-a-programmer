@@ -11,15 +11,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Can you fix a broken office culture and a bad project?
+
 > Fredrik I am losing interest for web dev but still love JS. Do you have any suggestions? 
 
 > Can tell us what is the hardest feature you work on and how you hack it together?
-
-> How difficult is hacking in real life compared to how they hack in movies?
-
-> What is something that never gets old in software engineering?
-
-> What is the most common way management causes programmers to quit?
 
 > How long is a programmer's workday in Sweden?
 
