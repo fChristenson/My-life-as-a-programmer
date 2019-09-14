@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Please talk about how to deal with a really bad boss at work
+
 > What do you think about companies that use wysiwyg tool in there work? I recently applied for a job in medium size company and they use webflow for there work. Should I consider it as a red flag?
 
 > Can you fix a broken office culture and a bad project?
