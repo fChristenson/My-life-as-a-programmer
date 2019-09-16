@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Do you think companies ask too much from frontend developers?
+
 > What do you think about companies that use wysiwyg tool in there work? I recently applied for a job in medium size company and they use webflow for there work. Should I consider it as a red flag?
 
 > Fredrik I am losing interest for web dev but still love JS. Do you have any suggestions? 
