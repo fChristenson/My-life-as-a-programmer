@@ -11,11 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Please talk about how to deal with a really bad boss at work
-
 > What do you think about companies that use wysiwyg tool in there work? I recently applied for a job in medium size company and they use webflow for there work. Should I consider it as a red flag?
-
-> Can you fix a broken office culture and a bad project?
 
 > Fredrik I am losing interest for web dev but still love JS. Do you have any suggestions? 
 
@@ -31,7 +27,17 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What kills a programmer’s passion?
 
+## Pending projects
+
+> fc-serve, CLI to do development work in a controlled environment
+
+> fc-spa, SPA framework from scratch using a virtual dom tree
+
+> fc-covered, React coverage library for figuring out if a component has been mounted during testing
+
 ## Pending tutorials
+
+> Show how to handle testing in a multi market environment
 
 > Can you make a video where you compare .Net core and Spring boot and possibly reflect on their predecessors .Net and Spring?
 
