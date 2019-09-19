@@ -11,17 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Do you think companies ask too much from frontend developers?
-
 > What do you think about companies that use wysiwyg tool in there work? I recently applied for a job in medium size company and they use webflow for there work. Should I consider it as a red flag?
-
-> Fredrik I am losing interest for web dev but still love JS. Do you have any suggestions? 
-
-> Can tell us what is the hardest feature you work on and how you hack it together?
-
-> How long is a programmer's workday in Sweden?
-
-> An employee asked me for a raise but I didn't give it to him so he resigned. How can I get him back?
 
 > What is your strangest interview experience that made you say, "No, thanks. I'll keep looking?"
 
@@ -82,6 +72,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > Can you make a video about using React with [Laravel](https://laravel.com/)?
 
 ## Pending reviews
+
+https://www.youtube.com/redirect?stzid=Ugzgsily3I5Zm2aK1bR4AaABAg&redir_token=HmAW1n1Af0WYO3WVKu4o9xHpvl58MTU2ODk2MTQwOUAxNTY4ODc1MDA5&q=https%3A%2F%2Fwww.five1015.com%2F&html_redirect=1&event=comments
 
 https://www.npmjs.com/package/@react-google-maps/api
 
