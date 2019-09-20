@@ -11,13 +11,37 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> What do you think about companies that use wysiwyg tool in there work? I recently applied for a job in medium size company and they use webflow for there work. Should I consider it as a red flag?
+> Fredrik would you recommend to a developer to take scrum certifications? or in any case what kind of certifications would you recommend for a frontend developer?
 
-> What is your strangest interview experience that made you say, "No, thanks. I'll keep looking?"
+> As a programmer, do you think beginners are getting obsessed with data structures and algorithms?
 
-> What code made you think, "you can't be serious…"?
+> How difficult is it to find highly talented software developers?
 
-> What kills a programmer’s passion?
+> What should a web developer know?
+
+> What should I do when I lied in an interview about my past salary and now they want a copy of my last printed paycheck?
+
+> As a programmer, what did another programmer do that absolutely blew you away?
+
+> What’s the greatest career mistake a programmer can make?
+
+> What do software engineers at top companies like Google and Facebook just "get" that software engineers at other companies don't?
+
+> How different are the perspectives of a junior with 1 years of experience and a senior? What is something both face?
+
+> Do senior software engineers feel threatened when junior hires are catching up?
+
+> As a software engineer, how do you know when you’re over-engineering your code and should stop?
+
+> A super talented new graduate developer always criticizes senior developers' code and makes fun of them. His programming skill is even better than the senior developers, but no one likes him due to his personality. As CTO, what should I do?
+
+> Where do weak software developers work?
+
+> Are most code bases in tech companies a complete mess?
+
+> How many developers do you know that candevelop an application without referring to Google, Stack Overflow, and forums?
+
+> I asked my boss for a raise but he said I didn't deserve it, so I sent him my resignation letter. Now he is asking me to stay with a higher salary. Should I accept his offer?
 
 ## Pending projects
 
