@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Do you think its just as difficult to find good Node developers? Is this a reason to go with Python or Java as you’re more likely to find more competent developers?
+
 > Fredrik would you recommend to a developer to take scrum certifications? or in any case what kind of certifications would you recommend for a frontend developer?
 
 > As a programmer, do you think beginners are getting obsessed with data structures and algorithms?
