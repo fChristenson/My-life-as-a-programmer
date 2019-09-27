@@ -11,35 +11,29 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Do you think its just as difficult to find good Node developers? Is this a reason to go with Python or Java as you’re more likely to find more competent developers?
+> How is it possible that a website would cost over a billion?
 
-> Fredrik would you recommend to a developer to take scrum certifications? or in any case what kind of certifications would you recommend for a frontend developer?
+> How should you start learning programming?
 
-> As a programmer, do you think beginners are getting obsessed with data structures and algorithms?
+> Why is appointment scheduling important?
 
-> How difficult is it to find highly talented software developers?
+> How do I show to a company how bad it is to develop a software without any planning and documentation neither any notable software designs, patterns, and architectures?
 
-> What should a web developer know?
+> What do great programmers know that average programmers don't?
 
-> What should I do when I lied in an interview about my past salary and now they want a copy of my last printed paycheck?
+> What should you never say to a programmer?
 
-> As a programmer, what did another programmer do that absolutely blew you away?
+> As a programmer, how many monitors do you need to work efficiently: one, two, three, or more monitors?
 
-> What’s the greatest career mistake a programmer can make?
+> I want to be an engineer, but all those stories of horrible and ignorant bosses are putting me off, is it really like that?
 
-> What do software engineers at top companies like Google and Facebook just "get" that software engineers at other companies don't?
+> What are the best business lessons we can learn from companies that got huge?
 
-> How different are the perspectives of a junior with 1 years of experience and a senior? What is something both face?
+> What are some ugly truths of careers?
 
-> Do senior software engineers feel threatened when junior hires are catching up?
+> What has life taught you recently?
 
-> As a software engineer, how do you know when you’re over-engineering your code and should stop?
-
-> A super talented new graduate developer always criticizes senior developers' code and makes fun of them. His programming skill is even better than the senior developers, but no one likes him due to his personality. As CTO, what should I do?
-
-> Where do weak software developers work?
-
-> Are most code bases in tech companies a complete mess?
+> Should or can a senior backend developer be able to build a simple simple crud app 100% from memory?
 
 > How many developers do you know that candevelop an application without referring to Google, Stack Overflow, and forums?
 
