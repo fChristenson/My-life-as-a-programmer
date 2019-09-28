@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> How do you deal with it when code, written by you, fails in production? Do you have any practical advice on how to cope?
+
 > What stops management/devs from making these small decisions during the planning phase and story creation?
 
 > How is it possible that a website would cost over a billion?
