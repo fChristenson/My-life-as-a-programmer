@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What stops management/devs from making these small decisions during the planning phase and story creation?
+
 > How is it possible that a website would cost over a billion?
 
 > How should you start learning programming?
