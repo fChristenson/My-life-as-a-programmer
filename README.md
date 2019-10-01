@@ -11,6 +11,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What are the differences between being a consultant and a direct employee within a company, when it comes to salary, job security, job position ?
+
+> Depending on your Seniority level (Junior, Mid, Senior), what type of employment should you choose from the aforementioned ones to get most of the benefits ?
+
 > Hey Fredrik I am looking at a job offer that interests me... I want to get hired but the company works closely with a recruiting agency so I would have to sign a contract with the recruiting agency... I really hate the idea that there has to be some 3rd party intermediary ripping me off while providing absolutely 0 value to me. I know this company because a friend works there. I contacted them directly but they forwarded me to the recruiting agency. I have some kind of weird animostiy towards recruiting agencies and I would rather be jobless while looking for another offer where I get hired by a company directly. In my mind these agencies are literal scam artist doing absolutely nothing for ME (while getting a cut from my wage) so I really do NOT want to sign that contract even tho I am almost certain that I am qualified for this position. Do you have any experience with this?
 
 > How is it possible that a website would cost over a billion?
