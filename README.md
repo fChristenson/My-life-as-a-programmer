@@ -23,6 +23,74 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Hey Fredrik I am looking at a job offer that interests me... I want to get hired but the company works closely with a recruiting agency so I would have to sign a contract with the recruiting agency... I really hate the idea that there has to be some 3rd party intermediary ripping me off while providing absolutely 0 value to me. I know this company because a friend works there. I contacted them directly but they forwarded me to the recruiting agency. I have some kind of weird animostiy towards recruiting agencies and I would rather be jobless while looking for another offer where I get hired by a company directly. In my mind these agencies are literal scam artist doing absolutely nothing for ME (while getting a cut from my wage) so I really do NOT want to sign that contract even tho I am almost certain that I am qualified for this position. Do you have any experience with this?
 
+> What looks bad on a background check?
+
+> What screams, "I am a coward software developer"?
+
+> What is a big problem right now in software engineering?
+
+> What is your own most genius piece of code?
+
+> Can you explain to a novice programmer what is the null safety that Kotlin has but Java does not?
+
+> What are the signs that a code has been made by a junior programmer?
+
+> How exactly does job hopping every 2 years optimize your salary in the long run?
+
+> Do product-based companies take the hiring of front-end engineers seriously like they do with those hired through competitive coding?
+
+> As a web developer, is Node.js a must?
+
+> What are some things about coding that you learned from good programmers around you?
+
+> What little known facts about algorithms don't they teach you?
+
+> Java is so behind technologically, why do so many people still want to be Java developers?
+
+> Is functional programming a waste of time?
+
+> What programming language do hackers use?
+
+> What makes one programmer better than another, and what do they do to get that edge?
+
+> What is the most shocking line of code you've seen a seasoned programmer write?
+
+> As a developer, what was your lowest point?
+
+> What’s the most coveted skill as a software developer?
+
+> What are some highly overlooked things in software development?
+
+> What was the thing that made you quit your last job?
+
+> A well-known weak developer in the company suddenly solved a hard problem, and everyone was amazed. I asked why he doesn't perform like this in his daily tasks, he said he doesn't want to have any expectations from the management. What do you think?
+
+> Would you hire a programmer who’s never heard of GitHub?
+
+> Why do so many software developers refuse to upgrade their skills over time, knowing that it is vital to their career prospects?
+
+> Why is Java losing popularity?
+
+> What are some common career landmines that software engineers should watch out for?
+
+> Why do programmers use the ternary operator instead of explicitly writing out an if statement?
+
+> As a software developer/engineer, what technologies do you feel are a waste of time learning? Why?
+
+> A recruiter messages me on LinkedIn and directly asks for my resume. I asked her to send me the complete job description and rate, and if I like the job I will send her my resume and we will go from there. What is wrong with that?
+
+> What tech job interviews do not require knowledge of data structures and algorithms?
+
+> After long years of experience as a programmer, what's your understanding of software?
+
+> What does it mean If an employee is the first to arrive and the last to leave?
+
+> What is the most useful code comment you've seen?
+
+> What programming concept went too far?
+
+> Which software language is best for developing a website that can scale to over 100 million users?
+
 > How is it possible that a website would cost over a billion?
 
 > How should you start learning programming?
