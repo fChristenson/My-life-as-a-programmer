@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Would you say that it's better for beginners to focus on frontend or backend or devops rather than learn all those things at once? Get some expertise at one of them and get a job, then learn what other things employer can teach you. Or there's a better way?
+
 > What about MongoDB change streams?
 
 > Would you as a more senior programmer have a problem with helping someone newer if they already put in the work finding reading material and such online? I'm good at learning but it's often hard to find educational material. When you talk about deploying etcetera here, I am thinking of software such as webpack, npm or grunt but as a novice it's hard to seperate what knowledge is 5 years old and what is "new". What I'm trying to say is, often times - You can find too much information for it to be helpful with code today, I think this deploying a site or "pushing changes" is something every youtuber covers differently, it's not like commenting code when it makes intuitive sense to write down what each section of your code does - Everyone out there seem to think of deploying and pushing changes as something slightly different
