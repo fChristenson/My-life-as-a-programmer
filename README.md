@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Could you tell me how a Jr. Dev should become acclimated to a new job?
+
 > What age did you seriously started learning programming? And how old were you, when you got your first job?
 
 > If you had to choose 1-2 books that helped you the most as far as learning programming what would those books be ?
@@ -19,15 +21,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What about MongoDB change streams?
 
-> Would you as a more senior programmer have a problem with helping someone newer if they already put in the work finding reading material and such online? I'm good at learning but it's often hard to find educational material. When you talk about deploying etcetera here, I am thinking of software such as webpack, npm or grunt but as a novice it's hard to seperate what knowledge is 5 years old and what is "new". What I'm trying to say is, often times - You can find too much information for it to be helpful with code today, I think this deploying a site or "pushing changes" is something every youtuber covers differently, it's not like commenting code when it makes intuitive sense to write down what each section of your code does - Everyone out there seem to think of deploying and pushing changes as something slightly different
-
 > What are the differences between being a consultant and a direct employee within a company, when it comes to salary, job security, job position ?
 
 > Depending on your Seniority level (Junior, Mid, Senior), what type of employment should you choose from the aforementioned ones to get most of the benefits ?
-
-> Hey Fredrik I am looking at a job offer that interests me... I want to get hired but the company works closely with a recruiting agency so I would have to sign a contract with the recruiting agency... I really hate the idea that there has to be some 3rd party intermediary ripping me off while providing absolutely 0 value to me. I know this company because a friend works there. I contacted them directly but they forwarded me to the recruiting agency. I have some kind of weird animostiy towards recruiting agencies and I would rather be jobless while looking for another offer where I get hired by a company directly. In my mind these agencies are literal scam artist doing absolutely nothing for ME (while getting a cut from my wage) so I really do NOT want to sign that contract even tho I am almost certain that I am qualified for this position. Do you have any experience with this?
-
-> What looks bad on a background check?
 
 > What screams, "I am a coward software developer"?
 
