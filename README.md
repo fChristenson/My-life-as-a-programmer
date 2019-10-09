@@ -11,23 +11,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Hey Fredrik, how could I tell to my co-workers how much time some task will take? It's my first job and I don't really know it myself
+
 > Could you tell me how a Jr. Dev should become acclimated to a new job?
 
-> What age did you seriously started learning programming? And how old were you, when you got your first job?
-
-> If you had to choose 1-2 books that helped you the most as far as learning programming what would those books be ?
-
-> Would you say that it's better for beginners to focus on frontend or backend or devops rather than learn all those things at once? Get some expertise at one of them and get a job, then learn what other things employer can teach you. Or there's a better way?
-
 > What about MongoDB change streams?
-
-> What are the differences between being a consultant and a direct employee within a company, when it comes to salary, job security, job position ?
-
-> Depending on your Seniority level (Junior, Mid, Senior), what type of employment should you choose from the aforementioned ones to get most of the benefits ?
-
-> What screams, "I am a coward software developer"?
-
-> What is a big problem right now in software engineering?
 
 > What is your own most genius piece of code?
 
