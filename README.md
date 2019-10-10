@@ -21,19 +21,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Can you explain to a novice programmer what is the null safety that Kotlin has but Java does not?
 
-> What are the signs that a code has been made by a junior programmer?
-
 > How exactly does job hopping every 2 years optimize your salary in the long run?
-
-> Do product-based companies take the hiring of front-end engineers seriously like they do with those hired through competitive coding?
-
-> As a web developer, is Node.js a must?
 
 > What are some things about coding that you learned from good programmers around you?
 
 > What little known facts about algorithms don't they teach you?
-
-> Java is so behind technologically, why do so many people still want to be Java developers?
 
 > Is functional programming a waste of time?
 
