@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Where would you expect a seniors code to be?
+
 > Hey Fredrik, how could I tell to my co-workers how much time some task will take? It's my first job and I don't really know it myself
 
 > Could you tell me how a Jr. Dev should become acclimated to a new job?
