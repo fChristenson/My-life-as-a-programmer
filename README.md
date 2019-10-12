@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> How do I know when to ask for help?
+
 > How many strikes do you get?
 
 > Where would you expect a seniors code to be?
