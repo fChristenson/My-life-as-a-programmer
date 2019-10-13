@@ -115,6 +115,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending tutorials
 
+> Can you make video on how to configure the workflow between production, development and local environments? Something relevant nowadays in the industry (maybe with Git and Docker) and taking security into consideration?
+
 > Show how to handle testing in a multi market environment
 
 > Can you make a video where you compare .Net core and Spring boot and possibly reflect on their predecessors .Net and Spring?
