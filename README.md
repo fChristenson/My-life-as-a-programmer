@@ -11,65 +11,19 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> How do I know when to ask for help?
-
-> How many strikes do you get?
-
-> Where would you expect a seniors code to be?
-
-> Hey Fredrik, how could I tell to my co-workers how much time some task will take? It's my first job and I don't really know it myself
-
-> Could you tell me how a Jr. Dev should become acclimated to a new job?
+> How would you try to convince someone like that in a team though? Every team I have been in always has that 1 guy who seems to have everything go their way, even though they are rubbish ideas.
 
 > What about MongoDB change streams?
 
-> What is your own most genius piece of code?
-
-> Can you explain to a novice programmer what is the null safety that Kotlin has but Java does not?
-
-> How exactly does job hopping every 2 years optimize your salary in the long run?
-
-> What are some things about coding that you learned from good programmers around you?
-
-> What little known facts about algorithms don't they teach you?
-
-> Is functional programming a waste of time?
-
-> What programming language do hackers use?
-
-> What makes one programmer better than another, and what do they do to get that edge?
-
-> What is the most shocking line of code you've seen a seasoned programmer write?
-
-> As a developer, what was your lowest point?
-
-> What’s the most coveted skill as a software developer?
-
-> What are some highly overlooked things in software development?
-
-> What was the thing that made you quit your last job?
-
 > A well-known weak developer in the company suddenly solved a hard problem, and everyone was amazed. I asked why he doesn't perform like this in his daily tasks, he said he doesn't want to have any expectations from the management. What do you think?
 
-> Would you hire a programmer who’s never heard of GitHub?
-
-> Why do so many software developers refuse to upgrade their skills over time, knowing that it is vital to their career prospects?
-
 > Why is Java losing popularity?
-
-> What are some common career landmines that software engineers should watch out for?
 
 > Why do programmers use the ternary operator instead of explicitly writing out an if statement?
 
 > As a software developer/engineer, what technologies do you feel are a waste of time learning? Why?
 
-> A recruiter messages me on LinkedIn and directly asks for my resume. I asked her to send me the complete job description and rate, and if I like the job I will send her my resume and we will go from there. What is wrong with that?
-
 > What tech job interviews do not require knowledge of data structures and algorithms?
-
-> After long years of experience as a programmer, what's your understanding of software?
-
-> What does it mean If an employee is the first to arrive and the last to leave?
 
 > What is the most useful code comment you've seen?
 
