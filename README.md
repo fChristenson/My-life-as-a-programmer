@@ -11,7 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> How would you try to convince someone like that in a team though? Every team I have been in always has that 1 guy who seems to have everything go their way, even though they are rubbish ideas.
+> bro, What's your view on #blockchain?
 
 > What about MongoDB change streams?
 
@@ -19,15 +19,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Why is Java losing popularity?
 
-> Why do programmers use the ternary operator instead of explicitly writing out an if statement?
-
 > As a software developer/engineer, what technologies do you feel are a waste of time learning? Why?
 
 > What tech job interviews do not require knowledge of data structures and algorithms?
 
 > What is the most useful code comment you've seen?
-
-> What programming concept went too far?
 
 > Which software language is best for developing a website that can scale to over 100 million users?
 
