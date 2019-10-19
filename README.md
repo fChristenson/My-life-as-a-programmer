@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> If your main goal are becoming freelance developer, are front end a better choice?
+
 > What are some personality traits of a great senior developer?
 
 > What are your thoughts on native web components? How do you see it effecting how we build web applications once all the major browsers support it?
