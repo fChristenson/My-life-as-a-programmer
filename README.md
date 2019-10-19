@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What do you think about Laravel and Cake? Do they solve or at least improve, a lot of the problems otherwise caused by relative lack of experience?
+
 > bro, What's your view on #blockchain?
 
 > What about MongoDB change streams?
