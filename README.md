@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> What are your thoughts on native web components? How do you see it effecting how we build web applications once all the major browsers support it?
+
 > What do you think about Laravel and Cake? Do they solve or at least improve, a lot of the problems otherwise caused by relative lack of experience?
 
 > bro, What's your view on #blockchain?
