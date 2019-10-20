@@ -11,6 +11,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Any advice to gently push a team into using a version control system? (such as Git), I'm currently working in a startup and they scared of Git, to the point they would rather work on the project one by one and send it via Dropbox / Google Drive.
+I joined the team not so long ago, but they have been working like this for nearly three years (granted it's a small team so it hasn't affected them "as much"), I just feel we are wasting so much time, because while a single member is working on their part of the project, everyone else has nothing to do, but I don't want to leave because it's my first real-world job in this field.
+
 > How are programmers supposed to learn to write quality code when every company asks us to cut corners?
 
 > Fredrik, do you ever think about starting your own business in web development or are you content with working in a corporate environment? What is your opinion on someone who wants to start their own web development business?
