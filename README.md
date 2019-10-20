@@ -11,6 +11,13 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> How are programmers supposed to learn to write quality code when every company asks us to cut corners?
+
+> Fredrik, do you ever think about starting your own business in web development or are you content with working in a corporate environment? What is your opinion on someone who wants to start their own web development business?
+
+> Fredrik, I wasn't sure if its okay to ask this question, but all your advice has been so helpful and there is hardly any information about this online, What is your opinion on storing keys? Encryption keys/HMAC keys?
+JWT is fine, but if I am doing stateful sessions with a token in the db which is hashed with HMAC with a key, now what is the best place to keep that key in rest? HSM's are expensive, can we store it on the server outside the document root?
+
 > If your main goal are becoming freelance developer, are front end a better choice?
 
 > What are some personality traits of a great senior developer?
