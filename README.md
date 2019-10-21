@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Hey man could you consider making a few videos about mental health in a programming career? I understand you are not qualified to give that kind of advice but would still like to hear your thoughts. I recently got a new job and it literally makes me depressed not because im not competent but mostly cus I dont seem to be able to connect with my coworkers and have fun comversations... I feel like a bit of a drone. I absolutely love programming but this is really killing me inside and i dread going to work and feel like a reject even though im doing good work and not really having any major technical problems. I wouldnt say Im socially awkward but there just seems to be no interest from my coworkers to get to know me better and I dont want to be annoying. It feels really terrible even tho on the outside I look like everything is fine.
+
 > Any advice to gently push a team into using a version control system? (such as Git), I'm currently working in a startup and they scared of Git, to the point they would rather work on the project one by one and send it via Dropbox / Google Drive.
 I joined the team not so long ago, but they have been working like this for nearly three years (granted it's a small team so it hasn't affected them "as much"), I just feel we are wasting so much time, because while a single member is working on their part of the project, everyone else has nothing to do, but I don't want to leave because it's my first real-world job in this field.
 
