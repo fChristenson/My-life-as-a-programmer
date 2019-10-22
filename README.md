@@ -11,21 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Hey man could you consider making a few videos about mental health in a programming career? I understand you are not qualified to give that kind of advice but would still like to hear your thoughts. I recently got a new job and it literally makes me depressed not because im not competent but mostly cus I dont seem to be able to connect with my coworkers and have fun comversations... I feel like a bit of a drone. I absolutely love programming but this is really killing me inside and i dread going to work and feel like a reject even though im doing good work and not really having any major technical problems. I wouldnt say Im socially awkward but there just seems to be no interest from my coworkers to get to know me better and I dont want to be annoying. It feels really terrible even tho on the outside I look like everything is fine.
-
-> Any advice to gently push a team into using a version control system? (such as Git), I'm currently working in a startup and they scared of Git, to the point they would rather work on the project one by one and send it via Dropbox / Google Drive.
-I joined the team not so long ago, but they have been working like this for nearly three years (granted it's a small team so it hasn't affected them "as much"), I just feel we are wasting so much time, because while a single member is working on their part of the project, everyone else has nothing to do, but I don't want to leave because it's my first real-world job in this field.
-
-> How are programmers supposed to learn to write quality code when every company asks us to cut corners?
-
-> Fredrik, do you ever think about starting your own business in web development or are you content with working in a corporate environment? What is your opinion on someone who wants to start their own web development business?
-
-> Fredrik, I wasn't sure if its okay to ask this question, but all your advice has been so helpful and there is hardly any information about this online, What is your opinion on storing keys? Encryption keys/HMAC keys?
-JWT is fine, but if I am doing stateful sessions with a token in the db which is hashed with HMAC with a key, now what is the best place to keep that key in rest? HSM's are expensive, can we store it on the server outside the document root?
-
-> If your main goal are becoming freelance developer, are front end a better choice?
-
-> What are some personality traits of a great senior developer?
+> @fredrik I wonder what your thoughts are on passive income, niche websites and affiliate marketing? what do you recommend for freelancing?
 
 > What are your thoughts on native web components? How do you see it effecting how we build web applications once all the major browsers support it?
 
