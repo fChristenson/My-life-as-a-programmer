@@ -11,27 +11,15 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> @fredrik I wonder what your thoughts are on passive income, niche websites and affiliate marketing? what do you recommend for freelancing?
-
-> What are your thoughts on native web components? How do you see it effecting how we build web applications once all the major browsers support it?
-
-> What do you think about Laravel and Cake? Do they solve or at least improve, a lot of the problems otherwise caused by relative lack of experience?
-
-> bro, What's your view on #blockchain?
+> Hi man good content again. Can you give us insight about ORM and raw SQL backend. What are your professional experience about this matter. Thank you much for quality content.
 
 > What about MongoDB change streams?
-
-> A well-known weak developer in the company suddenly solved a hard problem, and everyone was amazed. I asked why he doesn't perform like this in his daily tasks, he said he doesn't want to have any expectations from the management. What do you think?
 
 > Why is Java losing popularity?
 
 > As a software developer/engineer, what technologies do you feel are a waste of time learning? Why?
 
 > What tech job interviews do not require knowledge of data structures and algorithms?
-
-> What is the most useful code comment you've seen?
-
-> Which software language is best for developing a website that can scale to over 100 million users?
 
 > How is it possible that a website would cost over a billion?
 
