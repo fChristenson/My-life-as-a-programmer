@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Hey Fredrik, I’m about to finish my first year of Web development. My question for you is what are concepts and practices I should be comfortable with now my first year is over? 
+
 > Hi man good content again. Can you give us insight about ORM and raw SQL backend. What are your professional experience about this matter. Thank you much for quality content.
 
 > What about MongoDB change streams?
