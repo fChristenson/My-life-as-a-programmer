@@ -71,6 +71,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending tutorials
 
+> Can you show how the BDD workflow works?
+
 > Can you make video on how to configure the workflow between production, development and local environments? Something relevant nowadays in the industry (maybe with Git and Docker) and taking security into consideration?
 
 > Show how to handle testing in a multi market environment
