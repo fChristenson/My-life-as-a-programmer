@@ -23,16 +23,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What tech job interviews do not require knowledge of data structures and algorithms?
 
-> How is it possible that a website would cost over a billion?
-
-> How should you start learning programming?
-
-> Why is appointment scheduling important?
-
-> How do I show to a company how bad it is to develop a software without any planning and documentation neither any notable software designs, patterns, and architectures?
-
-> What do great programmers know that average programmers don't?
-
 > What should you never say to a programmer?
 
 > As a programmer, how many monitors do you need to work efficiently: one, two, three, or more monitors?
