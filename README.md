@@ -11,8 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Hey Fredrik, I’m about to finish my first year of Web development. My question for you is what are concepts and practices I should be comfortable with now my first year is over? 
-
 > Hi man good content again. Can you give us insight about ORM and raw SQL backend. What are your professional experience about this matter. Thank you much for quality content.
 
 > What about MongoDB change streams?
@@ -23,23 +21,23 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What tech job interviews do not require knowledge of data structures and algorithms?
 
-> What should you never say to a programmer?
-
-> As a programmer, how many monitors do you need to work efficiently: one, two, three, or more monitors?
-
-> I want to be an engineer, but all those stories of horrible and ignorant bosses are putting me off, is it really like that?
-
-> What are the best business lessons we can learn from companies that got huge?
-
-> What are some ugly truths of careers?
-
-> What has life taught you recently?
-
-> Should or can a senior backend developer be able to build a simple simple crud app 100% from memory?
-
 > How many developers do you know that candevelop an application without referring to Google, Stack Overflow, and forums?
 
 > I asked my boss for a raise but he said I didn't deserve it, so I sent him my resignation letter. Now he is asking me to stay with a higher salary. Should I accept his offer?
+
+> What is the most ludicrous feature you were asked to code as a software engineer?
+
+> Many times I was told "Agile is not implemented right". How should it be implemented? And why is it so often implemented wrong?
+
+> What should you never say in a software engineer interview?
+
+> A senior software developer works very slowly. He is even 3 times slower than a new graduate developer while his code quality is just on par with other developers. As the CTO, what should I do?
+
+> Is it true that back-end developers really have better and deeper technical skills than front-end developers?
+
+> What's a sure sign a software engineer is past his/her prime?
+
+> As a software engineer, would you say that stand-ups are necessary for the agile process?
 
 ## Pending projects
 
