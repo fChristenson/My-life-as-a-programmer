@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Fredrik, how would you start covering with tests a frontend code base of an exciting big app ?
+
 > Can you describe the ideal process by which a junior comes to understand or is introduced to a new codebase and starts contributing by completing tasks as a team member. 
 
 I’ve been having issues at a new job and been noted as inefficient. I ask for lots of help as many times I don’t know where to begin when I need to build certain features because I’m not familiar the business or how to use the code already written. The codebase also doesn’t have any documentation and few comments.
