@@ -11,21 +11,17 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> What about CRM solutions like Salesforce or SAP...
+> Can you describe the ideal process by which a junior comes to understand or is introduced to a new codebase and starts contributing by completing tasks as a team member. 
 
-> How do i handle incompetent seniors as a junior?
+I’ve been having issues at a new job and been noted as inefficient. I ask for lots of help as many times I don’t know where to begin when I need to build certain features because I’m not familiar the business or how to use the code already written. The codebase also doesn’t have any documentation and few comments.
 
 > Hi man good content again. Can you give us insight about ORM and raw SQL backend. What are your professional experience about this matter. Thank you much for quality content.
 
 > What about MongoDB change streams?
 
-> Why is Java losing popularity?
-
 > As a software developer/engineer, what technologies do you feel are a waste of time learning? Why?
 
 > What tech job interviews do not require knowledge of data structures and algorithms?
-
-> How many developers do you know that candevelop an application without referring to Google, Stack Overflow, and forums?
 
 > I asked my boss for a raise but he said I didn't deserve it, so I sent him my resignation letter. Now he is asking me to stay with a higher salary. Should I accept his offer?
 
