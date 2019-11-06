@@ -11,33 +11,13 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Fredrik, how would you start covering with tests a frontend code base of an exciting big app ?
-
-> Can you describe the ideal process by which a junior comes to understand or is introduced to a new codebase and starts contributing by completing tasks as a team member. 
-
-I’ve been having issues at a new job and been noted as inefficient. I ask for lots of help as many times I don’t know where to begin when I need to build certain features because I’m not familiar the business or how to use the code already written. The codebase also doesn’t have any documentation and few comments.
+> Fredrik, is C++ useful in any shape or form for back-end developers? why / why not?
 
 > Hi man good content again. Can you give us insight about ORM and raw SQL backend. What are your professional experience about this matter. Thank you much for quality content.
 
 > What about MongoDB change streams?
 
 > As a software developer/engineer, what technologies do you feel are a waste of time learning? Why?
-
-> What tech job interviews do not require knowledge of data structures and algorithms?
-
-> I asked my boss for a raise but he said I didn't deserve it, so I sent him my resignation letter. Now he is asking me to stay with a higher salary. Should I accept his offer?
-
-> What is the most ludicrous feature you were asked to code as a software engineer?
-
-> Many times I was told "Agile is not implemented right". How should it be implemented? And why is it so often implemented wrong?
-
-> What should you never say in a software engineer interview?
-
-> A senior software developer works very slowly. He is even 3 times slower than a new graduate developer while his code quality is just on par with other developers. As the CTO, what should I do?
-
-> Is it true that back-end developers really have better and deeper technical skills than front-end developers?
-
-> What's a sure sign a software engineer is past his/her prime?
 
 > As a software engineer, would you say that stand-ups are necessary for the agile process?
 
