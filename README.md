@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> if i work for a company that uses pear review as part of performance review, should I give my team mates full score? the team members should look out for each other ?
+
 > Fredrik, is C++ useful in any shape or form for back-end developers? why / why not?
 
 > Hi man good content again. Can you give us insight about ORM and raw SQL backend. What are your professional experience about this matter. Thank you much for quality content.
