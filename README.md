@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> reat video Fredrick! Hmm, how can someone accelerate that process to being a senior?
+
 > Hey Fredrik,
 I have been working as a junior developer for the company I am with for about 2 1/2 years now, the mentorship has been hit and miss. I think this is in part because it's a small team that is constantly busy. I feel loyalty to this company since they did give me my first chance as a professional developer. At the same time I fear they may be taking advantage of me, I have only gotten one cost of living raise since starting there full time and my salary is 10-30k below the regional average for my experience. This started as a summer internship but I felt I needed the experience and money so when they offered me a full time job I accepted. I didn't finish my 3 yr college only having done 2 years.
 I have been responsible for the full stack of multiple web apps that I have designed, developed and maintain for the company, but my title is still Junior Programmer, I have attempted to discuss dropping the junior portion and getting a raise in line with the regional average but I seem to mainly get avoidance and possible suggestions that I might not be ready. 
