@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Fredrik, is OOP the dominant paradigm because it's easier than pure FP?
+
 > As a frontend developer, do you think that it makes sense to build some projects with c# or java to improve knowledge of oop and design patterns?
 
 > Fredrik why do so few programers know domain driven design?
