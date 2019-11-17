@@ -11,6 +11,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Hey Fredrik potential subject for a new video: 
+Do you think one would be better served to pick Java over C# as an area to gain expertise in. Why or why not and what do you see as the pros and cons of both?
+
 > Fredrik, is OOP the dominant paradigm because it's easier than pure FP?
 
 > As a frontend developer, do you think that it makes sense to build some projects with c# or java to improve knowledge of oop and design patterns?
