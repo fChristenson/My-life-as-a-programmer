@@ -11,6 +11,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Hey Frederick, how should I deal with co-workers who are, in simple words, not up to the task given to the team?
+Currently I'm in my last year of college and I had to build some apps with people I've never worked with and the experience was pretty bad to say the least. I tried to do my best but I ended up being the "bad guy" and the "bad-teammate", so I would like to know how you approach this kind of situations.
+
 > Hey Fredrik potential subject for a new video: 
 Do you think one would be better served to pick Java over C# as an area to gain expertise in. Why or why not and what do you see as the pros and cons of both?
 
