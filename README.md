@@ -11,24 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Hey Frederick, how should I deal with co-workers who are, in simple words, not up to the task given to the team?
-Currently I'm in my last year of college and I had to build some apps with people I've never worked with and the experience was pretty bad to say the least. I tried to do my best but I ended up being the "bad guy" and the "bad-teammate", so I would like to know how you approach this kind of situations.
-
-> Hey Fredrik potential subject for a new video: 
-Do you think one would be better served to pick Java over C# as an area to gain expertise in. Why or why not and what do you see as the pros and cons of both?
-
-> Fredrik, is OOP the dominant paradigm because it's easier than pure FP?
-
-> As a frontend developer, do you think that it makes sense to build some projects with c# or java to improve knowledge of oop and design patterns?
-
-> Fredrik why do so few programers know domain driven design?
-
-> Hey Fredrik,
-I have been working as a junior developer for the company I am with for about 2 1/2 years now, the mentorship has been hit and miss. I think this is in part because it's a small team that is constantly busy. I feel loyalty to this company since they did give me my first chance as a professional developer. At the same time I fear they may be taking advantage of me, I have only gotten one cost of living raise since starting there full time and my salary is 10-30k below the regional average for my experience. This started as a summer internship but I felt I needed the experience and money so when they offered me a full time job I accepted. I didn't finish my 3 yr college only having done 2 years.
-I have been responsible for the full stack of multiple web apps that I have designed, developed and maintain for the company, but my title is still Junior Programmer, I have attempted to discuss dropping the junior portion and getting a raise in line with the regional average but I seem to mainly get avoidance and possible suggestions that I might not be ready. 
-I am a father and have financial obligations so I am unable to just leave without something lined up, and at the same time a combination of my loyalty to the company and inexperience applying to jobs as a professional make me hesitate. If you have the time I would love to hear what advice you might have.
-
-> Fredrik, is C++ useful in any shape or form for back-end developers? why / why not?
+> What's your take on people grinding leetcode besides doing actual applications? I have met people who are so good at it but have no idea on how to build an application, there's plenty of those people on reddit but nobody seems to care... is something going over my head? I seriously would like to know
 
 > Hi man good content again. Can you give us insight about ORM and raw SQL backend. What are your professional experience about this matter. Thank you much for quality content.
 
