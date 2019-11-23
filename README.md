@@ -19,12 +19,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > As a software developer/engineer, what technologies do you feel are a waste of time learning? Why?
 
-> As a software engineer, would you say that stand-ups are necessary for the agile process?
-
-> What does your typical day look like as a computer programmer?
-
-> I need my employees to work more than 9 to 5. What can I do to make them do this?
-
 > What is something impossible you’ve been asked to do as a software engineer?
 
 > As a software engineer, did you ever come across another software engineer who thought they were too good (but were actually not)?
@@ -44,6 +38,16 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > Python just replaced Java on GitHub. Does this mean that one should pick Python over Java career-wise?
 
 > What are some tips for a first JavaScript developer job?
+
+> Should a website work without JavaScript?
+
+> whats the best way to visualize an app idea
+
+> How to be a bad senior developer ?
+
+> Should I Learn Swift or Cross Platform?
+
+> What is so wrong with TDD?
 
 ## Pending projects
 
