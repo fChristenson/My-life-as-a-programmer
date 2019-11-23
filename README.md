@@ -49,6 +49,22 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What is so wrong with TDD?
 
+> What does the application development lifecycle look like?
+
+> What is incremental development?
+
+> What is DDD?
+
+> Should I take a job as a remote Java developer?
+
+> Should I become a Salesforce developer?
+
+> What is agile development?
+
+> Do I need to learn SQL to be a programmer?
+
+> How can you manage joint application development?
+
 ## Pending projects
 
 > fc-serve, CLI to do development work in a controlled environment
