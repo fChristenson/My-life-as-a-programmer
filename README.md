@@ -11,11 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> What's your take on people grinding leetcode besides doing actual applications? I have met people who are so good at it but have no idea on how to build an application, there's plenty of those people on reddit but nobody seems to care... is something going over my head? I seriously would like to know
-
 > Hi man good content again. Can you give us insight about ORM and raw SQL backend. What are your professional experience about this matter. Thank you much for quality content.
-
-> What about MongoDB change streams?
 
 > As a software developer/engineer, what technologies do you feel are a waste of time learning? Why?
 
@@ -64,6 +60,34 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > Do I need to learn SQL to be a programmer?
 
 > How can you manage joint application development?
+
+> What is the worst part of being a software engineer?
+
+> What do they not tell you about web development?
+
+> Have you ever hired someone that did amazingly well in their coding interviews but turned out to be a terrible software engineer?
+
+> How do I get interview calls from companies?
+
+> What is a great example of a very passionate software engineer?
+
+> Why does every software engineer want to get hired by Google even though there are thousands of other companies that are offering better job opportunities?
+
+> Why is it an amazing time to be a software engineer?
+
+> What is a good rule of thumb to always remember?
+
+> As a software engineer, did you ever get a customer requirement that made you think - “I bet they don’t know how software works”?
+
+> How can I advance my engineering career?
+
+> When a non-programmer says programming is easy, as a programmer, what should I say?
+
+> Does it make me look bad if I accept a job, start the new job, and then accept a better offer within 2 weeks?
+
+> What is the best kept secret in software development?
+
+> As a software developer, what do you do if you’re not very smart?
 
 ## Pending projects
 
