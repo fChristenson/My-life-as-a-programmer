@@ -89,6 +89,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > As a software developer, what do you do if you’re not very smart?
 
+> How To Stand Out As A Developer
+
 ## Pending projects
 
 > fc-serve, CLI to do development work in a controlled environment
