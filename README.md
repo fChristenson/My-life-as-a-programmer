@@ -11,29 +11,17 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Fredrik, do developers use Donain Driven Development in the industry?
+
 > Hi man good content again. Can you give us insight about ORM and raw SQL backend. What are your professional experience about this matter. Thank you much for quality content.
 
 > As a software developer/engineer, what technologies do you feel are a waste of time learning? Why?
 
 > What is something impossible you’ve been asked to do as a software engineer?
 
-> As a software engineer, did you ever come across another software engineer who thought they were too good (but were actually not)?
-
-> I’m a software developer. I built the company’s main product from scratch. They just hired someone with more experience as my lead. Should I quit?
-
-> When can I start calling myself a senior developer?
-
 > Who is the most unique software engineer you have ever interviewed? What made him/her different?
 
-> “Good programmers write good code. Great programmers write no code. Zen programmers delete code.” Do you have a story about those programmers?
-
-> As a software engineer, what is your trick to keep your code simple and readable?
-
 > What are you sick of seeing in software developer resumes?
-
-> Python just replaced Java on GitHub. Does this mean that one should pick Python over Java career-wise?
-
-> What are some tips for a first JavaScript developer job?
 
 > Should a website work without JavaScript?
 
