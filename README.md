@@ -11,7 +11,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Fredrik, do developers use Donain Driven Development in the industry?
+> Will there be any future with complex coding with react and the front end or is the only hope with backend or maybe programming for mobile apps?
+
+> Can you talk about the advantages of Docker and what is Kubernetes and why you would use it? You’re the man 😎
 
 > Hi man good content again. Can you give us insight about ORM and raw SQL backend. What are your professional experience about this matter. Thank you much for quality content.
 
@@ -23,17 +25,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What are you sick of seeing in software developer resumes?
 
-> Should a website work without JavaScript?
-
-> whats the best way to visualize an app idea
-
-> How to be a bad senior developer ?
-
 > Should I Learn Swift or Cross Platform?
 
 > What is so wrong with TDD?
-
-> What does the application development lifecycle look like?
 
 > What is incremental development?
 
