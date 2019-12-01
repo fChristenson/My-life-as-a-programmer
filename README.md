@@ -55,6 +55,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Misc
 
+> How do I transition from pure development in to a manager role?
+
 > As a software developer/engineer, what technologies do you feel are a waste of time learning? Why?
 
 > What is something impossible you’ve been asked to do as a software engineer?
