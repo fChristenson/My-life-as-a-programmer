@@ -11,11 +11,43 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+### Popular
+
+> What is the traditional process for developing information systems?
+
+> Why is the traditional process for developing information systems broken?
+
+> the traditional process for developing information systems is complex, how do we fix it?
+
+> What is a fullstack developer?
+
+> What responsibilities does a fullstack developer have?
+
+> What is most important for a fullstack developer?
+
+> How do I become a great fullstack developer?
+
+> What tools do fullstack developer need to know about?
+
+> How do I make a good odesk profile?
+
+> what are employers looking for in a odesk developer?
+
+> What is SQL?
+
+> What is the difference between Sequel programming language and Structured query language?
+
+> Should I learn the Sequel programming language?
+
+### Comments
+
 > Will there be any future with complex coding with react and the front end or is the only hope with backend or maybe programming for mobile apps?
 
 > Can you talk about the advantages of Docker and what is Kubernetes and why you would use it? You’re the man 😎
 
 > Hi man good content again. Can you give us insight about ORM and raw SQL backend. What are your professional experience about this matter. Thank you much for quality content.
+
+### Misc
 
 > As a software developer/engineer, what technologies do you feel are a waste of time learning? Why?
 
@@ -72,14 +104,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > As a software developer, what do you do if you’re not very smart?
 
 > How To Stand Out As A Developer
-
-## Pending projects
-
-> fc-serve, CLI to do development work in a controlled environment
-
-> fc-spa, SPA framework from scratch using a virtual dom tree
-
-> fc-covered, React coverage library for figuring out if a component has been mounted during testing
 
 ## Pending tutorials
 
