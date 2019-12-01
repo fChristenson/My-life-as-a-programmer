@@ -51,6 +51,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Hi man good content again. Can you give us insight about ORM and raw SQL backend. What are your professional experience about this matter. Thank you much for quality content.
 
+> Fred do you believe ie11 is holding back front end development? Css grid isn't usable in ie11 and flexbox mostly works in ie11. At my last company I did not push myself to learn or use anything that would break in ie11. I guess I'm trying to blame ie11 for why I did not better myself which is wrong and ultimately an excuse. But I did spend many dev hours trying to debug things that broke in ie11 that I do not believe were worth it for my company. Ultimately if we were have dropped ie11 support we would of saved dev hours that could of been used differently than making sure our code works fine for a legacy browser that I believe only 2-3% of people use. However maybe I am not thinking how much 2-3% of web traffic using ie11 really is.
+
 ### Misc
 
 > As a software developer/engineer, what technologies do you feel are a waste of time learning? Why?
