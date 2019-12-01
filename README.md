@@ -13,6 +13,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Popular
 
+> Things you should know about a remote web developers job
+
+> Is having a remote web developers job bad for your career?
+
 > What is the traditional process for developing information systems?
 
 > Why is the traditional process for developing information systems broken?
