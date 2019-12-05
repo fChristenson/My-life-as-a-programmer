@@ -45,6 +45,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> What are the languages that are big code base friendly/efficient? Is it mostly java and c# ?
+
 > Which of these two do big companies prefer when hiring specialized people? A) Truly knows a language and a framework (aiming towards mastering) B) Decent at two / three languages and frameworks Both have their own weakness and strengths, but I have zero experience with big companies, so I don't know what they prefer
 
 > Will there be any future with complex coding with react and the front end or is the only hope with backend or maybe programming for mobile apps?
