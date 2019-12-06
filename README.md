@@ -45,6 +45,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hi. I really love the content you are making! Would you mind if I asked you a question? Your videos and your linkedin page says that you are aware of many technologies. I want to know how do you not forget these technologies(Programming languages / Tools). Do you have a time for using each of them at least a month in a project? I mean, you listed a lot in your linkedin; angular, react vue, spring, node, go, php/laravel, kotlin, scala, swift elixir, and etc. And i can see you have a good knowledge on each of them. How do you do manage to practice them?
+
 > What are the languages that are big code base friendly/efficient? Is it mostly java and c# ?
 
 > Which of these two do big companies prefer when hiring specialized people? A) Truly knows a language and a framework (aiming towards mastering) B) Decent at two / three languages and frameworks Both have their own weakness and strengths, but I have zero experience with big companies, so I don't know what they prefer
