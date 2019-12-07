@@ -13,8 +13,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Popular
 
-> Things you should know about a remote web developers job
-
 > Is having a remote web developers job bad for your career?
 
 > What is the traditional process for developing information systems?
@@ -57,16 +55,12 @@ then can better methods be found to obfuscate this code ?
 
 > Will there be any future with complex coding with react and the front end or is the only hope with backend or maybe programming for mobile apps?
 
-> Can you talk about the advantages of Docker and what is Kubernetes and why you would use it? You’re the man 😎
-
 > Hi man good content again. Can you give us insight about ORM and raw SQL backend. What are your professional experience about this matter. Thank you much for quality content.
 
 > Hi Fredrik, Is it common for JavaScript developers to use SOLID design principles which are crucial in OOP languages?
 Typescript provides interfaces and so SOLID can be easily applied. But is it needed for JS? Is it common to use them?
 
 ### Misc
-
-> How do I transition from pure development in to a manager role?
 
 > As a software developer/engineer, what technologies do you feel are a waste of time learning? Why?
 
