@@ -43,6 +43,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Do you think contributing to open source is a great way to improve your skills ?
+
 > Fredrik, thank you for discussing public Corporate JavaScript.   
 If this situation makes Corporate Websites more vulnerable 
 then can better methods be found to obfuscate this code ?
