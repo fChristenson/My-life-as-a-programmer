@@ -13,12 +13,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Popular
 
-> Is having a remote web developers job bad for your career?
-
-> What is the traditional process for developing information systems?
-
-> Why is the traditional process for developing information systems broken?
-
 > the traditional process for developing information systems is complex, how do we fix it?
 
 > What is a fullstack developer?
@@ -43,11 +37,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Do you think contributing to open source is a great way to improve your skills ?
-
-> Fredrik, thank you for discussing public Corporate JavaScript.   
-If this situation makes Corporate Websites more vulnerable 
-then can better methods be found to obfuscate this code ?
+> I have a question Frederik. How does a beginner programmer know when they are becoming better and moving up levels when it comes to their skill and knowledge in order to avoid tutorial purgatory but also avoid going so far off the deep end in difficulty that kills their momentum and drive?
 
 > Hi. I really love the content you are making! Would you mind if I asked you a question? Your videos and your linkedin page says that you are aware of many technologies. I want to know how do you not forget these technologies(Programming languages / Tools). Do you have a time for using each of them at least a month in a project? I mean, you listed a lot in your linkedin; angular, react vue, spring, node, go, php/laravel, kotlin, scala, swift elixir, and etc. And i can see you have a good knowledge on each of them. How do you do manage to practice them?
 
@@ -63,8 +53,6 @@ then can better methods be found to obfuscate this code ?
 Typescript provides interfaces and so SOLID can be easily applied. But is it needed for JS? Is it common to use them?
 
 ### Misc
-
-> As a software developer/engineer, what technologies do you feel are a waste of time learning? Why?
 
 > What is something impossible you’ve been asked to do as a software engineer?
 
