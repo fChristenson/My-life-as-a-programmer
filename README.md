@@ -13,8 +13,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Popular
 
-> the traditional process for developing information systems is complex, how do we fix it?
-
 > What is a fullstack developer?
 
 > What responsibilities does a fullstack developer have?
@@ -37,7 +35,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> I have a question Frederik. How does a beginner programmer know when they are becoming better and moving up levels when it comes to their skill and knowledge in order to avoid tutorial purgatory but also avoid going so far off the deep end in difficulty that kills their momentum and drive?
+> I want to know, how do you style a webpage? Does bootstrap fit for large projects?  Where we can use sass skills? I know the pure CSS grid is not compatible. learning frontend development. love from Nepal. your content is always helpful at the right time.
 
 > Hi. I really love the content you are making! Would you mind if I asked you a question? Your videos and your linkedin page says that you are aware of many technologies. I want to know how do you not forget these technologies(Programming languages / Tools). Do you have a time for using each of them at least a month in a project? I mean, you listed a lot in your linkedin; angular, react vue, spring, node, go, php/laravel, kotlin, scala, swift elixir, and etc. And i can see you have a good knowledge on each of them. How do you do manage to practice them?
 
@@ -53,8 +51,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 Typescript provides interfaces and so SOLID can be easily applied. But is it needed for JS? Is it common to use them?
 
 ### Misc
-
-> What is something impossible you’ve been asked to do as a software engineer?
 
 > Who is the most unique software engineer you have ever interviewed? What made him/her different?
 
