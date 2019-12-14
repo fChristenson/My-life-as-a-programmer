@@ -13,16 +13,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Popular
 
-> What is a fullstack developer?
-
-> What responsibilities does a fullstack developer have?
-
-> What is most important for a fullstack developer?
-
-> How do I become a great fullstack developer?
-
-> What tools do fullstack developer need to know about?
-
 > How do I make a good odesk profile?
 
 > what are employers looking for in a odesk developer?
@@ -35,13 +25,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> I want to know, how do you style a webpage? Does bootstrap fit for large projects?  Where we can use sass skills? I know the pure CSS grid is not compatible. learning frontend development. love from Nepal. your content is always helpful at the right time.
-
-> Hi. I really love the content you are making! Would you mind if I asked you a question? Your videos and your linkedin page says that you are aware of many technologies. I want to know how do you not forget these technologies(Programming languages / Tools). Do you have a time for using each of them at least a month in a project? I mean, you listed a lot in your linkedin; angular, react vue, spring, node, go, php/laravel, kotlin, scala, swift elixir, and etc. And i can see you have a good knowledge on each of them. How do you do manage to practice them?
-
 > What are the languages that are big code base friendly/efficient? Is it mostly java and c# ?
-
-> Which of these two do big companies prefer when hiring specialized people? A) Truly knows a language and a framework (aiming towards mastering) B) Decent at two / three languages and frameworks Both have their own weakness and strengths, but I have zero experience with big companies, so I don't know what they prefer
 
 > Will there be any future with complex coding with react and the front end or is the only hope with backend or maybe programming for mobile apps?
 
@@ -57,14 +41,6 @@ Typescript provides interfaces and so SOLID can be easily applied. But is it nee
 > What are you sick of seeing in software developer resumes?
 
 > Should I Learn Swift or Cross Platform?
-
-> What is so wrong with TDD?
-
-> What is incremental development?
-
-> What is DDD?
-
-> Should I take a job as a remote Java developer?
 
 > Should I become a Salesforce developer?
 
