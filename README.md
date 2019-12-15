@@ -25,6 +25,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> How can I deal with the terrible knowledge that I am the mediocre programmer?
+
 > What are the languages that are big code base friendly/efficient? Is it mostly java and c# ?
 
 > Will there be any future with complex coding with react and the front end or is the only hope with backend or maybe programming for mobile apps?
