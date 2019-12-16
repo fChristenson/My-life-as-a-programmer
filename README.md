@@ -25,6 +25,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Fredrik, university was challenging and fun. But now that i started working as a programmer i find that the job is to easy and under stimulating, i am so bored with it aftwr 1 year. What should i do? On the bright side i 0 stress in my life now. Its like i have to choose between boredom and stress.
+
 > How can I deal with the terrible knowledge that I am the mediocre programmer?
 
 > What are the languages that are big code base friendly/efficient? Is it mostly java and c# ?
