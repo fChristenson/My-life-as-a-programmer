@@ -13,6 +13,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Popular
 
+> What is aspect oriented programming?
+
+> When should I use aspect oriented programming?
+
 > How do I make a good odesk profile?
 
 > what are employers looking for in a odesk developer?
@@ -24,6 +28,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > Should I learn the Sequel programming language?
 
 ### Comments
+
+> Frederik: Unfortunately, I am one of the regretful hires you mentioned in this clip as my employer thinks I am dogshit at the moment. It is 100% my fault but I am desperate to get out of this trap regardless of my future at this current company. Is there is anyway I can come back mentally when I fail basic intellectual tasks and get hit with the remark "You call yourself a programmer?"
 
 > Fredrik, university was challenging and fun. But now that i started working as a programmer i find that the job is to easy and under stimulating, i am so bored with it aftwr 1 year. What should i do? On the bright side i 0 stress in my life now. Its like i have to choose between boredom and stress.
 
