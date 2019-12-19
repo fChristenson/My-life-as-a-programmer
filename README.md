@@ -29,6 +29,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> How would you go about learning how and when to apply design patterns if you ware at around junior level and only employed programmer?
+
 > Fredrik I have one question, how much knowledge of databases should a back-end developer know? because sure, most of us are able to do CRUD, set up relations, simple normalization, and all that trivial stuff depending on who you ask.
 But then there's so many more topics to learn regarding scalability, performance, in-depth with data types, complex queries, etc.
 So I believe there's a thin line there, pretty blurred to me... are back-end developers expected to know in that sense as much to or close to database administrators?
