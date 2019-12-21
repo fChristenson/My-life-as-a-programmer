@@ -29,6 +29,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hey Fredrick, good video, I recently started to learn more about docker and I really like it. But  is it a good idea to use it for development or it's only useful for deployment?
+
 > How would you go about learning how and when to apply design patterns if you ware at around junior level and only employed programmer?
 
 > Fredrik I have one question, how much knowledge of databases should a back-end developer know? because sure, most of us are able to do CRUD, set up relations, simple normalization, and all that trivial stuff depending on who you ask.
