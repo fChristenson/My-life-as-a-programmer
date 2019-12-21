@@ -29,7 +29,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Is there an better way I can get code reviews/project direction/career guidance? 
+> Is there an better way I can get code reviews/project direction/career guidance when self teaching myself? 
 
 > Is a bootcamp with a job guarantee the most efficient way of getting a first job in order to start actually learning real world development?
 
