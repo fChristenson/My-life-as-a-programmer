@@ -29,6 +29,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> How to start building your startup idea with not enough experience?
+
 > Fredrik hi, question and possibly idea for a video. What do you think about so called low code (appian, etc) ? Does it have future ? How useful it it for companies / businesses ?
 
 > How would you go about learning how and when to apply design patterns if you ware at around junior level and only employed programmer?
