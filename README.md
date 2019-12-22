@@ -33,6 +33,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hi Fredrick, I have a dilemma at my work place. My manager is telling me my code is too advanced for a consultant team and “I should try to write code as the team does so we can hand off things to them”. How can I vocalize that this is not something that is scalable, time efficient, or useful?
+
 > How to start building your startup idea with not enough experience?
 
 > Fredrik hi, question and possibly idea for a video. What do you think about so called low code (appian, etc) ? Does it have future ? How useful it it for companies / businesses ?
