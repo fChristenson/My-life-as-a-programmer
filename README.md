@@ -33,6 +33,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hey Fredrik, what gets the job done in programming? Is it a persistence, knowledge, communication... A combination of some skills?
+
+> Hi Fredrik, sometime in the future  i would like ur opinions about courses ON Udemy in terms of how they help you to  learn programming if you are a fresher or a junior developer ? Let's say i want to learn something about React, should i self learn it by reading its website documentation or i buy a Udemy course on React ? It it a bad habit for you to rely mostly on courses  on udemy like for your study.
+
 > Hi Fredrick, I have a dilemma at my work place. My manager is telling me my code is too advanced for a consultant team and “I should try to write code as the team does so we can hand off things to them”. How can I vocalize that this is not something that is scalable, time efficient, or useful?
 
 > How to start building your startup idea with not enough experience?
