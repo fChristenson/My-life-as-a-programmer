@@ -29,15 +29,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Is there an better way I can get code reviews/project direction/career guidance when self teaching myself? 
-
-> Is a bootcamp with a job guarantee the most efficient way of getting a first job in order to start actually learning real world development?
-
-> Hej Fredrik ! Jag skulle vilja att du pratar i en video om dina tankar om hur du lyckas arbeta med utvecklare som inte talar bra svenska men du ska kommunicera på engelska eller inte ditt modersmål, skulle du se det som ett stort problem och hur kan påverka den dagliga processen. Jag är en invandrare förresten och jag arbetar på mitt svenska språk nu som du kan se från mitt skrivande :)
-och den andra frågan är vad som är rätt sätt att hantera okunniga människor eller de som försöker göra ditt liv svårare, särskilt med extrema rättigheter som SD , är trenden i dag.
-ärliga svar tack!
-
-> Hey Fredrick, good video, I recently started to learn more about docker and I really like it. But  is it a good idea to use it for development or it's only useful for deployment?
+> Fredrik hi, question and possibly idea for a video. What do you think about so called low code (appian, etc) ? Does it have future ? How useful it it for companies / businesses ?
 
 > How would you go about learning how and when to apply design patterns if you ware at around junior level and only employed programmer?
 
