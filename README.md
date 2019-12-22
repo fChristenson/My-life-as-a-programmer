@@ -13,6 +13,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Popular
 
+> How to create a scaleable agile development framework?
+
+> The main challanges when scaling an agile development process
+
 > What is aspect oriented programming?
 
 > When should I use aspect oriented programming?
