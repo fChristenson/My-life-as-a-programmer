@@ -33,6 +33,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> How can you get a feeling of company culture at an interview?
+
 > Fredrik, will anyone thank you if you fix things?
 
 > Hey Fredrik, what gets the job done in programming? Is it a persistence, knowledge, communication... A combination of some skills?
