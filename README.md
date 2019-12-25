@@ -37,15 +37,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Do you think that the frontend community has a problem with making things way too complicated ? It seems like every time a new tool comes out, teams are immediately thinking about rewriting the codebase using this new tool. A good example of this is React Hooks. I think they are cool but i don’t understand why members of my team feel the need to integrate them into our codebase instantly. All it does is cause headaches.
-
-> I have a question , should there be a difference in pay between developers and QA
-
-> How can you get a feeling of company culture at an interview?
-
-> Fredrik, will anyone thank you if you fix things?
-
-> Hey Fredrik, what gets the job done in programming? Is it a persistence, knowledge, communication... A combination of some skills?
+> Merry christmas Fredrik! How true is that "Front-end is as hard as Back-end" or even... "Front-end is harder than Back-end" ? Because the more I learn about back-end the bigger and complex that field seems to be, whereas front-end looks like something you can teach anyone if half a year, I've always seen it as the creative side of programming. I by no means belittle anyone, let me make that absolutely clear, it's just honest pure curiosity :)
 
 > Hi Fredrik, sometime in the future  i would like ur opinions about courses ON Udemy in terms of how they help you to  learn programming if you are a fresher or a junior developer ? Let's say i want to learn something about React, should i self learn it by reading its website documentation or i buy a Udemy course on React ? It it a bad habit for you to rely mostly on courses  on udemy like for your study.
 
