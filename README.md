@@ -33,6 +33,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> I have a question , should there be a difference in pay between developers and QA
+
 > How can you get a feeling of company culture at an interview?
 
 > Fredrik, will anyone thank you if you fix things?
