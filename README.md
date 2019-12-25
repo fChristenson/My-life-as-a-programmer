@@ -33,6 +33,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Do you think that the frontend community has a problem with making things way too complicated ? It seems like every time a new tool comes out, teams are immediately thinking about rewriting the codebase using this new tool. A good example of this is React Hooks. I think they are cool but i don’t understand why members of my team feel the need to integrate them into our codebase instantly. All it does is cause headaches.
+
 > I have a question , should there be a difference in pay between developers and QA
 
 > How can you get a feeling of company culture at an interview?
