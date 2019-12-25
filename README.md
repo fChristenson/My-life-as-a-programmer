@@ -13,6 +13,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Popular
 
+> What is task oriented programming?
+
+> Should I learn task oriented programming?
+
 > How to create a scaleable agile development framework?
 
 > The main challanges when scaling an agile development process
