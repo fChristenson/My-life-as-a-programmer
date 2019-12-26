@@ -1,5 +1,9 @@
 ## Tutorials
 
+> Can you make a video where you compare a application built using FP and OOP?
+
+https://youtu.be/sf5Ff-UTVPs
+
 >  I am really struggling with jest enzyme(best practices) , specially when I need to test redux components and sagas, can you please make a series on this?
 
 https://www.youtube.com/watch?v=1cVHaqhT4bQ
