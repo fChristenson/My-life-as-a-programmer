@@ -147,8 +147,6 @@ Typescript provides interfaces and so SOLID can be easily applied. But is it nee
 
 > How do you build a Chrome extension with Vue.js?
 
-> Can you make a video where you compare a application built using FP and OOP?
-
 > Can you make a tutorial about [Adonis.js](https://adonisjs.com/)?
 
 > Can you make a video about Express API tokens with token refresh?
