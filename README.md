@@ -37,6 +37,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Any opinions on swagger, and how you would make room for it in a node app?
+
 > Merry christmas Fredrik! How true is that "Front-end is as hard as Back-end" or even... "Front-end is harder than Back-end" ? Because the more I learn about back-end the bigger and complex that field seems to be, whereas front-end looks like something you can teach anyone if half a year, I've always seen it as the creative side of programming. I by no means belittle anyone, let me make that absolutely clear, it's just honest pure curiosity :)
 
 > Hi Fredrik, sometime in the future  i would like ur opinions about courses ON Udemy in terms of how they help you to  learn programming if you are a fresher or a junior developer ? Let's say i want to learn something about React, should i self learn it by reading its website documentation or i buy a Udemy course on React ? It it a bad habit for you to rely mostly on courses  on udemy like for your study.
