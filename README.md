@@ -121,6 +121,8 @@ Typescript provides interfaces and so SOLID can be easily applied. But is it nee
 
 ## Pending tutorials
 
+> Can you make a video where you show the differences between SOA and MicroServices?
+
 > Can you show how the BDD workflow works?
 
 > Can you make video on how to configure the workflow between production, development and local environments? Something relevant nowadays in the industry (maybe with Git and Docker) and taking security into consideration?
