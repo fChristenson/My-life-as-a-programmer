@@ -1,5 +1,9 @@
 ## Tutorials
 
+> Do you think you could do a video on how to structure a typescript application with websockets properly?
+
+https://youtu.be/mwP_4NLzRHw
+
 > Can you make a video where you show how you work with utility class driven development in css?
 
 https://youtu.be/M5NOsKQczHQ
