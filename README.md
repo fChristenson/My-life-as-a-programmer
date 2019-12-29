@@ -37,6 +37,12 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Question 1.) At work we will be implementing micro front end using react, do you have any strong opinions on if this actually helps anyone other than QA and testing? I see more negatives in velocity and pumping out features. Debugging looks very problematic with core dependacy mapping. 
+
+> Question 2.) I feel very comfortable with react and my javascript is currently an intermediate level by most standards. What is the best way to start getting more advanced? Over the years this will happen organically, but is their anything I can be doing on my own?
+
+> I have a question. If we got a task of creating apis along with this traditional web app, should we move our controller logic into somewhere else like service. For example, a user registers, he will receive a welcome email and an sms of code. We got 2 services in register controller. Should we put this logic in another service so that the same workflow could be used if your company ask you to create apis for mobile app?
+
 > I have a question that I hope you can answer. When would be the right time to start learning another programming language? To put it briefly, I worked at a music streaming company as a content editor but as the time passed I began learning SQL on and outside the job to make good use of our data. After a while I found myself obsessively researching programming languages on and off and began learning python and shell scripting. Luck has it that whatever led me down this path is taking me from a degreeless/jobless guy to a data analyst. As I become working with python intuitively I do want to eventually move towards something less content-driven and to be honest the landscape continues to confuse me. On one hand I'm very interested in Rust, Clojure and Go but I have little interest in frontend development in JS or backend languages like PHP that are in high demand. On top of all that I do not have time to waste anymore. Sorry for the long rant, hope this made any sense.
 
 > Any opinions on swagger, and how you would make room for it in a node app?
