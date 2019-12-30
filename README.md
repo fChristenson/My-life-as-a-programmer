@@ -37,6 +37,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> What about companies that emphasise clean code and good practices? I saw a company ad where I want to apply to, and they are all about clean code, craftmanship, testing, tdd this and that. THey are an agency focusing on product, and they talk about technical debt and such. So I guess whats the difference in real life betweeen a company like that, to a company that doesn't give a damn? Or is it just totally marketing? I don't think so tho... in some cases I believe it is but sure there are some that are like that.
+
 > Question 1.) At work we will be implementing micro front end using react, do you have any strong opinions on if this actually helps anyone other than QA and testing? I see more negatives in velocity and pumping out features. Debugging looks very problematic with core dependacy mapping. 
 
 > Question 2.) I feel very comfortable with react and my javascript is currently an intermediate level by most standards. What is the best way to start getting more advanced? Over the years this will happen organically, but is their anything I can be doing on my own?
