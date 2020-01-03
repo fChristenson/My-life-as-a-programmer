@@ -37,6 +37,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hey Fredrik, I have been with the same company for almost 3 years as a junior, the development process with this company has been what I would call quick and loose. I was told when I started that there would be mentorship and it would be a great learning opportunity, that has not really materialized. I started as a summer student and didn't finish college since they offered me much needed money. I am considering leaving this company but having talked to friends working as developers at some bigger companies I fear I may have been somewhat ruined by this companies "just get it done" policy and I am not sure what I can do to fix it, or even where to start. I want to be a professional developer that creates exceptional code, I don't want to spend my life as a sloppy code monkey.
+
 > What about companies that emphasise clean code and good practices? I saw a company ad where I want to apply to, and they are all about clean code, craftmanship, testing, tdd this and that. THey are an agency focusing on product, and they talk about technical debt and such. So I guess whats the difference in real life betweeen a company like that, to a company that doesn't give a damn? Or is it just totally marketing? I don't think so tho... in some cases I believe it is but sure there are some that are like that.
 
 > Question 1.) At work we will be implementing micro front end using react, do you have any strong opinions on if this actually helps anyone other than QA and testing? I see more negatives in velocity and pumping out features. Debugging looks very problematic with core dependacy mapping. 
@@ -140,8 +142,6 @@ Typescript provides interfaces and so SOLID can be easily applied. But is it nee
 > Can you make a video where you show the difference between juniors and seniors with a focus on testing?
 
 > Can you make a video about message queues?
-
-> Can you create the video about the deployment process of this MicroServices?
 
 > Can you make a video about [apollo-link-state](https://www.apollographql.com/docs/link/links/state.html)?
 
