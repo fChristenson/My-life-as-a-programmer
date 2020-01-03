@@ -133,8 +133,6 @@ Typescript provides interfaces and so SOLID can be easily applied. But is it nee
 
 > Can you make video on how to configure the workflow between production, development and local environments? Something relevant nowadays in the industry (maybe with Git and Docker) and taking security into consideration?
 
-> Show how to handle testing in a multi market environment
-
 > Can you make a video where you compare .Net core and Spring boot and possibly reflect on their predecessors .Net and Spring?
 
 > Can you make a video where you show the difference between juniors and seniors with a focus on testing?
