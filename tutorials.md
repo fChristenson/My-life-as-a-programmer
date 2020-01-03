@@ -1,5 +1,11 @@
 ## Tutorials
 
+> Can you create the video about the deployment process of this MicroServices?
+
+https://youtu.be/_oYFOtVq2zU
+
+https://youtu.be/qn9k_2dly2I
+
 > Can you show how the BDD workflow works?
 
 https://youtu.be/a7UlBO2lqWQ
