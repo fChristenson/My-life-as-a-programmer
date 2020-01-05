@@ -1,5 +1,9 @@
 ## Tutorials
 
+> Can you make a video about message queues?
+
+https://youtu.be/VgB_P4ZAj04
+
 > Show how to handle testing in a multi market environment
 
 https://youtu.be/Z_Nl4bMiPCg
