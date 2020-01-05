@@ -137,8 +137,6 @@ Typescript provides interfaces and so SOLID can be easily applied. But is it nee
 
 > Can you make a video where you show the difference between juniors and seniors with a focus on testing?
 
-> Can you make a video about message queues?
-
 > Can you make a video about [apollo-link-state](https://www.apollographql.com/docs/link/links/state.html)?
 
 > Can you make a video about [apollo-link-rest](https://www.apollographql.com/docs/link/links/rest.html)?
