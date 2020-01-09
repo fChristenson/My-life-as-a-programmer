@@ -37,6 +37,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Make an episode on how to prevent the project from turning into this kind of mess as much as possible, please.
+
 > Hi Fredrik! I really enjoy watching your videos. I hope it is ok to ask a question here, or otherwise if you can tell me where I can submit my question. I am currently trying to self-learn frontend web development but I have no idea how to know when I know enough to start applying for junior dev positions. What would you expect a new developer to be able to do in order to secure a junior position? What level should I be aiming for?
 
 > Merry christmas Fredrik! How true is that "Front-end is as hard as Back-end" or even... "Front-end is harder than Back-end" ? Because the more I learn about back-end the bigger and complex that field seems to be, whereas front-end looks like something you can teach anyone if half a year, I've always seen it as the creative side of programming. I by no means belittle anyone, let me make that absolutely clear, it's just honest pure curiosity :)
