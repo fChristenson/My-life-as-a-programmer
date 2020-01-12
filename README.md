@@ -37,6 +37,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> but how will you handle the deprecation of some library that was already used on the existing project? if you will not follow the latest web standard then it feels like you have a technical debt... The front end is a really fast phase world, any tips on this one?
+
 > I do a lot of refactor in order to get a single source of true everywhere. It takes a lot of effort, it may feel like over engineering, but it seems to me, it is worth it. What do you think? I just hadn't see anybody talk or write about this important theme. Maybe you will do a video about this.
 
 > Hi I have a question, I’m about to graduate college soon and want to develop a side hustle but currently the main languages I know are python and C++, how would you leverage those skills to do a side hustle?
