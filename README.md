@@ -37,13 +37,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> but how will you handle the deprecation of some library that was already used on the existing project? if you will not follow the latest web standard then it feels like you have a technical debt... The front end is a really fast phase world, any tips on this one?
-
-> I do a lot of refactor in order to get a single source of true everywhere. It takes a lot of effort, it may feel like over engineering, but it seems to me, it is worth it. What do you think? I just hadn't see anybody talk or write about this important theme. Maybe you will do a video about this.
+> Thanks for making these videos Fredrik. Can you make a video on pathway to become a good programmer. Skills/knowledge one should must have like Data structures and algorithms and other things. I am into software development for 9 yrs now and still don't have that confidence. What things would you suggest for experienced programmers like us.
 
 > Hi I have a question, I’m about to graduate college soon and want to develop a side hustle but currently the main languages I know are python and C++, how would you leverage those skills to do a side hustle?
-
-> Make an episode on how to prevent the project from turning into this kind of mess as much as possible, please.
 
 > Hi Fredrik! I really enjoy watching your videos. I hope it is ok to ask a question here, or otherwise if you can tell me where I can submit my question. I am currently trying to self-learn frontend web development but I have no idea how to know when I know enough to start applying for junior dev positions. What would you expect a new developer to be able to do in order to secure a junior position? What level should I be aiming for?
 
