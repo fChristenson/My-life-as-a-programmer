@@ -37,6 +37,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> So how do you become a really good frontend developer ? You need the experience, but while getting the experience what are the things you can do to focus on getting there faster ? I know it will take years, I am not asking for the shortcut but more of how to use my time more efficient to reach that goal.
+
 > Thanks for making these videos Fredrik. Can you make a video on pathway to become a good programmer. Skills/knowledge one should must have like Data structures and algorithms and other things. I am into software development for 9 yrs now and still don't have that confidence. What things would you suggest for experienced programmers like us.
 
 > Hi I have a question, I’m about to graduate college soon and want to develop a side hustle but currently the main languages I know are python and C++, how would you leverage those skills to do a side hustle?
