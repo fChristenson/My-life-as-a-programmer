@@ -37,17 +37,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> So how do you become a really good frontend developer ? You need the experience, but while getting the experience what are the things you can do to focus on getting there faster ? I know it will take years, I am not asking for the shortcut but more of how to use my time more efficient to reach that goal.
-
-> Thanks for making these videos Fredrik. Can you make a video on pathway to become a good programmer. Skills/knowledge one should must have like Data structures and algorithms and other things. I am into software development for 9 yrs now and still don't have that confidence. What things would you suggest for experienced programmers like us.
-
-> Hi I have a question, I’m about to graduate college soon and want to develop a side hustle but currently the main languages I know are python and C++, how would you leverage those skills to do a side hustle?
-
-> Hi Fredrik! I really enjoy watching your videos. I hope it is ok to ask a question here, or otherwise if you can tell me where I can submit my question. I am currently trying to self-learn frontend web development but I have no idea how to know when I know enough to start applying for junior dev positions. What would you expect a new developer to be able to do in order to secure a junior position? What level should I be aiming for?
-
-> Merry christmas Fredrik! How true is that "Front-end is as hard as Back-end" or even... "Front-end is harder than Back-end" ? Because the more I learn about back-end the bigger and complex that field seems to be, whereas front-end looks like something you can teach anyone if half a year, I've always seen it as the creative side of programming. I by no means belittle anyone, let me make that absolutely clear, it's just honest pure curiosity :)
-
-> Hi Fredrik, sometime in the future  i would like ur opinions about courses ON Udemy in terms of how they help you to  learn programming if you are a fresher or a junior developer ? Let's say i want to learn something about React, should i self learn it by reading its website documentation or i buy a Udemy course on React ? It it a bad habit for you to rely mostly on courses  on udemy like for your study.
+> Fredrik, in the grand scheme of things, are programmers seen as a disposable resource? I have a friend who's working for a big company, managing transactions and security matters at a big scale, she told me there are more valuable positions, career and wealth wise, such as system architects (for example). Is that true? I have heard people mention that a programmer can make as much as a manager, but now that I think about it... I hardly believe that's the case
 
 > Hi Fredrick, I have a dilemma at my work place. My manager is telling me my code is too advanced for a consultant team and “I should try to write code as the team does so we can hand off things to them”. How can I vocalize that this is not something that is scalable, time efficient, or useful?
 
