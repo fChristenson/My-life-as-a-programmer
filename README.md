@@ -37,6 +37,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> What is your opinion on language/technology certificates from perspective of benefit to the programmer and company.
+
 > Fredrik, in the grand scheme of things, are programmers seen as a disposable resource? I have a friend who's working for a big company, managing transactions and security matters at a big scale, she told me there are more valuable positions, career and wealth wise, such as system architects (for example). Is that true? I have heard people mention that a programmer can make as much as a manager, but now that I think about it... I hardly believe that's the case
 
 > Hi Fredrick, I have a dilemma at my work place. My manager is telling me my code is too advanced for a consultant team and “I should try to write code as the team does so we can hand off things to them”. How can I vocalize that this is not something that is scalable, time efficient, or useful?
