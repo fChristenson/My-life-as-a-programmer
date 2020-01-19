@@ -37,6 +37,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Would appreciate it if you could do a video on, the major learning struggles you will have as upcoming developer from learning to code to financial struggles getting by during your software development journey.
+
 > What is your opinion on language/technology certificates from perspective of benefit to the programmer and company.
 
 > Fredrik, in the grand scheme of things, are programmers seen as a disposable resource? I have a friend who's working for a big company, managing transactions and security matters at a big scale, she told me there are more valuable positions, career and wealth wise, such as system architects (for example). Is that true? I have heard people mention that a programmer can make as much as a manager, but now that I think about it... I hardly believe that's the case
