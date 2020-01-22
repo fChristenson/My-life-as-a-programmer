@@ -37,19 +37,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Would appreciate it if you could do a video on, the major learning struggles you will have as upcoming developer from learning to code to financial struggles getting by during your software development journey.
-
-> What is your opinion on language/technology certificates from perspective of benefit to the programmer and company.
-
-> Fredrik, in the grand scheme of things, are programmers seen as a disposable resource? I have a friend who's working for a big company, managing transactions and security matters at a big scale, she told me there are more valuable positions, career and wealth wise, such as system architects (for example). Is that true? I have heard people mention that a programmer can make as much as a manager, but now that I think about it... I hardly believe that's the case
-
-> Hi Fredrick, I have a dilemma at my work place. My manager is telling me my code is too advanced for a consultant team and “I should try to write code as the team does so we can hand off things to them”. How can I vocalize that this is not something that is scalable, time efficient, or useful?
-
-> How to start building your startup idea with not enough experience?
-
-> Fredrik hi, question and possibly idea for a video. What do you think about so called low code (appian, etc) ? Does it have future ? How useful it it for companies / businesses ?
-
-> How would you go about learning how and when to apply design patterns if you ware at around junior level and only employed programmer?
+> Hi Fredrik,First of all I would like to thank you. The way you explain and contribute about various topics is awesome. I listen while kinda like a podcast (the questions in question primarily). I have a question if I may: I currently started as a Junior in Software Development ( more focused on backend, Java - Spring ) and Frontend ( Angular - GWT ). I feel a bit overwhelmed by the amount of stuff I have to read through like internal documentation, new/old technologies used in one project. Do you have any advice on the workflow you use to boost the productivity? 
 
 > Fredrik I have one question, how much knowledge of databases should a back-end developer know? because sure, most of us are able to do CRUD, set up relations, simple normalization, and all that trivial stuff depending on who you ask.
 But then there's so many more topics to learn regarding scalability, performance, in-depth with data types, complex queries, etc.
@@ -118,6 +106,8 @@ Typescript provides interfaces and so SOLID can be easily applied. But is it nee
 > How To Stand Out As A Developer
 
 ## Pending tutorials
+
+> A video about this would be great 👍 where you start a project on github and show your own workflow (how you search, understand and implement, how you commit properly) 
 
 > I have a request for a tutorial. Would you please pick some documentation, maybe Firebase and explain it. Maybe explain what programming concepts you would need to know to understand it.
 
