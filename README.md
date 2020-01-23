@@ -37,6 +37,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hi fredick I wonder do you also do Entitles Relationship Diagrams, Agile principles, etc as Developer or that comes down to software engineering team. The reason why I asked is that alot videos still go in debt about Software development lifecycle and just lie about everything just keeping saying all you need to do is learn to code when it's way more than that.
+
 >Good video Frederik, I have a question for you. Is it common for IT companies to provide a relocation from another city. And is it okay to ask for if they  don't have this information anywhere? Keep up with great work!!!
 
 > Hi Fredrik,First of all I would like to thank you. The way you explain and contribute about various topics is awesome. I listen while kinda like a podcast (the questions in question primarily). I have a question if I may: I currently started as a Junior in Software Development ( more focused on backend, Java - Spring ) and Frontend ( Angular - GWT ). I feel a bit overwhelmed by the amount of stuff I have to read through like internal documentation, new/old technologies used in one project. Do you have any advice on the workflow you use to boost the productivity? 
