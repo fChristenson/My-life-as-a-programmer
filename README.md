@@ -37,14 +37,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+>Good video Frederik, I have a question for you. Is it common for IT companies to provide a relocation from another city. And is it okay to ask for if they  don't have this information anywhere? Keep up with great work!!!
+
 > Hi Fredrik,First of all I would like to thank you. The way you explain and contribute about various topics is awesome. I listen while kinda like a podcast (the questions in question primarily). I have a question if I may: I currently started as a Junior in Software Development ( more focused on backend, Java - Spring ) and Frontend ( Angular - GWT ). I feel a bit overwhelmed by the amount of stuff I have to read through like internal documentation, new/old technologies used in one project. Do you have any advice on the workflow you use to boost the productivity? 
-
-> Fredrik I have one question, how much knowledge of databases should a back-end developer know? because sure, most of us are able to do CRUD, set up relations, simple normalization, and all that trivial stuff depending on who you ask.
-But then there's so many more topics to learn regarding scalability, performance, in-depth with data types, complex queries, etc.
-So I believe there's a thin line there, pretty blurred to me... are back-end developers expected to know in that sense as much to or close to database administrators?
-My question is mainly aimed towards mid-sized and big corporations (not startups), thank you! :D
-
-> Frederik: Unfortunately, I am one of the regretful hires you mentioned in this clip as my employer thinks I am dogshit at the moment. It is 100% my fault but I am desperate to get out of this trap regardless of my future at this current company. Is there is anyway I can come back mentally when I fail basic intellectual tasks and get hit with the remark "You call yourself a programmer?"
 
 > Fredrik, university was challenging and fun. But now that i started working as a programmer i find that the job is to easy and under stimulating, i am so bored with it aftwr 1 year. What should i do? On the bright side i 0 stress in my life now. Its like i have to choose between boredom and stress.
 
