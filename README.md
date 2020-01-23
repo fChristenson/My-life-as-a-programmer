@@ -37,6 +37,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hey Fredrik, unrelated question to the topic of the video. How would you recommend introducing architectures into frameworks like React? As an example a colleague of mine suggested using MVVM and I'm struggling to abstract data away from things such as forms (using Formik, graphql, apollo). Or if you have another pattern that you feel is stronger (for React in general) I would love to hear it.
+
 > Hi fredick I wonder do you also do Entitles Relationship Diagrams, Agile principles, etc as Developer or that comes down to software engineering team. The reason why I asked is that alot videos still go in debt about Software development lifecycle and just lie about everything just keeping saying all you need to do is learn to code when it's way more than that.
 
 >Good video Frederik, I have a question for you. Is it common for IT companies to provide a relocation from another city. And is it okay to ask for if they  don't have this information anywhere? Keep up with great work!!!
