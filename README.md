@@ -37,13 +37,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> im just about to start my final semester in Uni your videos are really good and inormative, just a tip for an another one "how to deal with criticism as a programmer?"
-
-> Hey Fredrick, my friend is senior programer however at his job which is a government one.Where he works when building projects such as webapps etc he says they always are outsourcing their jobs from private firms. Now the catch is that they have a IT department full of competent information staff but none of them build the applications for the jobs it's either it's outsource it and they maintain it up to a point or they buy a new product. What's really confusing why have a competent IT department and always out sourcing these jobs so then why are you paying the staff there to you. Now mind you in order to get a job you have to be a university graduate nothing least the 4 years.
-
-> Hey Fredrik, unrelated question to the topic of the video. How would you recommend introducing architectures into frameworks like React? As an example a colleague of mine suggested using MVVM and I'm struggling to abstract data away from things such as forms (using Formik, graphql, apollo). Or if you have another pattern that you feel is stronger (for React in general) I would love to hear it.
-
-> Hi fredick I wonder do you also do Entitles Relationship Diagrams, Agile principles, etc as Developer or that comes down to software engineering team. The reason why I asked is that alot videos still go in debt about Software development lifecycle and just lie about everything just keeping saying all you need to do is learn to code when it's way more than that.
+> Fredrik as a programmer is there any good reason ro work for a startup? The pay and benifits are always worse, coligues are usually less experienced and less disciplined, there is never enough tims to do things right, and its always crunch time.
 
 >Good video Frederik, I have a question for you. Is it common for IT companies to provide a relocation from another city. And is it okay to ask for if they  don't have this information anywhere? Keep up with great work!!!
 
