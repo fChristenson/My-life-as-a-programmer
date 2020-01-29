@@ -37,24 +37,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Fredrik as a programmer is there any good reason ro work for a startup? The pay and benifits are always worse, coligues are usually less experienced and less disciplined, there is never enough tims to do things right, and its always crunch time.
-
->Good video Frederik, I have a question for you. Is it common for IT companies to provide a relocation from another city. And is it okay to ask for if they  don't have this information anywhere? Keep up with great work!!!
-
-> Hi Fredrik,First of all I would like to thank you. The way you explain and contribute about various topics is awesome. I listen while kinda like a podcast (the questions in question primarily). I have a question if I may: I currently started as a Junior in Software Development ( more focused on backend, Java - Spring ) and Frontend ( Angular - GWT ). I feel a bit overwhelmed by the amount of stuff I have to read through like internal documentation, new/old technologies used in one project. Do you have any advice on the workflow you use to boost the productivity? 
-
-> Fredrik, university was challenging and fun. But now that i started working as a programmer i find that the job is to easy and under stimulating, i am so bored with it aftwr 1 year. What should i do? On the bright side i 0 stress in my life now. Its like i have to choose between boredom and stress.
-
-> How can I deal with the terrible knowledge that I am the mediocre programmer?
-
-> What are the languages that are big code base friendly/efficient? Is it mostly java and c# ?
-
-> Will there be any future with complex coding with react and the front end or is the only hope with backend or maybe programming for mobile apps?
-
-> Hi man good content again. Can you give us insight about ORM and raw SQL backend. What are your professional experience about this matter. Thank you much for quality content.
-
-> Hi Fredrik, Is it common for JavaScript developers to use SOLID design principles which are crucial in OOP languages?
-Typescript provides interfaces and so SOLID can be easily applied. But is it needed for JS? Is it common to use them?
+> Would you make a video about negotiation and things like that? Perhaps talking about pay rise and such. 
 
 ### Misc
 
