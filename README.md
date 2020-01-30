@@ -87,6 +87,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending tutorials
 
+> Can you make a video about the critical rendering path?
+
 > A video about this would be great 👍 where you start a project on github and show your own workflow (how you search, understand and implement, how you commit properly) 
 
 > I have a request for a tutorial. Would you please pick some documentation, maybe Firebase and explain it. Maybe explain what programming concepts you would need to know to understand it.
