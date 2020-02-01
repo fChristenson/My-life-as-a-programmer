@@ -39,6 +39,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> When have I waited too long to ask for help?
 
 ### Misc
 
