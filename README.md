@@ -13,6 +13,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Popular
 
+> What are the 5 key phases of software development?
+
 > What is task oriented programming?
 
 > Should I learn task oriented programming?
@@ -37,7 +39,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Would you make a video about negotiation and things like that? Perhaps talking about pay rise and such. 
 
 ### Misc
 
@@ -49,31 +50,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Should I become a Salesforce developer?
 
-> What is agile development?
-
-> Do I need to learn SQL to be a programmer?
-
-> How can you manage joint application development?
-
-> What is the worst part of being a software engineer?
-
 > What do they not tell you about web development?
 
 > Have you ever hired someone that did amazingly well in their coding interviews but turned out to be a terrible software engineer?
 
-> How do I get interview calls from companies?
-
 > What is a great example of a very passionate software engineer?
-
-> Why does every software engineer want to get hired by Google even though there are thousands of other companies that are offering better job opportunities?
-
-> Why is it an amazing time to be a software engineer?
-
-> What is a good rule of thumb to always remember?
-
-> As a software engineer, did you ever get a customer requirement that made you think - “I bet they don’t know how software works”?
-
-> How can I advance my engineering career?
 
 > When a non-programmer says programming is easy, as a programmer, what should I say?
 
