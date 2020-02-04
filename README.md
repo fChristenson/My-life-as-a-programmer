@@ -41,6 +41,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > When have I waited too long to ask for help?
 
+> How would you go about teaching juniors how to solve problems with googling and reading documentation ? I’ve noticed that a lot junior developers that have flooded the market recently learned how to code through video tutorials or online coding platforms that hold their hands the entire time. A lot of them are intimidated by digging deep into documentation in order to solve problems. They constantly need a senior to answer simple questions that they could have easily found by reading documentation.
+
 ### Misc
 
 > Who is the most unique software engineer you have ever interviewed? What made him/her different?
@@ -57,15 +59,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What is a great example of a very passionate software engineer?
 
-> When a non-programmer says programming is easy, as a programmer, what should I say?
-
-> Does it make me look bad if I accept a job, start the new job, and then accept a better offer within 2 weeks?
-
-> What is the best kept secret in software development?
-
 > As a software developer, what do you do if you’re not very smart?
-
-> How To Stand Out As A Developer
 
 ## Pending tutorials
 
