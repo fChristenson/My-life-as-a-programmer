@@ -39,6 +39,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Me and my team want to develop a small AI startup. We need a website, what language should we use for the backend?
+
 > When have I waited too long to ask for help?
 
 > How would you go about teaching juniors how to solve problems with googling and reading documentation ? I’ve noticed that a lot junior developers that have flooded the market recently learned how to code through video tutorials or online coding platforms that hold their hands the entire time. A lot of them are intimidated by digging deep into documentation in order to solve problems. They constantly need a senior to answer simple questions that they could have easily found by reading documentation.
