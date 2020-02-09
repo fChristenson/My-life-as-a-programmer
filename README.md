@@ -39,6 +39,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hey fredrik, do you guys build web apps etc from scratch or from paid or free templates because sometimes I feel like an imposter that I can only build websites from templates because I can't for the love of me design front experience for clients. Additional I consider myself a junior developer because I am information technology student and everything I have to learn so professional software development I actually learn on my learn on my own and have to help classmates and potential clients how to read Abit how the code works and I don't know all the languages. Would greatly appreciate if you could do a video on this dilemma with junior developers.
+
 > @Fredrik Christenson how do i make the painful hours at work pass esier untill the clock is 5pm and i am released form my purgatory?
 
 > Fredrik why is Compiter sciance in university so interesting and fun, while real software development is boring and soal-crushing?
