@@ -39,6 +39,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Fredrik why is Compiter sciance in university so interesting and fun, while real software development is boring and soal-crushing?
+
+> Why are most organisations so bad at being orgenized?
+
 > Me and my team want to develop a small AI startup. We need a website, what language should we use for the backend?
 
 > When have I waited too long to ask for help?
