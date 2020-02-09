@@ -39,6 +39,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> @Fredrik Christenson how do i make the painful hours at work pass esier untill the clock is 5pm and i am released form my purgatory?
+
 > Fredrik why is Compiter sciance in university so interesting and fun, while real software development is boring and soal-crushing?
 
 > Why are most organisations so bad at being orgenized?
