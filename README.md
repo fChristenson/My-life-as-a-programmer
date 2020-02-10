@@ -39,6 +39,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Job market in my country is dominated by Java. It has double the jobs than any other close programming languages like: C#, PHP, Python and JavaScript. I'm a frontend developer, with no experience, but I'm currently learning backend with Node, as I already know the language...
+Market is only looking for Senior JavaScript Developers, and there aren't many opportunities to start the career. Should I look to pick up Java, because of it's popularity? Or should I learn some other language that is known to offer chances to juniors?
+
 > Fredrik, could you possibly do a follow up video on how to discuss "why you left your last job" in job interviews? It seems like you aren't suppose to speak candidly about this topic in interviews, so I would love to hear how rephrased all of this when talking to recruiters and interviewers? Thanks
 
 > What are some things that we should look out for in the interview process that are indicative of a company that has a bad engineering culture ?
