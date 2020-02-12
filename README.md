@@ -13,30 +13,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Popular
 
-> What are the 5 key phases of software development?
-
-> What is task oriented programming?
-
-> Should I learn task oriented programming?
-
-> How to create a scaleable agile development framework?
-
-> The main challanges when scaling an agile development process
-
-> What is aspect oriented programming?
-
-> When should I use aspect oriented programming?
-
-> How do I make a good odesk profile?
-
-> what are employers looking for in a odesk developer?
-
-> What is SQL?
-
-> What is the difference between Sequel programming language and Structured query language?
-
-> Should I learn the Sequel programming language?
-
 ### Comments
 
 > Job market in my country is dominated by Java. It has double the jobs than any other close programming languages like: C#, PHP, Python and JavaScript. I'm a frontend developer, with no experience, but I'm currently learning backend with Node, as I already know the language...
@@ -46,29 +22,13 @@ Market is only looking for Senior JavaScript Developers, and there aren't many o
 
 > What are some things that we should look out for in the interview process that are indicative of a company that has a bad engineering culture ?
 
-> Fredrik why is Compiter sciance in university so interesting and fun, while real software development is boring and soal-crushing?
-
-> Why are most organisations so bad at being orgenized?
-
-> Me and my team want to develop a small AI startup. We need a website, what language should we use for the backend?
-
-> When have I waited too long to ask for help?
-
-> How would you go about teaching juniors how to solve problems with googling and reading documentation ? I’ve noticed that a lot junior developers that have flooded the market recently learned how to code through video tutorials or online coding platforms that hold their hands the entire time. A lot of them are intimidated by digging deep into documentation in order to solve problems. They constantly need a senior to answer simple questions that they could have easily found by reading documentation.
-
 ### Misc
 
-> Who is the most unique software engineer you have ever interviewed? What made him/her different?
+> How do you measure the benefits of DevOps?
 
 > What are you sick of seeing in software developer resumes?
 
 > Should I Learn Swift or Cross Platform?
-
-> Should I become a Salesforce developer?
-
-> What do they not tell you about web development?
-
-> Have you ever hired someone that did amazingly well in their coding interviews but turned out to be a terrible software engineer?
 
 > What is a great example of a very passionate software engineer?
 
