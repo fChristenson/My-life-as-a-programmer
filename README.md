@@ -15,6 +15,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Do I need a degree in computer science to get a job with asp.net or spring? I like c#, but I am just afraid that the .net framework is not for people who switch career to programming.
+
 > Job market in my country is dominated by Java. It has double the jobs than any other close programming languages like: C#, PHP, Python and JavaScript. I'm a frontend developer, with no experience, but I'm currently learning backend with Node, as I already know the language...
 Market is only looking for Senior JavaScript Developers, and there aren't many opportunities to start the career. Should I look to pick up Java, because of it's popularity? Or should I learn some other language that is known to offer chances to juniors?
 
