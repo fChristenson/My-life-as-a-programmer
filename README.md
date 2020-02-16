@@ -15,6 +15,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> What is tech culture’s attitude towards tattoos? (seeing yours)
+
 > @Fredrik Christenson ok cool, could comment on or a do a video on what really the developer or software engineer does after delivering a product to clients or finish a product for the organization, like what there next steps after usually the software development lifecycle clarifies that but it's something that always have me quite interested what happens after the development stages are complete. Because I know cases where the product is so good that it doesn't need maintenance of any sort but the developer goes to work everyday. Especially in large companies.
 
 > Do I need a degree in computer science to get a job with asp.net or spring? I like c#, but I am just afraid that the .net framework is not for people who switch career to programming.
