@@ -15,6 +15,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Fredrik hi, In one of your previous videos (sorry i can't find which one it was so posting here) you said that often agency developers don't care that much how good product will work in the long run. They just ship the code by deadline and that's it.
+Cause they are not that accountable and there are no clear metrics to judge their work, if code works it works. If you will be owner of smaller size project or product manager and you will have 3 devs working on it and QA (not agency, direct). It's long term project at least for 2-3 years.  How would you define metrics to judge performance of devs / better motivate them ? Is it good idea to have add some bonus depending on metrics ? I was thinking maybe bugs is good metric ? I know there will be always bugs but still maybe frequency bugs.
+
 > What is tech culture’s attitude towards tattoos? (seeing yours)
 
 > @Fredrik Christenson ok cool, could comment on or a do a video on what really the developer or software engineer does after delivering a product to clients or finish a product for the organization, like what there next steps after usually the software development lifecycle clarifies that but it's something that always have me quite interested what happens after the development stages are complete. Because I know cases where the product is so good that it doesn't need maintenance of any sort but the developer goes to work everyday. Especially in large companies.
