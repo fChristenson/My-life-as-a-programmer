@@ -15,21 +15,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> You talked about how there is possibility that you will be alone with no mentors and you will have to deliver. I am at this position right now. From what job interviews ive been if you have no group working experience you are perceived as second rate. Most of the best jobs are team jobs, so for how long should one stay at this kind of position without hurting your future prospects? How long have you stayed at this kind of job?
+
 > Fredrik hi, In one of your previous videos (sorry i can't find which one it was so posting here) you said that often agency developers don't care that much how good product will work in the long run. They just ship the code by deadline and that's it.
 Cause they are not that accountable and there are no clear metrics to judge their work, if code works it works. If you will be owner of smaller size project or product manager and you will have 3 devs working on it and QA (not agency, direct). It's long term project at least for 2-3 years.  How would you define metrics to judge performance of devs / better motivate them ? Is it good idea to have add some bonus depending on metrics ? I was thinking maybe bugs is good metric ? I know there will be always bugs but still maybe frequency bugs.
-
-> What is tech culture’s attitude towards tattoos? (seeing yours)
-
-> @Fredrik Christenson ok cool, could comment on or a do a video on what really the developer or software engineer does after delivering a product to clients or finish a product for the organization, like what there next steps after usually the software development lifecycle clarifies that but it's something that always have me quite interested what happens after the development stages are complete. Because I know cases where the product is so good that it doesn't need maintenance of any sort but the developer goes to work everyday. Especially in large companies.
-
-> Do I need a degree in computer science to get a job with asp.net or spring? I like c#, but I am just afraid that the .net framework is not for people who switch career to programming.
-
-> Job market in my country is dominated by Java. It has double the jobs than any other close programming languages like: C#, PHP, Python and JavaScript. I'm a frontend developer, with no experience, but I'm currently learning backend with Node, as I already know the language...
-Market is only looking for Senior JavaScript Developers, and there aren't many opportunities to start the career. Should I look to pick up Java, because of it's popularity? Or should I learn some other language that is known to offer chances to juniors?
-
-> Fredrik, could you possibly do a follow up video on how to discuss "why you left your last job" in job interviews? It seems like you aren't suppose to speak candidly about this topic in interviews, so I would love to hear how rephrased all of this when talking to recruiters and interviewers? Thanks
-
-> What are some things that we should look out for in the interview process that are indicative of a company that has a bad engineering culture ?
 
 ### Misc
 
