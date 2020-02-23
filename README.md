@@ -21,6 +21,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > When you understand the vision start building a framework for it
 
+> You have more power than you think and you have to use it for everyone's sake, the project depends on it
+
+> Making a healthy team is about making a meaningfull connections and letting the context dictate what is ok
+
 ### Popular
 
 ### Comments
