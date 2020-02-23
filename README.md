@@ -29,6 +29,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> ' what to watch out for in life like having something that you would support yourself with in case SHTF like a portfolio and side investments '' what would you suggest ?😍
+
 > Hey Fredrik, Need your suggestion. I have 10 year of experience in core Java. My project doesn't need ninja level java coding skill and as a programmer I haven't learnt much in Java. Looking at the extensive Java stack currently available I have started feeling that it's very difficult to know everything and having wasted my time in simple Java code I feel it is difficult to catch up.
 Should I switch to Go Lang as I like back end development ( haven't tried my hands on front end yet) . I  have seen how simple Go syntax is and read  how powerful it is in concurrent environment.Or should I stick with Java and rework my basics. Kindly suggest. I am in great dilemma. Thanks in advance.
 
