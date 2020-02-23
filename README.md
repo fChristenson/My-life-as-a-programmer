@@ -11,6 +11,16 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+### Thoughts
+
+> The most important lessons come from war stories
+
+> Can you be professional enough to handle unfair treatment?
+
+> As your company grows your code will change and you decide how
+
+> When you understand the vision start building a framework for it
+
 ### Popular
 
 ### Comments
