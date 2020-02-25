@@ -29,6 +29,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Fredrik, Do you reckon a MEAN/MERN/MEVN-stack is employable anno 2020? We focus on c#/.net at school but I find myself delving into the Javascript (and Go) environment every day of the week. .Net/C# dominates the market in my area (7:2 ratio .net vs JS). Will it hurt my chances if I specialize in mostly Javascript rather than C# in the long run? I vaguely remember you mentioning something along the lines of "your first job will most likely determine where you will end up in the long run" and that kinda stuck with me because I really don't see myself working as a c#/java developer in the long run. I am familiar with those languages and have no trouble putting them to use. They taught me the fundamentals of OOP but I feel like this is as far as the roads go for me. Thank you and enjoy your day!
+
 > ' what to watch out for in life like having something that you would support yourself with in case SHTF like a portfolio and side investments '' what would you suggest ?😍
 
 > Hey Fredrik, Need your suggestion. I have 10 year of experience in core Java. My project doesn't need ninja level java coding skill and as a programmer I haven't learnt much in Java. Looking at the extensive Java stack currently available I have started feeling that it's very difficult to know everything and having wasted my time in simple Java code I feel it is difficult to catch up.
