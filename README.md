@@ -50,6 +50,8 @@ Should I switch to Go Lang as I like back end development ( haven't tried my han
 
 ## Pending tutorials
 
+> Thanks for the video! On another note, could you please make some video (or series) on designing and handling complex Redux store? Almost every tutorial out there shows trivial examples of stores, but I've yet to find a quality material on handling stores with lots of data, or relational-like structure, the ones you would find in big, real-life apps. Any tips would be appreciated.
+
 > Can you make a video about the critical rendering path?
 
 > A video about this would be great 👍 where you start a project on github and show your own workflow (how you search, understand and implement, how you commit properly) 
