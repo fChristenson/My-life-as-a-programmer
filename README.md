@@ -31,17 +31,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Speaking of front-end, how do you assess that you are good at javascript (vanilla js) ? I have been at it for the past 5 years...
 
-> What are your thoughts on serverless architecture? And what role (if any) will a backend developer play in that?
-
-> I got now fired because too much argued and too much refactored. They have legacy code which they don't want to refactor. React classes 1500 lines long. When I came there, I brought eslint  prettier and babel-on-server, react-hooks. So persons that work there don't that putting accent on code quality. And the business persons to don't think the code quality is important. But I think with quality code and productive environment new features can be built faster. Where in the video you say that they don't care about code quality, but code quality brings efficiency, doesn't it? On getting interviewed to next job, I will pay attention to the practices and code quality they have. I believe that there places that built production environment using more or less good practices, am I right? Also, in the next place I want to write typescript, react-hooks, Graphql and tests. I am more front-end oriented person. In this place, though they embraced the new tools, they didn't like the tall it took. And I suppose that it is not appropriate that I come to new place and dictate new things, right? But for me, I couldn't imagine working without eslint or prettier, it is like going back to stone age. It is like with the git video you did. I was shocked. I put full responsibility of such bad practices on the developers, then I would not want to work with such developers. They are lazy, as you said it this video, and don't strive to higher level. Sorry for a lot of words
-
-> Fredrik, Do you reckon a MEAN/MERN/MEVN-stack is employable anno 2020? We focus on c#/.net at school but I find myself delving into the Javascript (and Go) environment every day of the week. .Net/C# dominates the market in my area (7:2 ratio .net vs JS). Will it hurt my chances if I specialize in mostly Javascript rather than C# in the long run? I vaguely remember you mentioning something along the lines of "your first job will most likely determine where you will end up in the long run" and that kinda stuck with me because I really don't see myself working as a c#/java developer in the long run. I am familiar with those languages and have no trouble putting them to use. They taught me the fundamentals of OOP but I feel like this is as far as the roads go for me. Thank you and enjoy your day!
-
-> ' what to watch out for in life like having something that you would support yourself with in case SHTF like a portfolio and side investments '' what would you suggest ?😍
-
-> Hey Fredrik, Need your suggestion. I have 10 year of experience in core Java. My project doesn't need ninja level java coding skill and as a programmer I haven't learnt much in Java. Looking at the extensive Java stack currently available I have started feeling that it's very difficult to know everything and having wasted my time in simple Java code I feel it is difficult to catch up.
-Should I switch to Go Lang as I like back end development ( haven't tried my hands on front end yet) . I  have seen how simple Go syntax is and read  how powerful it is in concurrent environment.Or should I stick with Java and rework my basics. Kindly suggest. I am in great dilemma. Thanks in advance.
-
 ### Misc
 
 > Should I Learn Swift or Cross Platform?
