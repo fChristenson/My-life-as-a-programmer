@@ -13,12 +13,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Thoughts
 
-> The most important lessons come from war stories
-
-> Can you be professional enough to handle unfair treatment?
-
-> As your company grows your code will change and you decide how
-
 > When you understand the vision start building a framework for it
 
 > You have more power than you think and you have to use it for everyone's sake, the project depends on it
@@ -29,13 +23,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Speaking of front-end, how do you assess that you are good at javascript (vanilla js) ? I have been at it for the past 5 years...
+> Fredrik, or anyone who wants to chime in, I need guidance. I've been learning coding by myself for about 20 months plus a 3 month bootcamp, about as long as I've been pestering you in the comment section. I was offered a position as a lone developer for a car dealership. The bootcamp recommend me and apparently they liked me. They want software for inventory that will work with rfid chips. In addition to that they want a customer smartphone app. I'm well aware that they what they are asking for would cost a lot more than they will be paying me from an established software development agency. I'm ok with that. It'll get me a foot in the door and money will come later. What I'm concerned with is the fact that I'm all alone and have no experience. I explained this to them but they seem to be ok with it. Do you think I'm getting in over my head if I take this job?
 
 ### Misc
 
 > Should I Learn Swift or Cross Platform?
-
-> What is a great example of a very passionate software engineer?
 
 > As a software developer, what do you do if you’re not very smart?
 
