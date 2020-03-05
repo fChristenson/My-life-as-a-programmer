@@ -23,6 +23,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Fredrik how much experience do you have in the field ? How do you feel about ageism in the IT industry?
+
 > Question... If you don't mind... Can you do a video on why people dislike PHP? I understand why people used to dislike it, but I don't get it why this is still a thing. The more I learn about Javascript and it's tools, the more I see things that PHP does natively. Great video!
 
 > Guled Why is the usage web frameworks in node js land so low? I have never come across a job post mentioning the use of Sails.js or Adonis.js  It’s always Express.js which I found bit weird compairing to ruby. Ruby on Rails is much more popular in jobs that. Sinatra which micro framework similar to Express why is it like that?
