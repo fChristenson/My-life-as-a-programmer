@@ -23,15 +23,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Bro, what about #cybersecurity?
-
-> Fredrik how much experience do you have in the field ? How do you feel about ageism in the IT industry?
-
-> Question... If you don't mind... Can you do a video on why people dislike PHP? I understand why people used to dislike it, but I don't get it why this is still a thing. The more I learn about Javascript and it's tools, the more I see things that PHP does natively. Great video!
-
-> Guled Why is the usage web frameworks in node js land so low? I have never come across a job post mentioning the use of Sails.js or Adonis.js  It’s always Express.js which I found bit weird compairing to ruby. Ruby on Rails is much more popular in jobs that. Sinatra which micro framework similar to Express why is it like that?
-
-> Fredrik, or anyone who wants to chime in, I need guidance. I've been learning coding by myself for about 20 months plus a 3 month bootcamp, about as long as I've been pestering you in the comment section. I was offered a position as a lone developer for a car dealership. The bootcamp recommend me and apparently they liked me. They want software for inventory that will work with rfid chips. In addition to that they want a customer smartphone app. I'm well aware that they what they are asking for would cost a lot more than they will be paying me from an established software development agency. I'm ok with that. It'll get me a foot in the door and money will come later. What I'm concerned with is the fact that I'm all alone and have no experience. I explained this to them but they seem to be ok with it. Do you think I'm getting in over my head if I take this job?
+> Per your first comment example: there is the situation that such a situative  comment becomes obsolete. And then it hangs on there forever because nobody sure if it is still relevant. BTW there is an issue you could do video about - while doing a task  you notice something that bothers you or requires a refactor in a file which does not belong directly to the task. What do you do? In my last job I was ordered not to refactor anything not related to the task.
 
 ### Misc
 
