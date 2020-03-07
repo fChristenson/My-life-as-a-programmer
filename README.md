@@ -35,6 +35,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Misc
 
+> Are bootcamps worth it?
+
 > Should I Learn Swift or Cross Platform?
 
 > As a software developer, what do you do if you’re not very smart?
