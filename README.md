@@ -35,7 +35,47 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Misc
 
+> As a programmer, what is the difference between you at 1 year of experience and at 10 years?
+
+> What happens at a hackathon?
+
+> What do back-end software engineers wish that front-end software engineers would understand?
+
+> What is it like to be a experienced programmer?
+
+> Why do some software engineers set their sights lower than FAANG?
+
+> Why is it so acceptable for software engineers to job hop?
+
+> Are you expected to write perfect code on your first attempt in tech interviews?
+
+> What can I do to professionally deal with a work counterpart that has me doing almost the entire shared workload?
+
+> Why do people go to university to study computer science if the industry is always changing?
+
+> Why do some people not outgrow the "junior" developer role?
+
+> The interviewer said I don't seem like a cool guy to have a drink with. Of course not, I'm 20. Why is this important for a software job?
+
+> Do you provide mentorship?
+
+> What advice would you give to someone who will pursue a computer science degree?
+
+> Which is better Python or JavaScript?
+
+> How can I improve if because of my poor coding skills, I am not able to complete my sprint tasks?
+
+> How do you handle an employee who is clearly planning to leave?
+
+> How long will it take me to become a fullstack web developer, if I am devoted to learn 7 hours a day?
+
+> As a software engineer, if you were to begin from the start what would you change?
+
+> What advice can you give to new programmers?
+
 > Are bootcamps worth it?
+
+> My supervisor confirmed that management is dumping a bunch of work load on me to have me quit.
 
 > Should I Learn Swift or Cross Platform?
 
