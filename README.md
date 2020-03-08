@@ -23,6 +23,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hi Fredrik, I was thinking if you can make a video on how to move out of comfort zone and start developing skills to be a better programmer. Where to get started etx. Specially for experienced programmers. It would really help us a lot. Thanks.
+
 > Per your first comment example: there is the situation that such a situative  comment becomes obsolete. And then it hangs on there forever because nobody sure if it is still relevant. BTW there is an issue you could do video about - while doing a task  you notice something that bothers you or requires a refactor in a file which does not belong directly to the task. What do you do? In my last job I was ordered not to refactor anything not related to the task.
 
 ### Misc
