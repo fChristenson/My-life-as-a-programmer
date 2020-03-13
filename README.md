@@ -23,27 +23,13 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Hi Fredrik, I was thinking if you can make a video on how to move out of comfort zone and start developing skills to be a better programmer. Where to get started etx. Specially for experienced programmers. It would really help us a lot. Thanks.
-
-> Per your first comment example: there is the situation that such a situative  comment becomes obsolete. And then it hangs on there forever because nobody sure if it is still relevant. BTW there is an issue you could do video about - while doing a task  you notice something that bothers you or requires a refactor in a file which does not belong directly to the task. What do you do? In my last job I was ordered not to refactor anything not related to the task.
+> Fredrik hi, can user stories be used in non agile development? I know user stories are very popular in agile. In one of your previous videos you mentioned that agile is good fit for consultancy, but for product company which is trying to build a good product it's not ideal cause there is lack of vision. Can user stories be used in non agile workflow/development cycle?
 
 ### Misc
 
 > As a programmer, what is the difference between you at 1 year of experience and at 10 years?
 
-> What happens at a hackathon?
-
 > What do back-end software engineers wish that front-end software engineers would understand?
-
-> What is it like to be a experienced programmer?
-
-> Why do some software engineers set their sights lower than FAANG?
-
-> Why is it so acceptable for software engineers to job hop?
-
-> Are you expected to write perfect code on your first attempt in tech interviews?
-
-> What can I do to professionally deal with a work counterpart that has me doing almost the entire shared workload?
 
 > Why do people go to university to study computer science if the industry is always changing?
 
