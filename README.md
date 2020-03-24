@@ -13,35 +13,17 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Thoughts
 
-> When you understand the vision start building a framework for it
-
-> You have more power than you think and you have to use it for everyone's sake, the project depends on it
-
-> Making a healthy team is about making a meaningfull connections and letting the context dictate what is ok
-
 ### Popular
 
 ### Comments
 
-> Fredrik hi, can user stories be used in non agile development? I know user stories are very popular in agile. In one of your previous videos you mentioned that agile is good fit for consultancy, but for product company which is trying to build a good product it's not ideal cause there is lack of vision. Can user stories be used in non agile workflow/development cycle?
+> Great video! Can you make a video or answer on how such frontend developers who are purely stuck with frontend for more than say 5 years improve their technical skills ??? Should they move to backend and learn a new language or is it possible to learn these skills by building applications in Node, which might be comparatively easy for frontend folks to move into.
 
 ### Misc
 
-> As a programmer, what is the difference between you at 1 year of experience and at 10 years?
-
 > What do back-end software engineers wish that front-end software engineers would understand?
 
-> Why do people go to university to study computer science if the industry is always changing?
-
-> Why do some people not outgrow the "junior" developer role?
-
-> The interviewer said I don't seem like a cool guy to have a drink with. Of course not, I'm 20. Why is this important for a software job?
-
 > Do you provide mentorship?
-
-> What advice would you give to someone who will pursue a computer science degree?
-
-> Which is better Python or JavaScript?
 
 > How can I improve if because of my poor coding skills, I am not able to complete my sprint tasks?
 
