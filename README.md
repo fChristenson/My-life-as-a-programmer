@@ -21,27 +21,31 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Misc
 
-> What do back-end software engineers wish that front-end software engineers would understand?
+> It seems like everyone is becoming a programmer, so why are there soo many vacant positions on indeed.com?
 
-> Do you provide mentorship?
+> Why are some developers stuck on the past? Why don't they let modern languages like Rust take over C++?
 
-> How can I improve if because of my poor coding skills, I am not able to complete my sprint tasks?
+> What is a sign of a good software developer on day one of a new job?
 
-> How do you handle an employee who is clearly planning to leave?
+> How will jobs in computer science be affected if a recession hit?
 
-> How long will it take me to become a fullstack web developer, if I am devoted to learn 7 hours a day?
+> Can you make a website with only 1 or 2 programming languages?
 
-> As a software engineer, if you were to begin from the start what would you change?
+> Why are so many tech internships looking for full-stack developers? Isn't that closer to a mid-career type job?
 
-> What advice can you give to new programmers?
+> Isn't complex code complex for a reason? Why do some programmers complain about complex code, is it because they aren't good enough to understand it?
 
-> Are bootcamps worth it?
+> How does one ramp up a remote software development team?
 
-> My supervisor confirmed that management is dumping a bunch of work load on me to have me quit.
+> How do I write efficient programming algorithms?
 
-> Should I Learn Swift or Cross Platform?
+> Shouldn't we put an end to the so-called self-taught programmers phenomenon or at least draw a visible line between what is called a programmer and what is called a software engineer?
 
-> As a software developer, what do you do if you’re not very smart?
+> What are major misunderstandings about software development?
+
+> If you were to graduate university now, how would you go about starting your career?
+
+> I'm not getting to manage my team and the work properly while they are working from home for #Covid19. What do I do?
 
 ## Pending tutorials
 
