@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> I'm a junior on my first real job as a frontend. We are repurpusing software that uses good old jquery, css and html and the code is a mess. Now I'm alone doing this and I'm starting to feel overwhelmed with the amount of work. My question is: How do I know if I'm too slow or the amount of work too much? I've been a fan for a couple of months and I've learned a lot from you. Thank you!
+
 > Could you make a video about asking for a raise? How to do it the right way?
 
 > Great video! Can you make a video or answer on how such frontend developers who are purely stuck with frontend for more than say 5 years improve their technical skills ??? Should they move to backend and learn a new language or is it possible to learn these skills by building applications in Node, which might be comparatively easy for frontend folks to move into.
