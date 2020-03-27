@@ -17,15 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> I'm a junior on my first real job as a frontend. We are repurpusing software that uses good old jquery, css and html and the code is a mess. Now I'm alone doing this and I'm starting to feel overwhelmed with the amount of work. My question is: How do I know if I'm too slow or the amount of work too much? I've been a fan for a couple of months and I've learned a lot from you. Thank you!
-
-> Could you make a video about asking for a raise? How to do it the right way?
-
-> Great video! Can you make a video or answer on how such frontend developers who are purely stuck with frontend for more than say 5 years improve their technical skills ??? Should they move to backend and learn a new language or is it possible to learn these skills by building applications in Node, which might be comparatively easy for frontend folks to move into.
-
 ### Misc
-
-> It seems like everyone is becoming a programmer, so why are there soo many vacant positions on indeed.com?
 
 > Why are some developers stuck on the past? Why don't they let modern languages like Rust take over C++?
 
@@ -52,6 +44,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > I'm not getting to manage my team and the work properly while they are working from home for #Covid19. What do I do?
 
 ## Pending tutorials
+
+> What I lack is  some information: 1. How mocha context works. 2. How supertest is interacting with express app. Does it close server itself? Also, does it close sequelize db connection? 3. Difference between spies, mock and stub 4. When to stub something. 5. If I keep stubbing in mind - I should never do module.exports = funciton () {} directly,that's what I did for auth. Is that right? 6. Should I write separate test for routes that does something based on query params. 7. Generally I test only for 400 and 200, and structure of the body. What should be tested for restful api? 
 
 > Thanks for the video! On another note, could you please make some video (or series) on designing and handling complex Redux store? Almost every tutorial out there shows trivial examples of stores, but I've yet to find a quality material on handling stores with lots of data, or relational-like structure, the ones you would find in big, real-life apps. Any tips would be appreciated.
 
