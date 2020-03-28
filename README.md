@@ -53,8 +53,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > A video about this would be great 👍 where you start a project on github and show your own workflow (how you search, understand and implement, how you commit properly) 
 
-> I have a request for a tutorial. Would you please pick some documentation, maybe Firebase and explain it. Maybe explain what programming concepts you would need to know to understand it.
-
 > Can you make video on how to configure the workflow between production, development and local environments? Something relevant nowadays in the industry (maybe with Git and Docker) and taking security into consideration?
 
 > Can you make a video where you compare .Net core and Spring boot and possibly reflect on their predecessors .Net and Spring?
@@ -72,8 +70,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > Can you compare a relational database with MongoDB and focus on data integrity (transactions)?
 
 > How do you build a Chrome extension with Vue.js?
-
-> Can you make a tutorial about [Adonis.js](https://adonisjs.com/)?
 
 > Can you make a video about Express API tokens with token refresh?
 
