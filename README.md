@@ -45,12 +45,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending tutorials
 
-> What I lack is  some information: 1. How mocha context works. 2. How supertest is interacting with express app. Does it close server itself? Also, does it close sequelize db connection? 3. Difference between spies, mock and stub 4. When to stub something. 5. If I keep stubbing in mind - I should never do module.exports = funciton () {} directly,that's what I did for auth. Is that right? 6. Should I write separate test for routes that does something based on query params. 7. Generally I test only for 400 and 200, and structure of the body. What should be tested for restful api? 
-
-> Thanks for the video! On another note, could you please make some video (or series) on designing and handling complex Redux store? Almost every tutorial out there shows trivial examples of stores, but I've yet to find a quality material on handling stores with lots of data, or relational-like structure, the ones you would find in big, real-life apps. Any tips would be appreciated.
-
-> Can you make a video about the critical rendering path?
-
 > A video about this would be great 👍 where you start a project on github and show your own workflow (how you search, understand and implement, how you commit properly) 
 
 > Can you make video on how to configure the workflow between production, development and local environments? Something relevant nowadays in the industry (maybe with Git and Docker) and taking security into consideration?
