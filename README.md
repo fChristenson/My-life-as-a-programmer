@@ -45,6 +45,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending tutorials
 
+> Thanks a log sharing his video was very useful. Can you make some video implementing CQRS, Event sourcing and RabbitMQ with microservices please. I read a lot of DDD CQRS, but never seen some real project example?
+
 > A video about this would be great 👍 where you start a project on github and show your own workflow (how you search, understand and implement, how you commit properly) 
 
 > Can you make video on how to configure the workflow between production, development and local environments? Something relevant nowadays in the industry (maybe with Git and Docker) and taking security into consideration?
