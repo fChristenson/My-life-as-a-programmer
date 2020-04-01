@@ -19,27 +19,29 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Misc
 
-> Why are some developers stuck on the past? Why don't they let modern languages like Rust take over C++?
+> How do you spot the differences between a junior, mid-level, and senior developer?
 
-> What is a sign of a good software developer on day one of a new job?
+> As an experienced programmer, what would you like the noob programmers to realize?
 
-> How will jobs in computer science be affected if a recession hit?
+> Is it wrong to just want a job that pays well with not a lot of ambition?
 
-> Can you make a website with only 1 or 2 programming languages?
+> What are you tired of explaining to people when it comes to computer programming?
 
-> Why are so many tech internships looking for full-stack developers? Isn't that closer to a mid-career type job?
+> Is higher education at risk of losing students that no longer see a degree as valuable?
 
-> Isn't complex code complex for a reason? Why do some programmers complain about complex code, is it because they aren't good enough to understand it?
+> Why do programmers mostly use high-level language rather than a low-level language?
 
-> How does one ramp up a remote software development team?
+> Do programmers care if you are experienced but bad at coding?
 
-> How do I write efficient programming algorithms?
+> How do you tell a senior developer that his code is bad?
 
-> Shouldn't we put an end to the so-called self-taught programmers phenomenon or at least draw a visible line between what is called a programmer and what is called a software engineer?
+> Why do most top Computer Science students choose to become a backend developer instead of frontend developers?
 
-> What are major misunderstandings about software development?
+> Why are so many developers hating object-oriented programming?
 
-> If you were to graduate university now, how would you go about starting your career?
+> Most jobs fill internally without even taking interviews from candidates externally. Does this seem unfair?
+
+> After learning OOP, I feel lost. What are some checkpoints on the way to professional programming?
 
 > I'm not getting to manage my team and the work properly while they are working from home for #Covid19. What do I do?
 
