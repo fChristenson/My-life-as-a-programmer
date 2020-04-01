@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> 1. Am i being a monkey coder  since i don't have a deep understanding of those  technologies. I had to stackoverlow a lot to make the code running. 2. What advice would you give me ? I mean from your experience can i become a "middle or seinior" developer if i follow that path and self-study pretty much everything ? Should i leave the company and find new one ? 
+
 ### Misc
 
 > How do you spot the differences between a junior, mid-level, and senior developer?
