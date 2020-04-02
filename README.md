@@ -17,27 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> do programmers have the right to say no to immoral requests from management?
-
-> If you are at that stage where a senior could not meet his expectation, what then? Change career?
-
-> 1. Am i being a monkey coder  since i don't have a deep understanding of those  technologies. I had to stackoverlow a lot to make the code running. 2. What advice would you give me ? I mean from your experience can i become a "middle or seinior" developer if i follow that path and self-study pretty much everything ? Should i leave the company and find new one ? 
-
 ### Misc
-
-> How do you spot the differences between a junior, mid-level, and senior developer?
-
-> As an experienced programmer, what would you like the noob programmers to realize?
-
-> Is it wrong to just want a job that pays well with not a lot of ambition?
-
-> What are you tired of explaining to people when it comes to computer programming?
-
-> Is higher education at risk of losing students that no longer see a degree as valuable?
-
-> Why do programmers mostly use high-level language rather than a low-level language?
-
-> Do programmers care if you are experienced but bad at coding?
 
 > How do you tell a senior developer that his code is bad?
 
@@ -55,17 +35,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Thanks a log sharing his video was very useful. Can you make some video implementing CQRS, Event sourcing and RabbitMQ with microservices please. I read a lot of DDD CQRS, but never seen some real project example?
 
-> A video about this would be great 👍 where you start a project on github and show your own workflow (how you search, understand and implement, how you commit properly) 
-
 > Can you make video on how to configure the workflow between production, development and local environments? Something relevant nowadays in the industry (maybe with Git and Docker) and taking security into consideration?
 
-> Can you make a video where you compare .Net core and Spring boot and possibly reflect on their predecessors .Net and Spring?
-
 > Can you make a video where you show the difference between juniors and seniors with a focus on testing?
-
-> Can you make a video about [apollo-link-state](https://www.apollographql.com/docs/link/links/state.html)?
-
-> Can you make a video about [apollo-link-rest](https://www.apollographql.com/docs/link/links/rest.html)?
 
 > Can you make a video about loading fonts?
 
@@ -81,11 +53,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > How do we create an architecture for GDPR?
 
-> Can you make a video about [nim](https://nim-lang.org/)?
-
 > Can you make a backend job interview video?
-
-> What do you think about [Gatsby](https://www.gatsbyjs.org/docs/)?
 
 > Can you make a video about PWA's using [Phoenix](http://phoenixframework.org)?
 
