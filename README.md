@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hey Fredrik, want kind of programming exercises or programs were you building when you wanted to improve you skills as a programmer?
+
 ### Misc
 
 > How do you tell a senior developer that his code is bad?
