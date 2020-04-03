@@ -19,19 +19,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Hey Fredrik, want kind of programming exercises or programs were you building when you wanted to improve you skills as a programmer?
 
+> Man, today i just needed this.. after roughly 4 months of learning i had my first breakdown. I began overthinking what i had done these months and that it was way to little and how could i ever get to the point were i want to be. Anyway i guess this is probably normal to have right?
+
 ### Misc
-
-> How do you tell a senior developer that his code is bad?
-
-> Why do most top Computer Science students choose to become a backend developer instead of frontend developers?
-
-> Why are so many developers hating object-oriented programming?
-
-> Most jobs fill internally without even taking interviews from candidates externally. Does this seem unfair?
-
-> After learning OOP, I feel lost. What are some checkpoints on the way to professional programming?
-
-> I'm not getting to manage my team and the work properly while they are working from home for #Covid19. What do I do?
 
 ## Pending tutorials
 
