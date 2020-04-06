@@ -25,6 +25,24 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Misc
 
+> What are the symptoms of burnout in software engineering or the software industry in general?
+
+> If I got fired, what should I say at an interview?
+
+> What real world problems do software developers solve using trees and graphs?
+
+> What is the easy part about teaching programming?
+
+> Which programming language is best to learn these days and why?
+
+> Is it true that the demand for software developers is decreasing and that there is a saturation coming in this field?
+
+> What is the hidden cost of using an easy programming language in which you can literally import the solution to your problem, thereby turning the modest craft of programming into something akin to a plumber looking for parts in a hardware store?
+
+> How do I become an expert level programmer in a week?
+
+> How do I tell my boss that I'm resigning?
+
 ## Pending tutorials
 
 > Can you make a video about loading fonts?
