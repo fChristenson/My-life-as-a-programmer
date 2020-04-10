@@ -17,11 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Fredrik if I am bored with both backend and frontend development. Should I try getting into something else, e.g. systems level development, embeded  or games development.
-
-> Hey Fredrik, want kind of programming exercises or programs were you building when you wanted to improve you skills as a programmer?
-
-> Man, today i just needed this.. after roughly 4 months of learning i had my first breakdown. I began overthinking what i had done these months and that it was way to little and how could i ever get to the point were i want to be. Anyway i guess this is probably normal to have right?
+> How to deal with programmers who are terrible but do indeed know they are terrible? And if that terrible programmer is me?
 
 ### Misc
 
