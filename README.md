@@ -41,6 +41,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending tutorials
 
+> (Related to this, could you do an episode on proper error handling? Would appreciate it; I read a lot about this right now and there are many different opinions from senior people. Some say throw, some say never throw. Some say use Either monads. Some say always return undefined or null. Some say do all of these depending on context. Etc... I would love some rules and best practices. 🙃)
+
 > Can you make a video about loading fonts?
 
 > Can you make a video about using Microdata?
