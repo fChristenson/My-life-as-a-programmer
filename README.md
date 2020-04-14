@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> In your opinion what is the best way to find a good mentor in helping me with further developing my skills within JavaScript/TypeScript and/or C#/.Net ?
+
 > How to deal with programmers who are terrible but do indeed know they are terrible? And if that terrible programmer is me?
 
 ### Misc
