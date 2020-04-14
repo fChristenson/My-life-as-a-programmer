@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Thanks Brother Fredik, You advice and answers worth alot  thanks again, Also I have a question if you got some time you will pass by  : "what are the good procedure or practise of release my side project as the developer ? "
+
 > In your opinion what is the best way to find a good mentor in helping me with further developing my skills within JavaScript/TypeScript and/or C#/.Net ?
 
 > How to deal with programmers who are terrible but do indeed know they are terrible? And if that terrible programmer is me?
