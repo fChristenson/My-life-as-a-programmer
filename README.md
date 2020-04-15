@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hi, nice bath. I was wondering what is expected of a junior web developer? Do they need to know html and css off the top of their heads (they have to learn all the animations?? ) or can they google how to do it on the job? Also, if you were hiring a junior developer without experience, what projects would you like to see on their portfolio? Thanks.
+
 > Thanks Brother Fredik, You advice and answers worth alot  thanks again, Also I have a question if you got some time you will pass by  : "what are the good procedure or practise of release my side project as the developer ? "
 
 > In your opinion what is the best way to find a good mentor in helping me with further developing my skills within JavaScript/TypeScript and/or C#/.Net ?
