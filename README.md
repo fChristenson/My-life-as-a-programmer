@@ -17,6 +17,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hi Fredrik, thanks for the video. What do you think  is better at this point Go or Java in enterprise application development ? For eg  for middleware application etc.
+
+> Hi Fredrik ! I really need your advice. I will be graduating in July. Unfortunately all my strengths now all lie in Javascript Typescript, front end , Nodejs. I just finished my internship with some Nodejs typescript kinda stuff . The work i have done there scared me so much. My CTO legit wrote a 3-400 lines funtions with 10 if else and i have to work on those codes. I have only 3 months left before graduating. As much as i want to learn Spring framework and its ecosystem so that i could work with seniors that i could learn from, I think its too late now. What do recommend as my next step ? I can not afford to stay unemployment during this hard times. Should I just keep working and applying for javascript role when i gradute and learn Java spring on the side ?
+
 > Hi, nice bath. I was wondering what is expected of a junior web developer? Do they need to know html and css off the top of their heads (they have to learn all the animations?? ) or can they google how to do it on the job? Also, if you were hiring a junior developer without experience, what projects would you like to see on their portfolio? Thanks.
 
 > Thanks Brother Fredik, You advice and answers worth alot  thanks again, Also I have a question if you got some time you will pass by  : "what are the good procedure or practise of release my side project as the developer ? "
