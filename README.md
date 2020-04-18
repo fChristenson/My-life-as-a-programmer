@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> While writing this a question came to my mind if I may: should programmers ( especially young juniors ) avoid old monolithic projects where the back end code is mysterious? Like could this affect their career/programming because all I say see is legacy atm and I don’t really like this black box situation... 
+
 > Hi Fredrik, thanks for the video. What do you think  is better at this point Go or Java in enterprise application development ? For eg  for middleware application etc.
 
 > Hi Fredrik ! I really need your advice. I will be graduating in July. Unfortunately all my strengths now all lie in Javascript Typescript, front end , Nodejs. I just finished my internship with some Nodejs typescript kinda stuff . The work i have done there scared me so much. My CTO legit wrote a 3-400 lines funtions with 10 if else and i have to work on those codes. I have only 3 months left before graduating. As much as i want to learn Spring framework and its ecosystem so that i could work with seniors that i could learn from, I think its too late now. What do recommend as my next step ? I can not afford to stay unemployment during this hard times. Should I just keep working and applying for javascript role when i gradute and learn Java spring on the side ?
