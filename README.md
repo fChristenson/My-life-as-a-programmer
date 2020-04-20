@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> I don't know front end development, should I start with backend part and find someone later for UI. How to approach web project? keeping in mind I don't have front end developer for now.
+
 > I just wanted to say thank you for such an incredible video! I have a question though. Is it normal for a junior to struggle with all of this? I'm deeply interested in building and maintaining scalable vanilla applications. I've started and built a relatively simple word game app with only 3 pages, but I didn't use things like template engines, redux and webpack. Now, I'm planning to build a vanilla e-commerce application for free for a close friend starting a small business. My question is, is there something wrong that I'm having a really hard time trying to come up with the structure and the necessary tools to start off? Should I keep going with this, even if it took weeks? I know this is going to give me a very deep understanding of how everything works, but everyone is just telling me to use React or Angular and get it done with and I don't know.
 
 > While writing this a question came to my mind if I may: should programmers ( especially young juniors ) avoid old monolithic projects where the back end code is mysterious? Like could this affect their career/programming because all I say see is legacy atm and I don’t really like this black box situation... 
