@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hey Fredrik, I have two quick questions.  Is the full-stack developer position typically a small-company/start-up notion or is that ubiquitous throughout the industry?  Also, what do you think about the idea that the full-stack position only exists for companies to save money?  I've come across this opinion a few times, but I have no idea about the level of truth in this opinion.
+
 > Outsourcing : when, why, and how much ?
 
 > I don't know front end development, should I start with backend part and find someone later for UI. How to approach web project? keeping in mind I don't have front end developer for now.
