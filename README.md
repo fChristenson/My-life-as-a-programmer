@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> @Fredrik, what do you see as best language of choice for backend in the future? Go? Node? Java or something else?
+
 > Hey Fredrik, I have two quick questions.  Is the full-stack developer position typically a small-company/start-up notion or is that ubiquitous throughout the industry?  Also, what do you think about the idea that the full-stack position only exists for companies to save money?  I've come across this opinion a few times, but I have no idea about the level of truth in this opinion.
 
 > Outsourcing : when, why, and how much ?
