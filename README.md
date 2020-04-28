@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> What do you think about the increasing demand that software should be free ? It seems like the average person doesn’t realize that only big companies like google can release their products for free. They don’t realize that good software is expensive and it takes entire teams to build something.
+
 > Will web developers benefit from learning rust?
 
 > @Fredrik, what do you see as best language of choice for backend in the future? Go? Node? Java or something else?
