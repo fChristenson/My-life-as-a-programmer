@@ -17,6 +17,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> I'm going to be a remote freelance dev to English speaking clients in South America. I am native to the US. Any advice or things I should be aware of other than that it'll be difficult.
+
+> How bad is it if a new dev knows express but not really node without a framework. Could this person get an entry level backend job?
+
 > What do you think about the increasing demand that software should be free ? It seems like the average person doesn’t realize that only big companies like google can release their products for free. They don’t realize that good software is expensive and it takes entire teams to build something.
 
 > Will web developers benefit from learning rust?
