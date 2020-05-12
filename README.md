@@ -17,19 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> I'm going to be a remote freelance dev to English speaking clients in South America. I am native to the US. Any advice or things I should be aware of other than that it'll be difficult.
-
-> How bad is it if a new dev knows express but not really node without a framework. Could this person get an entry level backend job?
-
-> What do you think about the increasing demand that software should be free ? It seems like the average person doesn’t realize that only big companies like google can release their products for free. They don’t realize that good software is expensive and it takes entire teams to build something.
-
-> Will web developers benefit from learning rust?
-
-> @Fredrik, what do you see as best language of choice for backend in the future? Go? Node? Java or something else?
-
-> Hey Fredrik, I have two quick questions.  Is the full-stack developer position typically a small-company/start-up notion or is that ubiquitous throughout the industry?  Also, what do you think about the idea that the full-stack position only exists for companies to save money?  I've come across this opinion a few times, but I have no idea about the level of truth in this opinion.
-
-> Outsourcing : when, why, and how much ?
+> @Fredrik Christenson Why non-technical people or management level people are in control of most of the decision making. I think developers who are solving a problem and having a clear picture of the problem should be in the power and up in the hierarchy for the technology companies. Please make a video on this question.
 
 > I don't know front end development, should I start with backend part and find someone later for UI. How to approach web project? keeping in mind I don't have front end developer for now.
 
