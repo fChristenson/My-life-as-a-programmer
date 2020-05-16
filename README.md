@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Is it bad for a new programmer who knows the basics and can use a back-end framework to build a MVC crud app but can't do it well without a framework? How well should a new programmer be able to build projects without a framework? Is it pointless to try to build API endpoints without a framework?
+
 > Fredrik,  great videos, great content. We really appreciate your work!!! Quick question, what would be a typical work week for a junior and a senior developer? I've worked for the same company since I got out of school (large financial company as back end developer). At the beginning I spent late nights and weekends learning their tech stack, trying to catch up, but it's been more than a year and the workload doesn't seem to slow down. I pointed out to my manager that I needed time to learn things I don't know, like finance, in order to do my work, but he said I'm supposed to learn that on my own leisure time and work on coding during the day. My entire team operates this way. Since I've only had one job so far, my question is "what is a typical work week for a developer?" I really like my team, but I'd like to know if I can have an easier workload somewhere else. Thank you for all your content, I really appreciate what you're doing!!!
 
 > How to deal with programmers who are terrible but do indeed know they are terrible? And if that terrible programmer is me?
