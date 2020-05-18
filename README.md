@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Thanks Fredrik! One question - what if your co-workers &/ the manager picks a time frame for you to do a task? I've had this happen a few times working as a junior recently, and needless to say, I definitely felt like it was too short of a deadline, I took waaaay longer than "planned" and "underdelivered", which gave me even stronger feels of imposter syndrome. Any thoughts? P. S. I later left the company since it had other issues aswell.
+
 > Hi Fredrik my question is, it is healthy to compared yourself to other programmers and how can you tell if you are bad, average or good. Can you use the company, code, salary of the programmer or the general interest on programming as a way to compare. I had asked coworkers and they don't have that much interest on other stuff outside work, does going the extra mile and doing research and practice new stuff can matters?  Saludos desde Guatemala
 
 > Is it bad for a new programmer who knows the basics and can use a back-end framework to build a MVC crud app but can't do it well without a framework? How well should a new programmer be able to build projects without a framework? Is it pointless to try to build API endpoints without a framework?
