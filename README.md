@@ -17,37 +17,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Thanks Fredrik! One question - what if your co-workers &/ the manager picks a time frame for you to do a task? I've had this happen a few times working as a junior recently, and needless to say, I definitely felt like it was too short of a deadline, I took waaaay longer than "planned" and "underdelivered", which gave me even stronger feels of imposter syndrome. Any thoughts? P. S. I later left the company since it had other issues aswell.
-
-> Hi Fredrik my question is, it is healthy to compared yourself to other programmers and how can you tell if you are bad, average or good. Can you use the company, code, salary of the programmer or the general interest on programming as a way to compare. I had asked coworkers and they don't have that much interest on other stuff outside work, does going the extra mile and doing research and practice new stuff can matters?  Saludos desde Guatemala
-
-> Is it bad for a new programmer who knows the basics and can use a back-end framework to build a MVC crud app but can't do it well without a framework? How well should a new programmer be able to build projects without a framework? Is it pointless to try to build API endpoints without a framework?
-
-> Fredrik,  great videos, great content. We really appreciate your work!!! Quick question, what would be a typical work week for a junior and a senior developer? I've worked for the same company since I got out of school (large financial company as back end developer). At the beginning I spent late nights and weekends learning their tech stack, trying to catch up, but it's been more than a year and the workload doesn't seem to slow down. I pointed out to my manager that I needed time to learn things I don't know, like finance, in order to do my work, but he said I'm supposed to learn that on my own leisure time and work on coding during the day. My entire team operates this way. Since I've only had one job so far, my question is "what is a typical work week for a developer?" I really like my team, but I'd like to know if I can have an easier workload somewhere else. Thank you for all your content, I really appreciate what you're doing!!!
-
-> How to deal with programmers who are terrible but do indeed know they are terrible? And if that terrible programmer is me?
-
 ### Misc
 
-> What are the symptoms of burnout in software engineering or the software industry in general?
-
-> If I got fired, what should I say at an interview?
-
-> What real world problems do software developers solve using trees and graphs?
-
-> What is the easy part about teaching programming?
-
-> Which programming language is best to learn these days and why?
-
-> Is it true that the demand for software developers is decreasing and that there is a saturation coming in this field?
-
-> What is the hidden cost of using an easy programming language in which you can literally import the solution to your problem, thereby turning the modest craft of programming into something akin to a plumber looking for parts in a hardware store?
-
-> How do I become an expert level programmer in a week?
-
-> How do I tell my boss that I'm resigning?
-
 ## Pending tutorials
+
+> Hi Fredrik, can you make a video on how to  improve debugging skills. I am from Java background and wanted to improve this skill set. There are things that come with time but wanted to know what is the correct approach to debugging.
 
 > (Related to this, could you do an episode on proper error handling? Would appreciate it; I read a lot about this right now and there are many different opinions from senior people. Some say throw, some say never throw. Some say use Either monads. Some say always return undefined or null. Some say do all of these depending on context. Etc... I would love some rules and best practices. 🙃)
 
