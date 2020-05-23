@@ -19,6 +19,42 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Misc
 
+> How can you tell if a programmer knows what they are doing or if they are just faking it till they make it?
+
+> If almost everyone can learn programming for free, why is the salary relatively very high?
+
+> Why are so many genius coders and hackers not giving tips to others to help them?
+
+> What bottlenecks need to be addressed in order for the real computer revolution to happen?
+
+> Why are so many developers hating object-oriented programming? 
+
+> How do I tell a "senior" developer that his system design is garbage? 
+
+> What are some best technologies to learn for software developers besides programming? 
+
+> In programming, is there ever a time when D.R.Y. does not apply? 
+
+> Can you start your own company after reaching a senior position as an Oracle or Java developer? 
+
+> What are the most common reasons why software engineers get fired? 
+
+> Do programmers care if you are experienced but bad at coding? 
+
+> What mistakes did you make as a beginning programmer? 
+
+> What are biggest differences between coding as a hobby and coding for your job? 
+
+> Programmers, what is your code writing process? What are the stages you go through and do you use any tools to help you? 
+
+> How does test driven development help reduce number of errors? 
+
+> What makes you a good software developer? 
+
+> What are the most common lies told by programmers? 
+
+> What are the benefits of being a polyglot programmer? 
+
 ## Pending tutorials
 
 > Hi Fredrik, can you make a video on how to  improve debugging skills. I am from Java background and wanted to improve this skill set. There are things that come with time but wanted to know what is the correct approach to debugging.
