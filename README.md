@@ -57,6 +57,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending tutorials
 
+> Would you like to go over how'd you design a simple REST API (fp or oop doesn't matter) without using mongoose or an ORM? Just raw SQL with queries. How would you design a service? How would you test it? Cheers
+
 > Hi Fredrik, can you make a video on how to  improve debugging skills. I am from Java background and wanted to improve this skill set. There are things that come with time but wanted to know what is the correct approach to debugging.
 
 > (Related to this, could you do an episode on proper error handling? Would appreciate it; I read a lot about this right now and there are many different opinions from senior people. Some say throw, some say never throw. Some say use Either monads. Some say always return undefined or null. Some say do all of these depending on context. Etc... I would love some rules and best practices. 🙃)
