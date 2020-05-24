@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hi  Fredrik, How do you stay motivated? Are you working towards a bigger goal? What wakes you up in the morning and keeps you up at night?
+
 ### Misc
 
 > How can you tell if a programmer knows what they are doing or if they are just faking it till they make it?
