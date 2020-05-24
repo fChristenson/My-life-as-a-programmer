@@ -17,6 +17,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Very good explanations thank you. What if I need to store images,orders and order history,simple friendship relations and unspecified length of arrays like food ingredients. Should I use postgresql or some document type dB?(Storing images is not an obligation I can hold the urls)
+
+> hi how i can approach to company for job?
+
 > Hi Fredrik, you stress the importance of sociability and being outgoing, but people can be nice without being very sociable or outgoing. How do you think these people fit in?
 
 > Hi  Fredrik, How do you stay motivated? Are you working towards a bigger goal? What wakes you up in the morning and keeps you up at night?
