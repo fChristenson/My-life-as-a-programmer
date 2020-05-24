@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hi Fredrik, you stress the importance of sociability and being outgoing, but people can be nice without being very sociable or outgoing. How do you think these people fit in?
+
 > Hi  Fredrik, How do you stay motivated? Are you working towards a bigger goal? What wakes you up in the morning and keeps you up at night?
 
 ### Misc
