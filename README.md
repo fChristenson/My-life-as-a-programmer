@@ -17,27 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Very good explanations thank you. What if I need to store images,orders and order history,simple friendship relations and unspecified length of arrays like food ingredients. Should I use postgresql or some document type dB?(Storing images is not an obligation I can hold the urls)
-
-> hi how i can approach to company for job?
-
-> Hi Fredrik, you stress the importance of sociability and being outgoing, but people can be nice without being very sociable or outgoing. How do you think these people fit in?
-
-> Hi  Fredrik, How do you stay motivated? Are you working towards a bigger goal? What wakes you up in the morning and keeps you up at night?
-
 ### Misc
-
-> How can you tell if a programmer knows what they are doing or if they are just faking it till they make it?
-
-> If almost everyone can learn programming for free, why is the salary relatively very high?
-
-> Why are so many genius coders and hackers not giving tips to others to help them?
-
-> What bottlenecks need to be addressed in order for the real computer revolution to happen?
-
-> Why are so many developers hating object-oriented programming? 
-
-> How do I tell a "senior" developer that his system design is garbage? 
 
 > What are some best technologies to learn for software developers besides programming? 
 
@@ -64,6 +44,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > What are the benefits of being a polyglot programmer? 
 
 ## Pending tutorials
+
+> Thanks Fredrik! I'd love more examples of improving things for others & providing value:)
 
 > Would you like to go over how'd you design a simple REST API (fp or oop doesn't matter) without using mongoose or an ORM? Just raw SQL with queries. How would you design a service? How would you test it? Cheers
 
