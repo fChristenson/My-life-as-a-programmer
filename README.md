@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Question: I had a job application a few weeks ago, composed by 4 interviews. In each one, at the end, the interviewer asked me if I had questions. I asked a lot of stuff in the first 3, but in the last one I just asked for some stuff and that was it. I was rejected. A friend of mine in that company told me that I just didn't pass because the last person was going to be my boss and that he didn't like that I didn't make enough questions. Is this something that happens constantly? I guess it's just an excuse due another mistake I made (I want to believe this, because for me it doesn't make any sense...
+
 ### Misc
 
 > What are some best technologies to learn for software developers besides programming? 
