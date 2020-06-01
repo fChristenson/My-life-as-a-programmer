@@ -23,29 +23,19 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Misc
 
-> What are some best technologies to learn for software developers besides programming? 
+> Why do most newbies in the software world only care about the salaries rather than the work and more importantly the art that goes into programming? 
 
-> In programming, is there ever a time when D.R.Y. does not apply? 
+> How important is it to communicate your thought process during a coding interview? 
 
-> Can you start your own company after reaching a senior position as an Oracle or Java developer? 
+> Does test-driven development slow down software development? 
 
-> What are the most common reasons why software engineers get fired? 
+> How can I stay on top of all the new frameworks and evolutions in JavaScript To be hireable?
 
-> Do programmers care if you are experienced but bad at coding? 
+> Why is it that every time I propose to start something, my programming skills seem to disappear?
 
-> What mistakes did you make as a beginning programmer? 
+> If you're hired as a front end or back end developer, what does your first day on the job consist of?
 
-> What are biggest differences between coding as a hobby and coding for your job? 
-
-> Programmers, what is your code writing process? What are the stages you go through and do you use any tools to help you? 
-
-> How does test driven development help reduce number of errors? 
-
-> What makes you a good software developer? 
-
-> What are the most common lies told by programmers? 
-
-> What are the benefits of being a polyglot programmer? 
+> What is the most deceiving thing about writing good, quality code? 
 
 ## Pending tutorials
 
