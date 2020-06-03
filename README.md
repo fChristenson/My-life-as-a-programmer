@@ -17,23 +17,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Thanks, can you tell us the way to seniority without joining a team, in some countries we haven't the chance to join tech companies, we work only as freelancing? Thanks in advance.
+
 > Hello Fredrik, I am one of your YouTube viewers and I found your email by going to your GitHub from a link in one of your videos. I'm hoping that you could help me figure out the likelihood of being given a test on my next interview for a front end position. The company is in another state so the job would be remote. Because of this, my first interview was with the HR person online using Google Meets and all further interviews would be online. I was given a test to create a micro-site with Vue and Node. After I had completed the test, I got a response back for another interview this Friday. I was told that this interview would be more technical and that I would be speaking with the director of programming, head of the backend team, and head of the front end team. My tip from HR was to be prepared to talk about my knowledge with Vue, Node, and Express; however, I'm not sure if I should be prepared for coding tests on the spot during the interview. Do you think completing the take home would've shown them enough of my abilities to not give any more coding challenges or is that something I should expect during this second interview? Thanks for your time and I look forward to any response,-Albert Valdes
 
 ### Misc
-
-> Why do most newbies in the software world only care about the salaries rather than the work and more importantly the art that goes into programming? 
-
-> How important is it to communicate your thought process during a coding interview? 
-
-> Does test-driven development slow down software development? 
-
-> How can I stay on top of all the new frameworks and evolutions in JavaScript To be hireable?
-
-> Why is it that every time I propose to start something, my programming skills seem to disappear?
-
-> If you're hired as a front end or back end developer, what does your first day on the job consist of?
-
-> What is the most deceiving thing about writing good, quality code? 
 
 ## Pending tutorials
 
