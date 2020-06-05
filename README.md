@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> What motivates you to create these videos?
+
 > Fredrik are there any dangers on making friends with coligues?
 
 > Thanks, can you tell us the way to seniority without joining a team, in some countries we haven't the chance to join tech companies, we work only as freelancing? Thanks in advance.
