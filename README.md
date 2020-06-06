@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> But Fredrik, in this age and time. Is there not every tendency that a code base in vanilla Javascript is tending to Legacy code. And also, developers grow, leave, retire. New developers now tend to love new tools even though they can work with old ones.
+
 > What motivates you to create these videos?
 
 > Fredrik are there any dangers on making friends with coligues?
