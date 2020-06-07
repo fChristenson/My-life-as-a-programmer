@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Thanks for the video Fredrik. I feel like I’m realllllllllllllllyyyyy on to something in regards to a startup. I got chills down my spine when you talked about “there are many other endless applications or versions of a similar thing that doesn’t quite fit your nice” because I really feel like that’s where I am right now. But I’m afraid to publicize the project even upon completion because  I’m a self taught developer. So I want it to be a successful project to build a resume. So do I put it on github, or will people take my idea and make a better more monetizeable version? I want to make a meaningful project for my personal website but I don’t want my intellectual property to be free online and open source.
+
 > How do you hand over a Wordpress site to a client which has no ideea to make updates ?
 
 ### Misc
