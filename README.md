@@ -17,27 +17,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> But Fredrik, in this age and time. Is there not every tendency that a code base in vanilla Javascript is tending to Legacy code. And also, developers grow, leave, retire. New developers now tend to love new tools even though they can work with old ones.
-
-> What motivates you to create these videos?
-
-> Fredrik are there any dangers on making friends with coligues?
-
-> Thanks, can you tell us the way to seniority without joining a team, in some countries we haven't the chance to join tech companies, we work only as freelancing? Thanks in advance.
-
-> Hello Fredrik, I am one of your YouTube viewers and I found your email by going to your GitHub from a link in one of your videos. I'm hoping that you could help me figure out the likelihood of being given a test on my next interview for a front end position. The company is in another state so the job would be remote. Because of this, my first interview was with the HR person online using Google Meets and all further interviews would be online. I was given a test to create a micro-site with Vue and Node. After I had completed the test, I got a response back for another interview this Friday. I was told that this interview would be more technical and that I would be speaking with the director of programming, head of the backend team, and head of the front end team. My tip from HR was to be prepared to talk about my knowledge with Vue, Node, and Express; however, I'm not sure if I should be prepared for coding tests on the spot during the interview. Do you think completing the take home would've shown them enough of my abilities to not give any more coding challenges or is that something I should expect during this second interview? Thanks for your time and I look forward to any response,-Albert Valdes
-
 ### Misc
 
 ## Pending tutorials
 
 > Thanks Fredrik! I'd love more examples of improving things for others & providing value:)
-
-> Would you like to go over how'd you design a simple REST API (fp or oop doesn't matter) without using mongoose or an ORM? Just raw SQL with queries. How would you design a service? How would you test it? Cheers
-
-> Hi Fredrik, can you make a video on how to  improve debugging skills. I am from Java background and wanted to improve this skill set. There are things that come with time but wanted to know what is the correct approach to debugging.
-
-> (Related to this, could you do an episode on proper error handling? Would appreciate it; I read a lot about this right now and there are many different opinions from senior people. Some say throw, some say never throw. Some say use Either monads. Some say always return undefined or null. Some say do all of these depending on context. Etc... I would love some rules and best practices. 🙃)
 
 > Can you make a video about loading fonts?
 
