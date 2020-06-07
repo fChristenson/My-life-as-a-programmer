@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> How do you hand over a Wordpress site to a client which has no ideea to make updates ?
+
 ### Misc
 
 ## Pending tutorials
