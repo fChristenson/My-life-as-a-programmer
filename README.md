@@ -17,9 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Thanks for the video Fredrik. I feel like I’m realllllllllllllllyyyyy on to something in regards to a startup. I got chills down my spine when you talked about “there are many other endless applications or versions of a similar thing that doesn’t quite fit your nice” because I really feel like that’s where I am right now. But I’m afraid to publicize the project even upon completion because  I’m a self taught developer. So I want it to be a successful project to build a resume. So do I put it on github, or will people take my idea and make a better more monetizeable version? I want to make a meaningful project for my personal website but I don’t want my intellectual property to be free online and open source.
-
-> How do you hand over a Wordpress site to a client which has no ideea to make updates ?
+> Hi Fredrik, what if you wanted to know more about a pattern (e.g. Visitor pattern) that you saw being used to add flexibility and extensibility to a software solution. So you go ahead and tried to find a problem, that you can solve with this pattern. Do you think this is a good approach to learn how and when to apply design patterns? Since you said trial and error, coming up with a software problem or finding an exercise where you can apply a pattern to solve it, I'd say it's a good way to practice and get experience, because you are building something and you can look at the result afterward, and analyze if this design pattern is indeed a good fit for the problem you wanted to solve.
 
 ### Misc
 
