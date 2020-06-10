@@ -17,9 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Can you talk about if the programmers have become just implementors currently because we have so many things solved in terms of code, libraries and frameworks and seems to be that we need to focus mostly in learning the business rules or logic?
-
-> Hi Fredrik, what if you wanted to know more about a pattern (e.g. Visitor pattern) that you saw being used to add flexibility and extensibility to a software solution. So you go ahead and tried to find a problem, that you can solve with this pattern. Do you think this is a good approach to learn how and when to apply design patterns? Since you said trial and error, coming up with a software problem or finding an exercise where you can apply a pattern to solve it, I'd say it's a good way to practice and get experience, because you are building something and you can look at the result afterward, and analyze if this design pattern is indeed a good fit for the problem you wanted to solve.
+> Frederik how do i avoid working with  CRUD as a programmer?
 
 ### Misc
 
