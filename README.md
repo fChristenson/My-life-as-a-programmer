@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> What happened if you were never able to join a company that can effectively mentor you, and suddenly you'd been working for 5-6 years now, but most of it is self-learned. This is what happened to me.
+
 > Frederik how do i avoid working with  CRUD as a programmer?
 
 ### Misc
