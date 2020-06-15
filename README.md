@@ -17,9 +17,13 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> What happened if you were never able to join a company that can effectively mentor you, and suddenly you'd been working for 5-6 years now, but most of it is self-learned. This is what happened to me.
+> Is it worthwhile to give a potential employee a 1 hour coding challenge when they have 15+ years experience writing code?
 
-> Frederik how do i avoid working with  CRUD as a programmer?
+> Why do interviewers care so much about algorithm and data structures?
+
+> What advice can you give to new programmers?
+
+> Why are so many developers such bad communicators (never pick up a phone, ignore emails, don't alert client of delays, etc.)?
 
 ### Misc
 
