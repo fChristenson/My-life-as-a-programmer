@@ -17,13 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Is it worthwhile to give a potential employee a 1 hour coding challenge when they have 15+ years experience writing code?
-
-> Why do interviewers care so much about algorithm and data structures?
-
-> What advice can you give to new programmers?
-
-> Why are so many developers such bad communicators (never pick up a phone, ignore emails, don't alert client of delays, etc.)?
+> Here is an idea for your next vlogs: do a series on the 10 commandments of egoless programming from the book The psychology of computer programming by Jerry Weinberg. https://medium.com/programming-philosophy/the-10-commandments-of-egoless-programming-89d79b9d73eb
 
 ### Misc
 
