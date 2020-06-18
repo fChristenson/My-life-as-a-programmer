@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hi  Fredrik first I would to thank you for your helpful answers and advises. So my question is I just got my first job as junior developer in a new startup and am in a weird situation. Because we work on two project the lead developer decided to split the team, and asked me to lead one of them. How should I deal with this?  And also if you could give me some advises
+
 > We can't have the best of both sides?  The companies can hire  consultants and they can work toghter with Full time employees  or not?
 
 > Here is an idea for your next vlogs: do a series on the 10 commandments of egoless programming from the book The psychology of computer programming by Jerry Weinberg. https://medium.com/programming-philosophy/the-10-commandments-of-egoless-programming-89d79b9d73eb
