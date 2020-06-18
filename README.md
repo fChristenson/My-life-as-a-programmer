@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> We can't have the best of both sides?  The companies can hire  consultants and they can work toghter with Full time employees  or not?
+
 > Here is an idea for your next vlogs: do a series on the 10 commandments of egoless programming from the book The psychology of computer programming by Jerry Weinberg. https://medium.com/programming-philosophy/the-10-commandments-of-egoless-programming-89d79b9d73eb
 
 ### Misc
