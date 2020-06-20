@@ -17,11 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Hi  Fredrik first I would to thank you for your helpful answers and advises. So my question is I just got my first job as junior developer in a new startup and am in a weird situation. Because we work on two project the lead developer decided to split the team, and asked me to lead one of them. How should I deal with this?  And also if you could give me some advises
-
-> We can't have the best of both sides?  The companies can hire  consultants and they can work toghter with Full time employees  or not?
-
-> Here is an idea for your next vlogs: do a series on the 10 commandments of egoless programming from the book The psychology of computer programming by Jerry Weinberg. https://medium.com/programming-philosophy/the-10-commandments-of-egoless-programming-89d79b9d73eb
+> Hi Fredrik i've a question, if we know language X and the company is discarting language X to move to similar or not similar language Y, we can remain in the company and learn Y (maybe because we enjoy the company business, the problems we solve) or we can go to another company to remain in language X. What are your thoughts in be flexible or not with the languague as a programmer?
 
 ### Misc
 
