@@ -23,6 +23,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending tutorials
 
+> Can u create a few videos on Mongo, Node and express about industry use cases and best practises?
+
 > Thanks Fredrik! I'd love more examples of improving things for others & providing value:)
 
 > Can you make a video about loading fonts?
