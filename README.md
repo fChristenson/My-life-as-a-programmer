@@ -17,9 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Do you worry that C# is getting too many new features? I love using things like null coalescing but I worry that someone might come along and not know what's going on
-
-> Hi Fredrik i've a question, if we know language X and the company is discarting language X to move to similar or not similar language Y, we can remain in the company and learn Y (maybe because we enjoy the company business, the problems we solve) or we can go to another company to remain in language X. What are your thoughts in be flexible or not with the languague as a programmer?
+> @Fredrik Christenson Yeap i know it's a personal decision. My point was what if the problem or business of the company is more appealing than the language, the tool you are using to solve that problem in that industry, should we better stick to our carreer and focus in one language or pursuit maybe passion related to solve some kind of problems?
 
 ### Misc
 
