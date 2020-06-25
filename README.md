@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Thanks for the video. How would you negotiate if you are single developer on a fullstack project (there is nobody to compare myself to)?
+
 > Hey man you make a video regarding Internships(school) and how to get a part time software developer as a student.
 
 > @Fredrik Christenson Yeap i know it's a personal decision. My point was what if the problem or business of the company is more appealing than the language, the tool you are using to solve that problem in that industry, should we better stick to our carreer and focus in one language or pursuit maybe passion related to solve some kind of problems?
