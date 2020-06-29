@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Excellent as always! Can you do a video talking about what you consider will change in the industry after the pandemic? I'm really corious about how it will evolve.
+
 > Thanks for the video. How would you negotiate if you are single developer on a fullstack project (there is nobody to compare myself to)?
 
 > what's your top 2 favourite backend or general purpose languages for the future (excluding php & java)
