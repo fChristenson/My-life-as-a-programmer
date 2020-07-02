@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> How easy is it for seniors/team leads switch jobs then? Then they will be facing a new team and a new system
+
 > Excellent as always! Can you do a video talking about what you consider will change in the industry after the pandemic? I'm really corious about how it will evolve.
 
 > Thanks for the video. How would you negotiate if you are single developer on a fullstack project (there is nobody to compare myself to)?
