@@ -17,6 +17,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> 1. I see many web developers use the job title "software developer" even though they only work with the web. How do you define a software developer, and which title suites you the best if you're working with fullstack web development? Do job titles matter in reality, or do people just call themselves what they like?
+
+> 2. Our codebase is suffering from lack of unit tests. We have lots of complexity in our code which is not tested, on both backend and frontend. And things are only getting worse with time, because of the tight deadlines and lack of time to put into testing. How do we deal with this?
+
 > I would like to hear you talk about scope creep, your opinions on it, how you handle clients requesting changes or adding features and how you fight against it or work with it Fred. Also, do you believe scope creep is just something we all must accept as part of our jobs? Should we expect and accept scope creep like we all accept that one day we will die? Meaning it will happen regardless and we should just make the best of it?  Many times at my agency during the middle of development and sometimes near the end of development the client will request new features or modify existing features that are in the project scope document that THEY SIGNED before the project went into development. This has been one of my biggest grievances since becoming a web developer a year ago. My problem is that usually when this happens the client's expectations are that the deadline will remain the same despite adding more features or changing existing features and because of this the project manager (atleast in my company) seems to pressure you into getting it done without pushing the deadline back because making the client happy is what keeps all of us employed and helps get us new referrals for more work.
 
 > How easy is it for seniors/team leads switch jobs then? Then they will be facing a new team and a new system
