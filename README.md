@@ -35,6 +35,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending tutorials
 
+> Hey Fredrik can you make a video on setting up a portfolio as a web developer
+
 > Can u create a few videos on Mongo, Node and express about industry use cases and best practises?
 
 > Thanks Fredrik! I'd love more examples of improving things for others & providing value:)
