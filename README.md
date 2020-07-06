@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hey Fredrik, great video as always. I need a bit of your career advice. I work at a medium size (~100) tech company. I joined the company a year ago as a support engineer (mostly support and some scripting and bug fixing) and it has been fun/educational but I want to transition to product development. This was my first job out of school. I have done a great job in this position and I think my manager considers me as potential lead in the future for this support team so there is some potential in this role as well but I am worried that there will be much less
+
 > Could you please do a video on how to develop the soft skills. Any book you might recommend. Good video btw :D
 
 > 1. I see many web developers use the job title "software developer" even though they only work with the web. How do you define a software developer, and which title suites you the best if you're working with fullstack web development? Do job titles matter in reality, or do people just call themselves what they like?
