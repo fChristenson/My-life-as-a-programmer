@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Could you please do a video on how to develop the soft skills. Any book you might recommend. Good video btw :D
+
 > 1. I see many web developers use the job title "software developer" even though they only work with the web. How do you define a software developer, and which title suites you the best if you're working with fullstack web development? Do job titles matter in reality, or do people just call themselves what they like?
 
 > 2. Our codebase is suffering from lack of unit tests. We have lots of complexity in our code which is not tested, on both backend and frontend. And things are only getting worse with time, because of the tight deadlines and lack of time to put into testing. How do we deal with this?
