@@ -41,6 +41,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending tutorials
 
+> Hey Fredrik can you make a video on what are the things that I need to include in a portfolio. The best way to build a portfolio
+
 > Hey Fredrik can you make a video on setting up a portfolio as a web developer
 
 > Can u create a few videos on Mongo, Node and express about industry use cases and best practises?
