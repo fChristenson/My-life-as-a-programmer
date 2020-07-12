@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> What do companies expect a frontend developer with 4 years of experience to know?
+
 > Related, but can you make a video on how to deal with low documentation environments and tribal knowledge?  Sometimes it feels like the only way to get information is to ask in these situations.
 
 > Last month, I graduated from high school. I am not going to college this fall, but I could be next fall. The reason I’m not going is because I’ve been experienced with programming for 5 years, not in Java, but in Lua. I’m taking an online course and my plan right now is to either finish it or get to a point where I can make some pretty good applications, make them, put them on GitHub, serving as some sort of an online portfolio, and go on the job hunt. If that proves to be unsuccessful, I will just go to college in the fall of 2021. The hope I have is to circumvent the entire process of spending 4 years and thousands of dollars just so I can muster up a degree that will allow me to get my foot in the door easier. I wouldn’t be doing this if I had under a year of experience, but since I have 5 years of experience, I kind of figured it’s somewhat reasonable, but still precarious.My question to you, Frederik, is that would you agree this is a reasonable approach, given my relatively unique position? I say “relatively” because coming into college computer science, most students haven’t seen a single line of code, and they’ll probably see more lines of code out on the job than in the 4 years of their college education.
