@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Really nice video, hope people get good mentors who think like this. Fredrik, I am sure many would disagree but for me personally sometimes it's very difficult to follow/read the documentation,  it feels out of the context or some particular words  which make the information unclear. Is there any suggestion on how to go about reading and understanding the docs. I am talking about Spring documentation here.
+
 > What do companies expect a frontend developer with 4 years of experience to know?
 
 > Related, but can you make a video on how to deal with low documentation environments and tribal knowledge?  Sometimes it feels like the only way to get information is to ask in these situations.
