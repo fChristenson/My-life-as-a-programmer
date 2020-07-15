@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hi, question: I'm a junior web dev (9 months), but the place where I work recently hired a new guy that seems to have no idea about the language/framework we use. He keeps asking a lot of questions that are right in the docs or easy to find on google but it seems to me that doesn't make any effort to find the solution on his own before asking me and I'm kinda tired. So the question in question is: How do I teach him to solve problems by himself without being rude?
+
 > Really nice video, hope people get good mentors who think like this. Fredrik, I am sure many would disagree but for me personally sometimes it's very difficult to follow/read the documentation,  it feels out of the context or some particular words  which make the information unclear. Is there any suggestion on how to go about reading and understanding the docs. I am talking about Spring documentation here.
 
 > What do companies expect a frontend developer with 4 years of experience to know?
