@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> 1) How do your working hours usually look like? Do you prefer starting early and finishing early? And how often do you work over 8 hours? The reason why I ask this question is that I notice that some of my co-workers start really early, and finish late, so they work more than 8 hours on a regular basis. Although the benefit of starting early is that you can quit early too, I think it might be bad since you will leave the office while there are co-workers who might need your help. So I'm not sure if I should continue starting at 8:30 as I usually do, or if I should show up earlier. 2) Is your employer aware of your YouTube channel? And can that possibly become an issue if someone starts creating a channel?
+
 > In your experience what percentage of companies use algorithm code tests as their interview question, other than FAANG companies?
 
 > Hi, Could you make a video on, what techniques you could use to understand a new big code base? Is there something that helped you personally?
