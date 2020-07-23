@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> I asked myself the same question last week. I met some developers who call themselves seniors just because they worked for so many years but still don’t have the skills I would expect from a senior. Then I met people who have skills and only work for 3-4 years and they also call themselves senior. It seems a little bit like many companies have very very different criteria for awarding a title. Or maybe people just say what they thinks they are  and the company prints it on their business cards. Frederik, do you have a system in your Company?
+
 > Hi, I wanted to say that I love your channel, a really nice, new prospective in the software engineering life as seen from a senior dev. My podcast of choice when I work. Also if possible I would lile to ask how can I, as a junior dev become better at reading code. While writing code is not that difficult, I find reading it quite so. Any good tips?
 
 > Hey Fredrick, First thanks for the quality content you provide on a daily basis,your channel is pure gold really. I have a question, which I don't think you might enjoy discussing or not strictly related to your recent content but I would appreciate your help .i am currently in my final year and trying to generate ideas for graduation project, and it's a really hard task, i don't wanna come up with cheap ideas like building another Ecommerce or so,and in the same time i didn't go the trendy way of learning ML or Ai, so basically my skills are web related(java spring , angular.....) . maybe a little bit of insight on how you handled this during your time as a student or so might help.Thanks in advance.
