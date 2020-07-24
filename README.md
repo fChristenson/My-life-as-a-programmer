@@ -17,6 +17,22 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hey Fredrik. You are my favorite Youtuber. I'm dead serious. I have some questions: I have been sitting on the sidelines of the development community since 2011 and I regret it so much. I have denied coding as my calling for all these years I'm ready to be a part of a team and solve meaningful problems. 1.) As a newer developer, is it worth it to seriously set my aspirations on a career at Google or FAAN? I'm not concerned with prestige or shiny-objects. I just want to solve important problems and be on the forefront of stuff that changes everything. I want to be a part of big-picture innovation and make a difference etc. 
+
+> 2.) I'm aware at big companies devs tend to be a small part of something big and small is the opposite but does that change with senior positions? 
+
+> 3.) What specific companies would you seriously set your sights on if you were a developer looking to get in the industry? And why?
+
+> 4.) Is there any way to find the next big thing as far as a startup goes and get in at the ground floor? Is the next big thing I'm talking about really on a website like Angel List or on a Developer Job Board? I want to find it. How?  I don't want to have billions in stock value.  I just want to be a part of a truly innovative and disruptive company from the beginning and watch it grow. I want to grow with it and be a part of THAT team and solving THOSE problems along the way. Thank you so much for all the effort and everything you do. The insight you offer in your videos is priceless. What you're doing is changing my life. Thank you.
+
+> Hey, not part of the video maybe but what's your opinion about working in freelance projects while having a full time job?
+
+> Hi Fred, just a question that is of concern. I am a year since i started to learn coding. I took on Spring boot as my framework of choice. I have been scouting for an entry level job but most want a degree as a minimum requirement. Do you think i picked on the wrong framework regarding i don't have a degree? On top of that, i remember selecting spring boot so that i could work on enterprise applications, but without a degree, is it possible for me to get a job ?
+
+> @Fredrik Christenson But - connecting this answer to the video - working as a freelancer would'nt be working alone and as so, hurting your career?
+
+> What about full stack vs devops does being a fullstack dev also includes devops?
+
 > I asked myself the same question last week. I met some developers who call themselves seniors just because they worked for so many years but still don’t have the skills I would expect from a senior. Then I met people who have skills and only work for 3-4 years and they also call themselves senior. It seems a little bit like many companies have very very different criteria for awarding a title. Or maybe people just say what they thinks they are  and the company prints it on their business cards. Frederik, do you have a system in your Company?
 
 > Hi, I wanted to say that I love your channel, a really nice, new prospective in the software engineering life as seen from a senior dev. My podcast of choice when I work. Also if possible I would lile to ask how can I, as a junior dev become better at reading code. While writing code is not that difficult, I find reading it quite so. Any good tips?
