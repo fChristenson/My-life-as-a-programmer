@@ -17,6 +17,14 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Fredrik, I've worked for one company for over 4 years. Recently our boss told everyone to install a piece of software called ManicTime that is gonna track every programmer's every mouse click and every keyboard stroke and send screenshots to the managers. ManicTime has a timer that turns off if a mouse or a keyboard is not used for longer than a certain period of time (several minutes from what I understood). So if I go talk to my colleague about some task for 10min, it will look like I just went away and did not work. I would understand this if we worked remotely, but we all work full-time in the office. Our manager even sits in the same room with us. Are these practices widespread? Would you leave if your boss asked you to install such spyware? Thanks!
+
+> Fredrik can you talk about the roles in technical role and what are their responsibility, eg- architect, lead ,QA etc and what would you aim for? I am working as a technical consultant, I do development but confused what responsibility these tags comes with.
+
+> For DevOps, would it better to build a custom debugger with the developer team such as putting in bug responders where the development team may expects issues and include documentation for the operational team to understand? It’s like making a car engine and passing it on to another department to make sure it runs right? Correct me if I’m wrong.
+
+> Should I take a job making a internal tool or should I build CRUD applications?
+
 > It sounded like you're including remote employment as coding "alone" but would that requirement change in COVID-19 situations where most offices are remote for the time being (at leaat in the US) if not longer where it's told as the new norm?
 
 > Hi Fred, how do I correct this decision. I have taken the wrong decision of joining 2  big companies and after spending 4+6 yrs  my pay check is less but my knowledge is very limited if I compare it to my friends. Now I want to switch  but I get rejected because now my knowledge doesn't match my paycheck anymore 😐. So trust me increasing  skill set is the way forward. I want to know how to correct this for a guy with 10yr of IT experience.
