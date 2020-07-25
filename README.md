@@ -29,6 +29,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Hi Fred, how do I correct this decision. I have taken the wrong decision of joining 2  big companies and after spending 4+6 yrs  my pay check is less but my knowledge is very limited if I compare it to my friends. Now I want to switch  but I get rejected because now my knowledge doesn't match my paycheck anymore 😐. So trust me increasing  skill set is the way forward. I want to know how to correct this for a guy with 10yr of IT experience.
 
+> Hi. I'm already invest my time learning and creating project using java and spring boot. I already comfortable with java, should i learn php or consider to switch php framework like CI, or Laravel?
+
 > Hey Fredrik. You are my favorite Youtuber. I'm dead serious. I have some questions: I have been sitting on the sidelines of the development community since 2011 and I regret it so much. I have denied coding as my calling for all these years I'm ready to be a part of a team and solve meaningful problems. 1.) As a newer developer, is it worth it to seriously set my aspirations on a career at Google or FAAN? I'm not concerned with prestige or shiny-objects. I just want to solve important problems and be on the forefront of stuff that changes everything. I want to be a part of big-picture innovation and make a difference etc. 
 
 > 2.) I'm aware at big companies devs tend to be a small part of something big and small is the opposite but does that change with senior positions? 
