@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> I love your content. I discovered it while programmig, currently i'm in college and i'm having trouble recognizing what is my worth as a programmer. I have little knowledge about many different topics and i feel like the obvious answer is "you are currently worth almost nothing". Do you have any advice for people who need to define more their career path like me?
+
 > Can you talk about a development job that involves writing a lot of python, pandas, numpy? This sounds like a data development job, but maybe not product development? Would that come to haunt me in my career down the road?
 
 > Hey Fredrik, I have not finished the video yet, I'll add another comment if I have questions regarding the video. Lately I have been searching for resources (books, tutorials, people...) on medium - large scale frontend application. There is a lot of resources for small apps but as I am currently applying for positions on React/Typescript large applications I would like to have a better understanding of the different problems that can be encountered at large scale and potential solutions before having to deal with them. I have been mostly working in isolation or small teams with low quality standards, it's been difficult for me to evolve rapidly (I am working on selecting better companies). This tutorial is a perfect example and thank you for it. Do you have recommendations of advanced resources that could help me ? (I will most likely take bob martins books as it seems that they are a reference for enterprise software but they seem more oriented toward backend software and OOP, I might be wrong though.)
