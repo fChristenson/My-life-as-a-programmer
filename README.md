@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> @Fredrik Christenson maybe you could walk us through your carrier and some stories on those jobs. Maybe your current goals and previous failures...
+
 > How do you do unit testing if the bulk of your business logic is in database stored procedures?
 
 > I love your content. I discovered it while programmig, currently i'm in college and i'm having trouble recognizing what is my worth as a programmer. I have little knowledge about many different topics and i feel like the obvious answer is "you are currently worth almost nothing". Do you have any advice for people who need to define more their career path like me?
