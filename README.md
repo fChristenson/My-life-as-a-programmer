@@ -17,6 +17,12 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Is the security of an application always added at the late stage of development, almost as an afterthought ?
+
+> Is it ok to say my weakness in an interview is that I used to work in a company that uses JSP, Knockout, Mootools on a daily basis. I tried to explain to my project manager the value of spending more time on incrementally upgrading components to ES6+ and React, because it helps new developers who recently joined our projects to get productive faster, and how certain scenarios like updating the state of a component dynamically is much much easier with React instead of the old tools. But I understand the need for a business to make money, and fixing bugs takes priority. It frustrates me to no end, but it is something that I am learning to deal with.
+
+> Fredrick, how do you deal with an emotional vampyrer at work? (As a software developer)
+
 > @Fredrik Christenson maybe you could walk us through your carrier and some stories on those jobs. Maybe your current goals and previous failures...
 
 > How do you do unit testing if the bulk of your business logic is in database stored procedures?
