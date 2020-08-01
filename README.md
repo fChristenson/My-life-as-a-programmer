@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> @Fredrik Christenson Can you make a video on CSP and why is it important?
+
 > Hey, as freelancer how can I know my skills level(junior,  mid-level), since i didn't worked in big team before, in the some time i took the whole responsibility to develop products. Thanks
 
 > Hey Fredrick, good video as always, I have an interesting situation and would like to know your opinion about it. Our teamlead has left company around month ago. Now at his new job he needs frontend developers, and he said that I could join a new team. The company is way better than the one that I'm working for. He said that there will be no salary increase, because it's important for him to know that I switch job for better opportunity, not money. The problem is that I'm underpaid in my current job, because I didn't negotiated my salary well at the interview. If you look at this situation from a company perspective, it takes a lot of resources to hire a developer, and I'm sure that it would be very difficult to find a developer with the same skills for my salary, also there are some risks that the person won't be a good fit. So it's very profitable for them to hire me. Also for me it'll take some time to become productive in a new environment, so it looks like I would even loose a little bit in terms of money. I really don't know what to do. The opportunity for grow seems really good, and it's more important to me than money. But I'm scared that I won't be able to make decent money just because I have a bad start. Should I try to talk about it and try to negotiate? Or it would seem like I'm only interested in money?
