@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hi, as always great video! If I may ask a question tho, do you think that as a first job is better to work in a dynamic small company/startup, or in a well established somehow outdated(tech debt) company? I believe you already tackled this answer in your video where you answered a question about "knowledge vs money as your first job" but it would be nice if you could expand a bit on that
+
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
 
 > Hey, as freelancer how can I know my skills level(junior,  mid-level), since i didn't worked in big team before, in the some time i took the whole responsibility to develop products. Thanks
