@@ -17,6 +17,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> I’ve noticed that it’s hard to find people who enjoy coding outside of work. I understand people don’t feel like coding 24/7 but it’s kind of hard to find others who are as passionate as I am. Do you have this problem as well ?
+
+> Hi Fredrik, very nice insight, thank  you. I saw the benefits of using TS too, although sometimes I got troubles with type errors when dealing with third-party libraries...
+I'd love to hear your opinion on Elixir / Phoenix; they recently introduced a quite interesting approach with LiveView, which would virtually allow you to build web applications without javascript. Do you think it is going to represent a good contender to js-based web apps in the future? Thank you and have a nice weekend.
+
 > Hi, as always great video! If I may ask a question tho, do you think that as a first job is better to work in a dynamic small company/startup, or in a well established somehow outdated(tech debt) company? I believe you already tackled this answer in your video where you answered a question about "knowledge vs money as your first job" but it would be nice if you could expand a bit on that
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
