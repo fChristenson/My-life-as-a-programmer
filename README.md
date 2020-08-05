@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> By the way. I actually have a question: How many programming languages are you proficient in (like being able to build something useful in them, like a page, a game, a whole app or a malware :P et cetera. I don't mean being a master of thsoe languages and knowing every library and feature, but having enough skills to use it in your work or in your private projects )?  And how many years did it take to reach that level (per language)?
+
 > I’ve noticed that it’s hard to find people who enjoy coding outside of work. I understand people don’t feel like coding 24/7 but it’s kind of hard to find others who are as passionate as I am. Do you have this problem as well ?
 
 > Hi Fredrik, very nice insight, thank  you. I saw the benefits of using TS too, although sometimes I got troubles with type errors when dealing with third-party libraries...
