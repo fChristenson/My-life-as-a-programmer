@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Fredrik, We have to learn Java in school atm. When I heard it was coming up, I was disappointed, but then I thought I would still try and do my best, learn OOP best practices and be ready for the job market. However, I got into programming through messing with arduino and switching to ubuntu to save money and later making socket.io games with Typescript/Javascript. I always pictured all programming to be either very hardware intuitive like C or very time-efficient and productive like Javascript. Now, we spent 2 days at school just trying to get Java and Netbeans running on everyones computer. To no avail, people report their systems crashing 
+
 > By the way. I actually have a question: How many programming languages are you proficient in (like being able to build something useful in them, like a page, a game, a whole app or a malware :P et cetera. I don't mean being a master of thsoe languages and knowing every library and feature, but having enough skills to use it in your work or in your private projects )?  And how many years did it take to reach that level (per language)?
 
 > I’ve noticed that it’s hard to find people who enjoy coding outside of work. I understand people don’t feel like coding 24/7 but it’s kind of hard to find others who are as passionate as I am. Do you have this problem as well ?
