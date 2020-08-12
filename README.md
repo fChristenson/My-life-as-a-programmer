@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> How do you go about new code and preventing most of the weeds from growing in the first place? You already discussed it in previous videos that it’s basically a fine line between pragmatism and idealism. I know that this totally depends on the situation, but I am curious what your opinion is.
+
 > Do you think it's a good idea to have git branches for epics?
 
 > Fredrik, We have to learn Java in school atm. When I heard it was coming up, I was disappointed, but then I thought I would still try and do my best, learn OOP best practices and be ready for the job market. However, I got into programming through messing with arduino and switching to ubuntu to save money and later making socket.io games with Typescript/Javascript. I always pictured all programming to be either very hardware intuitive like C or very time-efficient and productive like Javascript. Now, we spent 2 days at school just trying to get Java and Netbeans running on everyones computer. To no avail, people report their systems crashing almost every day. I am shocked by the amount of GUI tools in the IDE. Even more shocked that you really need to use them. I feel I can’t handle switching between text and gui logic all the time. I am shocked how installing an unrelated software on the computer can break the whole IDE/Project. I am shocked how tiny actions can have big consequences. But most of all I‘m maximally demotivated by how many files you have to create, checkboxes and GUI menues you have to traverse and how much code you have to write to get a simple crud web app going. Please Fredrik, tell me I can have a good career in Software development without knowing Java.
