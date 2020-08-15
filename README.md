@@ -17,28 +17,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> I agree with everything that you said, Fredrik. I personally was hired as a junior because at the interview I was quite calm and relaxed (that is because I was sure I was not gonna get the job and I had nothing to lose). And because I was super enthusiastic about coding and all those stuff (and still am like that to some extent even after some years in the industry). After some time working, everybody is super extatic to work with me and say I am the most sociable developer they ever worked with (I am coming from working in another industry more socially oriented, let's say), so I guess my past experience helps a lot there too. However, I am just curious, after some time in the industry, do the coolness and social skills still matter that much? As a more mature developer trying to get a middle level or senior position, will they look for social skills this much? Thank you in advance for reading and replying if you have some time 😎
-
-> Fredrik could you please elaborate on time estimates? As of now to me estimating time is like gambling, it's something I find very difficult to get right. Is it just a matter of gaining more experience or there is a more systematic way of formulating more correct time estimates? My problem is that I see each given task as different from one another; moreover, often bugs come along the way, requirements change or increase, and so on. It's not like peeling potatoes, where you know it'll take you x seconds to peel one, so you can have a very predictable time estimate on how long it will take to peel the rest of them. I'd be very glad if you could enlighten me on this. Thank you and have a nice day.
-
-> Communicating with designers has been the toughest part of the job for me. Especially since my company seems to value them more then engineers. Sometimes they make passive aggressive statements like “you just implement the stuff we create. We actually have to create stuff from scratch”.
-
-> Hey Fredrick, good video as always, I have an interesting situation and would like to know your opinion about it. Our teamlead has left company around month ago. Now at his new job he needs frontend developers, and he said that I could join a new team. The company is way better than the one that I'm working for. He said that there will be no salary increase, because it's important for him to know that I switch job for better opportunity, not money. The problem is that I'm underpaid in my current job, because I didn't negotiated my salary well at the interview. If you look at this situation from a company perspective, it takes a lot of resources to hire a developer, and I'm sure that it would be very difficult to find a developer with the same skills for my salary, also there are some risks that the person won't be a good fit. So it's very profitable for them to hire me. Also for me it'll take some time to become productive in a new environment, so it looks like I would even loose a little bit in terms of money. I really don't know what to do. The opportunity for grow seems really good, and it's more important to me than money. But I'm scared that I won't be able to make decent money just because I have a bad start. Should I try to talk about it and try to negotiate? Or it would seem like I'm only interested in money?
-
-> Should I put how many coding videos I watch on my CV?
-
-> Is the security of an application always added at the late stage of development, almost as an afterthought ?
-
-> Is it ok to say my weakness in an interview is that I used to work in a company that uses JSP, Knockout, Mootools on a daily basis. I tried to explain to my project manager the value of spending more time on incrementally upgrading components to ES6+ and React, because it helps new developers who recently joined our projects to get productive faster, and how certain scenarios like updating the state of a component dynamically is much much easier with React instead of the old tools. But I understand the need for a business to make money, and fixing bugs takes priority. It frustrates me to no end, but it is something that I am learning to deal with.
-
-> Fredrick, how do you deal with an emotional vampyrer at work? (As a software developer)
-
-> @Fredrik Christenson maybe you could walk us through your carrier and some stories on those jobs. Maybe your current goals and previous failures...
-
-> How do you do unit testing if the bulk of your business logic is in database stored procedures?
-
-> I love your content. I discovered it while programmig, currently i'm in college and i'm having trouble recognizing what is my worth as a programmer. I have little knowledge about many different topics and i feel like the obvious answer is "you are currently worth almost nothing". Do you have any advice for people who need to define more their career path like me?
-
 > Can you talk about a development job that involves writing a lot of python, pandas, numpy? This sounds like a data development job, but maybe not product development? Would that come to haunt me in my career down the road?
 
 > Hey Fredrik, I have not finished the video yet, I'll add another comment if I have questions regarding the video. Lately I have been searching for resources (books, tutorials, people...) on medium - large scale frontend application. There is a lot of resources for small apps but as I am currently applying for positions on React/Typescript large applications I would like to have a better understanding of the different problems that can be encountered at large scale and potential solutions before having to deal with them. I have been mostly working in isolation or small teams with low quality standards, it's been difficult for me to evolve rapidly (I am working on selecting better companies). This tutorial is a perfect example and thank you for it. Do you have recommendations of advanced resources that could help me ? (I will most likely take bob martins books as it seems that they are a reference for enterprise software but they seem more oriented toward backend software and OOP, I might be wrong though.)
@@ -56,6 +34,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > What do companies expect a frontend developer with 4 years of experience to know?
 
 > Related, but can you make a video on how to deal with low documentation environments and tribal knowledge?  Sometimes it feels like the only way to get information is to ask in these situations.
+
+> @Fredrik Christenson maybe you could walk us through your carrier and some stories on those jobs. Maybe your current goals and previous failures...
 
 ### Misc
 
