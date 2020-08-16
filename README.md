@@ -17,13 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Can you talk about a development job that involves writing a lot of python, pandas, numpy? This sounds like a data development job, but maybe not product development? Would that come to haunt me in my career down the road?
-
-> Hey Fredrik, I have not finished the video yet, I'll add another comment if I have questions regarding the video. Lately I have been searching for resources (books, tutorials, people...) on medium - large scale frontend application. There is a lot of resources for small apps but as I am currently applying for positions on React/Typescript large applications I would like to have a better understanding of the different problems that can be encountered at large scale and potential solutions before having to deal with them. I have been mostly working in isolation or small teams with low quality standards, it's been difficult for me to evolve rapidly (I am working on selecting better companies). This tutorial is a perfect example and thank you for it. Do you have recommendations of advanced resources that could help me ? (I will most likely take bob martins books as it seems that they are a reference for enterprise software but they seem more oriented toward backend software and OOP, I might be wrong though.)
-
-> 1) How do your working hours usually look like? Do you prefer starting early and finishing early? And how often do you work over 8 hours? The reason why I ask this question is that I notice that some of my co-workers start really early, and finish late, so they work more than 8 hours on a regular basis. Although the benefit of starting early is that you can quit early too, I think it might be bad since you will leave the office while there are co-workers who might need your help. So I'm not sure if I should continue starting at 8:30 as I usually do, or if I should show up earlier. 2) Is your employer aware of your YouTube channel? And can that possibly become an issue if someone starts creating a channel?
-
-> In your experience what percentage of companies use algorithm code tests as their interview question, other than FAANG companies?
+> Hi Fredrik. Could you please make a vlog about dealing with nasty employers who won't give you good references when you're changing your jobs.
 
 > Hi, Could you make a video on, what techniques you could use to understand a new big code base? Is there something that helped you personally?
 
