@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> @Fredrik Christenson one idea for a future video, if I may have a suggestion: what are your methods to keep a healthy work / social life balance? You seem to be a very chill person who has it all together (unlike myself, haha). I have struggles with this sometimes if it is a busy period and I know many people who have the same issues. Maybe you know some tips & tricks and you could share with us. Thank you so much for your videos overall! They bring a lot of value 🌞
+
 > I have another question: why would someone want to work for a FANG company? Besides prestige and name, I do not see any positives. But who am I to judge?
 
 > @Fredrik Christenson maybe you could walk us through your carrier and some stories on those jobs. Maybe your current goals and previous failures...
