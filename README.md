@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Great work with your videos, i appreciate your work and has help me a lot this few months. I asked a question before about searching for opportunities during college to increase the "market value" as a programmer. I had been doing my work researching and everything but i came with two alternatives, between finding a job on a company and doing some investigation as a programmer within my college. If i wanted to increase my skill level while not deprecating my future job opportunities which alternative should i try to follow?
+
 > @Fredrik Christenson one idea for a future video, if I may have a suggestion: what are your methods to keep a healthy work / social life balance? You seem to be a very chill person who has it all together (unlike myself, haha). I have struggles with this sometimes if it is a busy period and I know many people who have the same issues. Maybe you know some tips & tricks and you could share with us. Thank you so much for your videos overall! They bring a lot of value 🌞
 
 > I have another question: why would someone want to work for a FANG company? Besides prestige and name, I do not see any positives. But who am I to judge?
