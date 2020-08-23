@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> I'm a 20 year old college drop out who wants to get into either Web Development or Software Engineering. I've been programming for 8 years now but have nothing to show for it except understanding what I'm writing, how to go about making stuff people ask of me, and finding out the answers to stuff I don't know. Even with my abilities I still feel like the either industry wont accept me since I have no relevant experience or a portfolio. What're somethings that I should do to push myself in the right direction in your opinion?
+
 > Would your rather hire a dev with 1 or 10 years of experience if everything else was equal?
 
 > Hey Fredik, question apart from the video (as always...): Lately I've been feeling the imposter syndrome again because I feel that what I do in my job is very basic in comparison to what I see other people do, more specifically in open source. I want to take the jump and contribute to open source because I feel I can learn a lot, but that first step is hard because I don't understand not even the easy issues. Do you have any suggestion or video about it?
