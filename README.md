@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Would your rather hire a dev with 1 or 10 years of experience if everything else was equal?
+
 > Hey Fredik, question apart from the video (as always...): Lately I've been feeling the imposter syndrome again because I feel that what I do in my job is very basic in comparison to what I see other people do, more specifically in open source. I want to take the jump and contribute to open source because I feel I can learn a lot, but that first step is hard because I don't understand not even the easy issues. Do you have any suggestion or video about it?
 
 > Great work with your videos, i appreciate your work and has help me a lot this few months. I asked a question before about searching for opportunities during college to increase the "market value" as a programmer. I had been doing my work researching and everything but i came with two alternatives, between finding a job on a company and doing some investigation as a programmer within my college. If i wanted to increase my skill level while not deprecating my future job opportunities which alternative should i try to follow?
