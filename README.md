@@ -17,6 +17,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Fredrik, how do I answer "why do you want to work here" as a junior out of college? The honest answer to that is always "I just need a job to get my foot in the door" but that sounds very immature. What would be the proper way to go about this ?
+
+> I'm a beginner , I always like to build my own projects , ex. News app,weather app etc, my problem is I can't find what contents like tables or database needs to have to start it . how do you find them . ?
+
 > I'm a 20 year old college drop out who wants to get into either Web Development or Software Engineering. I've been programming for 8 years now but have nothing to show for it except understanding what I'm writing, how to go about making stuff people ask of me, and finding out the answers to stuff I don't know. Even with my abilities I still feel like the either industry wont accept me since I have no relevant experience or a portfolio. What're somethings that I should do to push myself in the right direction in your opinion?
 
 > Good day, Mr. Christenson. I am sorry to bother you with a small request for your advice. I am an appreciative follower of the information shared on your YouTube channel.  I am in  Zimbabwe, #Africa, and I think it's really valuable. I would like to ask for your opinion on WHAT TOOLS I CAN USE to build a site such as https://transferwise.com/au. A prospective client sent me a cold-email and wondered if I could build something similar for them.  I know Javascript well and am decent with React. Can also learn new things fast. What skills and tools would you think I would need to pull this off. I greatly appreciate any suggestions, ideas, and tips you may share. Have a great day. Sincerely, Dominic Mhiripiri.
