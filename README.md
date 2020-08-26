@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hi Fredrik, I got a remote job because i worked in project(from a year ago) that fit exactly the project that the company they will to build, the interviewer like my solutions, after 03 days they rejected me because the leader said that i'm using classes than functional components, is that enough to reject me even they can refactor my project and start using it, how can I describe this situation?
+
 > Fredrik, how do I answer "why do you want to work here" as a junior out of college? The honest answer to that is always "I just need a job to get my foot in the door" but that sounds very immature. What would be the proper way to go about this ?
 
 > I'm a beginner , I always like to build my own projects , ex. News app,weather app etc, my problem is I can't find what contents like tables or database needs to have to start it . how do you find them . ?
