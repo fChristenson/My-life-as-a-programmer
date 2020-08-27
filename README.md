@@ -17,15 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> If consultants create in house project you have to maintain would you consider quitting the job? It feels like that place wouldn't be great to work in.
-
-> Hey Fredrik, your channel has been a great resource for legitimate dev insight. I wanted to see if you could make a video for how to go about getting a job in a new language? While I feel like larger companies are open to candidates without language specific knowledge just from general cs skills, I'm finding it harder for startups
-
-> Hi Fredrik, I got a remote job because i worked in project(from a year ago) that fit exactly the project that the company they will to build, the interviewer like my solutions, after 03 days they rejected me because the leader said that i'm using classes than functional components, is that enough to reject me even they can refactor my project and start using it, how can I describe this situation?
-
-> Fredrik, how do I answer "why do you want to work here" as a junior out of college? The honest answer to that is always "I just need a job to get my foot in the door" but that sounds very immature. What would be the proper way to go about this ?
-
-> I'm a beginner , I always like to build my own projects , ex. News app,weather app etc, my problem is I can't find what contents like tables or database needs to have to start it . how do you find them . ?
+> One question if I may, why do you think is acceptable for the IT industry to change jobs every 2-4 years? To me it just feels 'right' but to other people with different professions believe it will hurt my job prospects in the future
 
 > I'm a 20 year old college drop out who wants to get into either Web Development or Software Engineering. I've been programming for 8 years now but have nothing to show for it except understanding what I'm writing, how to go about making stuff people ask of me, and finding out the answers to stuff I don't know. Even with my abilities I still feel like the either industry wont accept me since I have no relevant experience or a portfolio. What're somethings that I should do to push myself in the right direction in your opinion?
 
