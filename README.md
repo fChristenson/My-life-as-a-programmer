@@ -17,9 +17,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Hi Fredrik, (My main question is at the end) I've watched your videos for a while and I thank you for sharing your knowledge and experience. There are only so many channels that have practical advice and lessons relevant to what happens AFTER you get your first job. I started working as the sole developer for a startup in 2018 and then left for a job as a junior software engineer on a team of two other developers in 2019 (Vue, Laravel/PHP, sometimes Node). The experience was priceless and I've learned a lot but at the same time I had to put in a lot of time outside of work in an effort to get up to speed and not get fired. At one point I had to sign a performance improvement plan since I wasn't finishing my sprint tasks on time (this was NOT revisited after my improved performance on the next sprint). Currently I believe my (manager/senior developer) is very pleased with my work but as my team has grown technically and professionally over time, I think we're coming to the consensus that management's expectations are not proportionate to the workload. Personally I've been doing some self reflection and been thinking that I should stop working outside of business hours. I haven't been leaving myself much time for all the other things I want to do with the skills I developed and I also feel like I haven't been respecting myself and my own worth. I would like to continue working for this company but since I feel like my market value has risen a lot I'm not as scared of losing my job as I once was. What do you think about juniors or anybody else working lots of unpaid overtime?
+> Question 1: At what point do you think a junior should learn either systems design and/or database design?
 
-> I have another question: why would someone want to work for a FANG company? Besides prestige and name, I do not see any positives. But who am I to judge?
+>Question 2: What's your take on jsonschema for MongoDB document structuring? Do you think that it's sufficient enough for data uniformity? Or do you just opt for a MySQL/PostGres 100% of the time when data uniformity is needed?
 
 > @Fredrik Christenson maybe you could walk us through your carrier and some stories on those jobs. Maybe your current goals and previous failures...
 
