@@ -17,13 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> What is the ideal ratio of juniors and seniors in a team?
-
-> What is your long term career strategy Fredrik?
-
-> What is a programmer's life like? 
-
-> I hate programming, how do I start liking it?
+> great advice, still on topic of starting all over, which field would you take, would you still go for web development or maybe something like A.I, Blockchain etc (for the future)
 
 > What is a habit that a clever programmer has learned to avoid?
 
