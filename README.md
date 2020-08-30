@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Why Angular attracts so much hate? ASP.NET Core + Angular/React?
+
 > great advice, still on topic of starting all over, which field would you take, would you still go for web development or maybe something like A.I, Blockchain etc (for the future)
 
 > What is a habit that a clever programmer has learned to avoid?
