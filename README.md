@@ -17,9 +17,35 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Question 1: At what point do you think a junior should learn either systems design and/or database design?
+> What is the ideal ratio of juniors and seniors in a team?
 
->Question 2: What's your take on jsonschema for MongoDB document structuring? Do you think that it's sufficient enough for data uniformity? Or do you just opt for a MySQL/PostGres 100% of the time when data uniformity is needed?
+> What is your long term career strategy Fredrik?
+
+> What is a programmer's life like? 
+
+> I hate programming, how do I start liking it?
+
+> What is a habit that a clever programmer has learned to avoid?
+
+> I suck at programming, but I love it. What should I do?
+
+> What is the greatest paradox of being a software engineer?
+
+> Do you think your current skills are enough to get you a job at any one of the FANG companies?
+
+> What types of software engineers/ programmers will always have difficulty finding jobs?
+
+> I hear that programming isn’t for everyone, why is that? What are the signs that programming isn't for me?
+
+> What are your rules as a software engineer/ programmer on how NOT to write crappy code?
+
+> How do you deal with frustration when debugging?
+
+> Which programmer do you hire: the one who programs a messy program in three hours or the other who does a well-structured program in twelve?
+
+> I'm a software developer and I don't think my job is as cool as everyone says. Why does everyone want to learn programming?
+
+> Is programming something you want to do for the rest of your life?
 
 > @Fredrik Christenson maybe you could walk us through your carrier and some stories on those jobs. Maybe your current goals and previous failures...
 
