@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> A person wants their first junior dev job. How does this person know if their code is clean enough or if they are using enough of their specific language features to get a junior dev job? Thanks for your videos.
+
 > Can you give your opinion about if this industry or programmers demand are going to transform in a bubble or if it's already now a bubble? (I mean in terms of work demand vs offer). Thanks
 
 > @Fredrik Christenson maybe you could walk us through your carrier and some stories on those jobs. Maybe your current goals and previous failures...
