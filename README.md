@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> How do I get a competitive offer in my salary negotiation?
+
 > How much refactoring is enough? Rather, at what point should one stop refactoring? I have seen junior devs don't refactor at all. Mid level guys refactor too much (because they are using those ideas for the first time and they are too excited) The senior guys refactor (just enough) to be at peace. My question is what is "just enough" regarding? A video on refactoring philosophy would be good one
 
 > @Fredrik Christenson maybe you could walk us through your carrier and some stories on those jobs. Maybe your current goals and previous failures...
