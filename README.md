@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Can u give sum advice on how I can improve my front end skills?
+
 > What is an example of proving your increased value for a company?  Maybe this is straight-forward but I am a CS student, so I don't want to make any ignorant assumptions.
 
 > I suppose this is more of a general question but how do you deal with stress? I’ve found myself in a situation where stress is actively preventing me from working at my usual pace and meet deadlines.
