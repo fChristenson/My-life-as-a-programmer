@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> I hear the term “Anaemic Domain Model” bounded about and I’m left a little confused... https://www.martinfowler.com/bliki/AnemicDomainModel.html You advise that models are to be kept “dumb” and all business logic is wrapped up in services... will we end up with the dreaded anaemic model in that case? Am I mis understanding something, and what’s your experience/opinion on that? Thanks!
+
 > Hi Fredrik. Can make you a video that you speak about minimum english level to work in a international environment?
 
 > Can u give sum advice on how I can improve my front end skills?
