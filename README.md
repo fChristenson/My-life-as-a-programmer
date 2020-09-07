@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> I have a question for you Fredrik. When it comes to things that go beyond junior level (which there is WAY too much content already) who do you follow on you-tube/newsletters/whatever. Thanks as always! I love Khalil Stemmler
+
 > my question would be: how do you usually deal with messages from the recruiters? I find it very hard to say 'no' to them when I really feel that their offer is not suitable for me. I would like to tell them the true reason, but they might feel bad / take it personally and I would like to still keep them around, just in case for the future. Thanks in advance for taking the time to look / answer this one 🙂
 
 > Can u give sum advice on how I can improve my front end skills?
