@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Thanks, I can really feel this where I live, I've been applying for my first job (MERN) for the past 2 months and still I am unlucky enough to get my first job. Do you think it's better to broaden my skillset horizontally like learn more technologies, for example typescript, graphql, next js? Or is it better just to take a big dive and build larger projects with the MERN stack ?
+
 > Hi I'm  working as a  .net software developer in Gothenburg and I see that there is a big market around here.  I get some job requests some times  but this companies request alot!  they require me to be able to work with Node-js ,nopcommerce  , T-Sql , MongoDB, Typescript , Java , python 
 Umbraco, WordPress  and a lot of other stuff . of course I exaggerate a bit but sometimes this companies don't know whats the difference between a .net developer and a for example Node-js developer. I have to say that I like to use other technologies besides .net but the interviews can be a little tricky specially for me when I only have a few years of experience at the same company . Did you had this problem to ?
 
