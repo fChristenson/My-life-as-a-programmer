@@ -17,9 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Fredrik, does a computer science degree count as a engineering degree that you refer to?
-
-> @Fredrik Christenson maybe you could walk us through your carrier and some stories on those jobs. Maybe your current goals and previous failures...
+> What would say about getting BS degrees in Software Development or Cloud Computing instead of the traditional Computer Science BS Degree?
 
 ### Misc
 
