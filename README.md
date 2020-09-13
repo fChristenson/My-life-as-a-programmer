@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> What is the best project for a new developer to learn how to do professional work from?
+
 > What would say about getting BS degrees in Software Development or Cloud Computing instead of the traditional Computer Science BS Degree?
 
 ### Misc
