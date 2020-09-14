@@ -17,9 +17,13 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> What is the best project for a new developer to learn how to do professional work from?
+> I’ve just started learning how to code. How do simple lines of codes turn into complex websites/apps? 
 
-> What would say about getting BS degrees in Software Development or Cloud Computing instead of the traditional Computer Science BS Degree?
+> I like programming but I'm not truly passionate about it. What should I do? 
+
+> I just finished learning JavaScript and want to be a full stack web developer which steps or processes should I follow to a accomplish this?
+
+> What are the most unique software development team processes you've experienced? What did you like/dislike about them? 
 
 ### Misc
 
