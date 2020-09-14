@@ -17,16 +17,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Interesting topic. I work in a company under the guidance of an expert of the architect level (he is an architect in fact). I would describe my level as a middle dev. We do meetings twice a week to discuss problems and plans. He provides guidance and explains stuff. He doesn't do much of my code review, but I am in good personal relations with the companies code quality control guard and he does the reviews for me whenever I ask. This is indeed a luxury because he simply can't do it for everyone due to a large amount of employees. I also take part in a number of weekly or bi-weekly discussions on a number of technical topics where I can make a proposal or give feedback on the proposals of the others. Now, here is my question. Is this way of working really harmful to my career? Should I in the nearest future take action to switch to a Scrum-like way of working? Or is it a reasonably viable way so I can grow further?
-
-> I’ve just started learning how to code. How do simple lines of codes turn into complex websites/apps? 
-
-> I like programming but I'm not truly passionate about it. What should I do? 
-
-> I just finished learning JavaScript and want to be a full stack web developer which steps or processes should I follow to a accomplish this?
-
-> What are the most unique software development team processes you've experienced? What did you like/dislike about them? 
-
 ### Misc
 
 ## Pending tutorials
