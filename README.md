@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> By the ratio of F words in this video I can really tell this really annoys you. But out of curiosity, what is the thing that a junior did that actually made you go 'wow, good job' (if that ever happened)?
+
 ### Misc
 
 ## Pending tutorials
