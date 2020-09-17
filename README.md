@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hi Fredrik, I have a question, could u compare the differences between getting your first job and second job?
+
 ### Misc
 
 ## Pending tutorials
