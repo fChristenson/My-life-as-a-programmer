@@ -17,9 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Hey Fredrik. Do you have any motivation to start your own startup ? Or do you plan on working at companies for the rest of your career ?
-
-> Hi Fredrik, I have a question, could u compare the differences between getting your first job and second job?
+> Hi Fredrik, I have just moved to a totally new project within the company with a totally different domain. I have 10 yr of IT experience, I deliberately made this change in order to learn new things and be more relevant in the market, my previous project was in Java 6 and JEE.  The new project is  using Java 8 and RxJava extensively. As the domain is totally new to me and I don't have any experience in working with Java 8/RxJava , I wanted to know what should be my approach be considering that the new team is expecting me to be productive in 10 days. They know my background but still because of resource crunch and lot of work they have these expectations.
 
 ### Misc
 
