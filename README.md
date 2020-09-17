@@ -17,6 +17,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> What will be the future of frontend development?
+
+> Is it time for frontend developers to learn ML?
+
 > Thanks for the video and How FE Developer get enough idea about BackEnd nodejs and what  topics are important???? Please help me or share any path
 
 > Fredrik, thank you for sharing your knowledge and for giving useful advices :) I love your vlog. Not every professional programmer is willing to help novices and you always give helpful and honest answers.  But... to the question because of course, I have one :P How should I - an entusiastic and motivated novice, distribute  my energy and time in the best way career-wise (thinking in long term)?  Should I Iearn plenty of languages on some basic to advanced level or put this time and energy to only master two languages like Java and JavaScript  or C# and TypeScript/JavaScript  (Because this is what I see being minimum requirements and most wanted skills on job postings.). I'm not a programming philosopher and I don't have any "favorite" language so I don't mind being Java/Java Script-developer the rest of my life (By the way: If a company require the knowledge of two programming languages , do you even work with those two at the same time ? Or you just pick one at keep working with that one? Because I don't really get how it works in reality). Or do I have to learn all of mainstream languages  like C#, Java, C++,C , Python, SQL, PHP and JavaScript just in case, or can I still sleep well at nights as a Java and JavaScript(C# and JavaScript/TypeScript,) expert?
