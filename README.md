@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hey Fredrik. Do you have any motivation to start your own startup ? Or do you plan on working at companies for the rest of your career ?
+
 > Hi Fredrik, I have a question, could u compare the differences between getting your first job and second job?
 
 ### Misc
