@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Please give your opinion on the importance of math for being a good programmer
+
 > Are you open to answering questions from subscribers?
 
 > Hi Fredrik, I have just moved to a totally new project within the company with a totally different domain. I have 10 yr of IT experience, I deliberately made this change in order to learn new things and be more relevant in the market, my previous project was in Java 6 and JEE.  The new project is  using Java 8 and RxJava extensively. As the domain is totally new to me and I don't have any experience in working with Java 8/RxJava , I wanted to know what should be my approach be considering that the new team is expecting me to be productive in 10 days. They know my background but still because of resource crunch and lot of work they have these expectations.
