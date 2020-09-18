@@ -17,6 +17,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Where does "higher vocational education" (yrkeshögskola)  fit into this? You talk a lot about college VS bootcamp, but I've never heard you mention it. I just started a 2 year course a month ago, and I'm hoping that it should provide a good mix of both, with most of the second year spent on internships and other forms of education ("teknikfördjupning" and "examensarbete") that can be done while at a company too. They've brought up and mentioned several of the problems that you mention here and claim that that's a big advantage of going to YH instead.
+
+> What is your opinion of someone, like the commenter below, who has a higher education degree, but not in CS? Perhaps they have some CS courses from university under their belts, but are actually trained to think analytically in another field of knowledge altogether. For example, would you hire a junior programmer who has a PhD in history (to choose an example from a few episodes back)? Does this demonstrate to you enthusiasm, the ability to learn, and stick-with-itness? Or would you consider someone like that flaky and likely to give up on software development after a few years, since they already changed paths so radically once before? I guess the short question is: do managers and fellow programmers value "bildning" at all, or is outside knowledge a distraction from mastering CS?
+
 > Please give your opinion on the importance of math for being a good programmer
 
 > Are you open to answering questions from subscribers?
