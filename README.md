@@ -17,15 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Are you scared that you will lose out on jobs if you don't know a specific tool?
-
-> Where does "higher vocational education" (yrkeshögskola)  fit into this? You talk a lot about college VS bootcamp, but I've never heard you mention it. I just started a 2 year course a month ago, and I'm hoping that it should provide a good mix of both, with most of the second year spent on internships and other forms of education ("teknikfördjupning" and "examensarbete") that can be done while at a company too. They've brought up and mentioned several of the problems that you mention here and claim that that's a big advantage of going to YH instead.
-
-> What is your opinion of someone, like the commenter below, who has a higher education degree, but not in CS? Perhaps they have some CS courses from university under their belts, but are actually trained to think analytically in another field of knowledge altogether. For example, would you hire a junior programmer who has a PhD in history (to choose an example from a few episodes back)? Does this demonstrate to you enthusiasm, the ability to learn, and stick-with-itness? Or would you consider someone like that flaky and likely to give up on software development after a few years, since they already changed paths so radically once before? I guess the short question is: do managers and fellow programmers value "bildning" at all, or is outside knowledge a distraction from mastering CS?
-
-> Please give your opinion on the importance of math for being a good programmer
-
-> Are you open to answering questions from subscribers?
+> Is an agency different from a consultancy?
 
 > Hi Fredrik, I have just moved to a totally new project within the company with a totally different domain. I have 10 yr of IT experience, I deliberately made this change in order to learn new things and be more relevant in the market, my previous project was in Java 6 and JEE.  The new project is  using Java 8 and RxJava extensively. As the domain is totally new to me and I don't have any experience in working with Java 8/RxJava , I wanted to know what should be my approach be considering that the new team is expecting me to be productive in 10 days. They know my background but still because of resource crunch and lot of work they have these expectations.
 
