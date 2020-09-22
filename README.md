@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hello! What do you think of Joshua Fluke and his idea that most companies exploit developers?
+
 > Fredrik, have you ever worked with a code monkey like the one you described? What was it like?
 
 > Fred, a lot of time you talk about things "hurting" your career. How would you define this? Is anything that doesn't lead to optimal professional and personal development improvement in the context of your career  a hindrance?
