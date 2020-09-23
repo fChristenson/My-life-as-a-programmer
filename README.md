@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> This eating Ramen and watching Frederik talk about software development in his bath tub has become a consistent bed time ritual. Also, I recently got my first job as a dev, and though I'm doing the best of my cohort of juniors, I am realizing my programming talent is mediocre at best. My goal is to make solutions happen through app development, being a programming is a part of that journey, but being the expert programmer is not in my future.
+
 > Hello! What do you think of Joshua Fluke and his idea that most companies exploit developers?
 
 > What does 'bad at coding' actually mean?
