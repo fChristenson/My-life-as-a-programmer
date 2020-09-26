@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Are mobile and web development consider specialist?
+
 > Do you have thoughts about network technician roles etc. Would love a video about it.
 
 > Can you describe what a realistic project should look like?
