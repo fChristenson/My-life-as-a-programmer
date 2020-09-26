@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Do you have thoughts about network technician roles etc. Would love a video about it.
+
 > Can you describe what a realistic project should look like?
 
 > How do you verify a medium-size personal project that you are working on is the way to go? Do you ask for feedback for your personal projects, or you just implement it and think, this is as good as it can get. If you ask for feedback, where do you get it? As most people have no time or patience to go through an entire Github project.
