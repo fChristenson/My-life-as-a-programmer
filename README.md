@@ -17,9 +17,13 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Can you talk about being a senior developer, with more than 20+ years in the business, but nobody wants to hire you because you are over 55 years old.
+> Why should I care about having a business mindset, I just want to code?
 
-> what's  the use case for pre-rendering webpage?
+> My coworker is always complaining that we aren't working on the right things, what should I do?
+
+> How do I stop my PO from over promising on delivery?
+
+> How do I get my stakeholder to buy in to my proposal?
 
 ### Misc
 
