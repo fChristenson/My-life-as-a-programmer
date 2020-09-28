@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Can you talk about being a senior developer, with more than 20+ years in the business, but nobody wants to hire you because you are over 55 years old.
+
 > what's  the use case for pre-rendering webpage?
 
 ### Misc
