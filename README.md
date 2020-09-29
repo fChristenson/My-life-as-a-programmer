@@ -17,7 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Why should I care about having a business mindset, I just want to code?
+> Hi Fredrik. Can you please make a video on how software engineers should plan their career after 10 years of experience. Should we go bak to pure coding and programming or just took a big leap and get expertise in specific domain? this is purely for people who want to be in technical line and not do people management
 
 > My coworker is always complaining that we aren't working on the right things, what should I do?
 
