@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> What do IT companies care about, what do they want from their products?
+
 > Don't you hate the behavior of the "this" keyword in Javascript/Typescript? Specially when reading code that you haven't written yourself?
 
 > Is there a benefit for a web developer to learn Elixir?
