@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> @Fredrik Christenson TS is definitely a benefit, tell us why it is your favorite language
+
 > What do IT companies care about, what do they want from their products?
 
 > Don't you hate the behavior of the "this" keyword in Javascript/Typescript? Specially when reading code that you haven't written yourself?
