@@ -17,9 +17,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Hi Fredrik. Can you please make a video on how software engineers should plan their career after 10 years of experience. Should we go bak to pure coding and programming or just took a big leap and get expertise in specific domain? this is purely for people who want to be in technical line and not do people management
+> Don't you hate the behavior of the "this" keyword in Javascript/Typescript? Specially when reading code that you haven't written yourself?
 
-> My coworker is always complaining that we aren't working on the right things, what should I do?
+> Is there a benefit for a web developer to learn Elixir?
+
+> Is there a benefit for a web developer to learn Go?
 
 > How do I stop my PO from over promising on delivery?
 
