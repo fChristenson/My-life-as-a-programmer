@@ -17,15 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> @Fredrik Christenson TS is definitely a benefit, tell us why it is your favorite language
-
-> What do IT companies care about, what do they want from their products?
-
-> Don't you hate the behavior of the "this" keyword in Javascript/Typescript? Specially when reading code that you haven't written yourself?
-
-> Is there a benefit for a web developer to learn Elixir?
-
-> Is there a benefit for a web developer to learn Go?
+> Fredrik, I have a question. I study CS and I have seen that passing exams are only about doing some stupid and boring coding exercises and I watched many videos about programming job interviews and they also rely on those stupid and boring coding exercies. If I would make a game or a website myself,  I wouldn't even need that knowledge, and never use those techniques. I thought programming was about creating something... Is this really what you are doing at job? Some boring coding tasks like for example making some loop or BubbleSorting... and arranging arrays ?  I thought I would be free to make my own things... to create something... Did I get everything wrong?
 
 > How do I stop my PO from over promising on delivery?
 
