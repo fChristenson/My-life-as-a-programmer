@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Fredrik I would like to know how your company goes about giving projects to devs. If there's a project that needs to begin getting worked on do you wait for the right dev to be available to assign it to them or do you assign that project to any dev that is currently available to take it on? For example, let's say you have a project with a shorter deadline than normal and your dev capacity isn't very good. Most devs are very busy and over-loaded but you have a junior on your team who will have the availability but may not possess the skills to deliver. Do you assign it to that dev anyways? Because at the end of the day, the most important thing is the deadline right? And as long as the project launches (maybe with some features that were in the scope being put on hold for post-launch) you can always go back and assign a more experienced dev to that project post-launch to work on it- no? Or is this thinking wreckless?
+
 > Hi, Can you make a video about what you think about Data Engineer role and Data Engineering as a career? Thanks.
 
 > Are utility classes in css just a way to cut designers out?
