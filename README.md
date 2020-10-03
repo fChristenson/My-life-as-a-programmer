@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Are utility classes in css just a way to cut designers out?
+
 > I have a subscriber question, what topics were the most difficult for you to wrap your head around when you were just starting and do you have any now
 
 > Fredrik, I have a question. I study CS and I have seen that passing exams are only about doing some stupid and boring coding exercises and I watched many videos about programming job interviews and they also rely on those stupid and boring coding exercies. If I would make a game or a website myself,  I wouldn't even need that knowledge, and never use those techniques. I thought programming was about creating something... Is this really what you are doing at job? Some boring coding tasks like for example making some loop or BubbleSorting... and arranging arrays ?  I thought I would be free to make my own things... to create something... Did I get everything wrong?
