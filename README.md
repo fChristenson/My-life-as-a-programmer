@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hi, Can you make a video about what you think about Data Engineer role and Data Engineering as a career? Thanks.
+
 > Are utility classes in css just a way to cut designers out?
 
 > I have a subscriber question, what topics were the most difficult for you to wrap your head around when you were just starting and do you have any now
