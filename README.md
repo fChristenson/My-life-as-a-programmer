@@ -17,19 +17,23 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Fredrik I would like to know how your company goes about giving projects to devs. If there's a project that needs to begin getting worked on do you wait for the right dev to be available to assign it to them or do you assign that project to any dev that is currently available to take it on? For example, let's say you have a project with a shorter deadline than normal and your dev capacity isn't very good. Most devs are very busy and over-loaded but you have a junior on your team who will have the availability but may not possess the skills to deliver. Do you assign it to that dev anyways? Because at the end of the day, the most important thing is the deadline right? And as long as the project launches (maybe with some features that were in the scope being put on hold for post-launch) you can always go back and assign a more experienced dev to that project post-launch to work on it- no? Or is this thinking wreckless?
+> Can I learn computer programming in one year?
 
-> Hi, Can you make a video about what you think about Data Engineer role and Data Engineering as a career? Thanks.
+> As a web developer, how do you prevent clients from milking you for more services for free once you’ve submitted your completed site?
 
-> Are utility classes in css just a way to cut designers out?
+> What truly makes a senior software developer?
 
-> I have a subscriber question, what topics were the most difficult for you to wrap your head around when you were just starting and do you have any now
+> As a software developer who is not good at programming, how do I hide myself in a tech company and not get caught out?
 
-> Fredrik, I have a question. I study CS and I have seen that passing exams are only about doing some stupid and boring coding exercises and I watched many videos about programming job interviews and they also rely on those stupid and boring coding exercies. If I would make a game or a website myself,  I wouldn't even need that knowledge, and never use those techniques. I thought programming was about creating something... Is this really what you are doing at job? Some boring coding tasks like for example making some loop or BubbleSorting... and arranging arrays ?  I thought I would be free to make my own things... to create something... Did I get everything wrong?
+> What are some big "no-nos" for junior software engineers?
 
-> How do I stop my PO from over promising on delivery?
+> What is a belief commonly held by programmers that is actually wrong?
 
-> How do I get my stakeholder to buy in to my proposal?
+> A senior software engineer in our team told me that “the popularity of design patterns has led to a kind of pattern abuse and over-designing by novice programmers”, what does he mean?
+
+> How did you become the lead software developer in your company with so much fierce competition?
+
+> As a software engineer, what current trend in software engineering do you personally dislike?
 
 ### Misc
 
