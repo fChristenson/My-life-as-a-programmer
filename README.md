@@ -17,23 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Can I learn computer programming in one year?
-
-> As a web developer, how do you prevent clients from milking you for more services for free once you’ve submitted your completed site?
-
-> What truly makes a senior software developer?
-
-> As a software developer who is not good at programming, how do I hide myself in a tech company and not get caught out?
-
-> What are some big "no-nos" for junior software engineers?
-
-> What is a belief commonly held by programmers that is actually wrong?
-
-> A senior software engineer in our team told me that “the popularity of design patterns has led to a kind of pattern abuse and over-designing by novice programmers”, what does he mean?
-
-> How did you become the lead software developer in your company with so much fierce competition?
-
-> As a software engineer, what current trend in software engineering do you personally dislike?
+> @Fredik Christenson Thank you for posting this. I've gained some great knowledge from your videos. Could you please make a video explaining the technology you would expect a Front End Developer to have? Specifically the elements of JavaScript? I've been a front end developer for about 4 years and cannot seem to become a senior developer. Thank you
 
 ### Misc
 
