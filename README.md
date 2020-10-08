@@ -17,8 +17,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> @Fredik Christenson Thank you for posting this. I've gained some great knowledge from your videos. Could you please make a video explaining the technology you would expect a Front End Developer to have? Specifically the elements of JavaScript? I've been a front end developer for about 4 years and cannot seem to become a senior developer. Thank you
-
 ### Misc
 
 ## Pending tutorials
