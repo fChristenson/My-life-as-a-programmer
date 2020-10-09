@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Can you please advise any open source projects with serious frontend implemented in React/Vue? So that I can learn from their code and try to contribute while learning the frontend technologies?
+
 > What do they not tell you about web development?
 
 > Why are front-end engineers in such short supply?
