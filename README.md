@@ -17,13 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
->  'I don't understand the code well enough to change it. What should I do ?'
-
-> Can you please advise any open source projects with serious frontend implemented in React/Vue? So that I can learn from their code and try to contribute while learning the frontend technologies?
-
 > What do they not tell you about web development?
-
-> Why are front-end engineers in such short supply?
 
 > What do you prefer? SASS, SCSS OR CSS as a web developer?
 
@@ -31,15 +25,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Why should I not go into programming as a career?
 
-> A backend developer said frontend development is tedious and has less technical value. What do you think?
-
 > What does a junior developer need to know?
 
 > What, as a mid-level developer, could you not believe you had to explain to a senior developer?
-
-> What is the most amateur move to do in web development?
-
-> As a senior developer, what don’t you want to hear from a recruiter?
 
 > Is there less demand to hire web developers now that the technology is available for people to create their own websites?
 
