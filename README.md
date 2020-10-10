@@ -17,25 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> What do they not tell you about web development?
-
-> What do you prefer? SASS, SCSS OR CSS as a web developer?
-
-> What programming habits should all developers avoid?
-
-> Why should I not go into programming as a career?
-
-> What does a junior developer need to know?
-
 > What, as a mid-level developer, could you not believe you had to explain to a senior developer?
-
-> Is there less demand to hire web developers now that the technology is available for people to create their own websites?
-
-> As a web developer, is it really necessary to learn Docker?
-
-> When a system has been coded and working fine for a long time, how can it suddenly stop working properly even if nothing has been changed to it?
-
-> Why do many back-end developers look down on front-end and full-stack developers?
 
 ### Misc
 
