@@ -17,8 +17,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> What, as a mid-level developer, could you not believe you had to explain to a senior developer?
-
 ### Misc
 
 ## Pending tutorials
