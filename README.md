@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> I'm 27 year old and just starting to learn coding. When I see younger kids learn coding I feel they will have an unfair advantage over me since they are learning before me. What should I do? 
+
 ### Misc
 
 ## Pending tutorials
