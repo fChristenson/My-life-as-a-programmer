@@ -17,8 +17,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Hi Fredrik, what do you think about freelancing, and why don't you personally do it?
-
 ### Misc
 
 ## Pending tutorials
