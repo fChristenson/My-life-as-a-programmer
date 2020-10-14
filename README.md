@@ -17,7 +17,89 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> I'm 27 year old and just starting to learn coding. When I see younger kids learn coding I feel they will have an unfair advantage over me since they are learning before me. What should I do? 
+> I'm 27 year old and just starting to learn coding. When I see younger kids learn coding I feel they will have an unfair advantage over me since they are learning before me. What should I do?
+
+> I love writing code but I hate debugging it. How do I get over this hump? Finding the bug is easy. Usually I write pretty understandable code, but when I find the bug, it annoys me, and then it takes me a long time to find out how to fix it.
+
+> What is the best way to find and hire a freelancer?
+
+> My sister thinks she's so great because she builds all of her software from the bottom up with C. She calls me a noob when I use Ruby to build a tic-tac-toe game and says that I'll never have as good of fundamentals as her. How do I tell her off?
+
+> I just had a production bug. How should I deal with it?
+
+> I am the only female on our software development team at work. Is this a common occurrence?
+
+> I don't want to be a software engineer anymore. What are some transferable skills?
+
+> I never went to a good school, college, or university. Can I still become a good programmer and get recruited by the top companies?
+
+> I keep getting distracted while coding a project or a problem that isn't challenging enough. What can I do?
+
+> I'm a software engineer at Google, but I don't work very hard and don't care about getting promoted or finding a better job. Am I lazy?
+
+> I have been working as a software developer for several years and I got fired last year and can't find any job, should I consider to start my own company?
+
+> I failed my software engineering internship. I feel so sad and overwhelmed. I would do anything to solve an issue which I diagnosed in the first place, but after two weeks in front of Eclipse, I just couldn't figure it out. What should I do now?
+
+> I can create a really simple app with MEAN stack, but I can't create it only with JavaScript. Is it important to code all stuff only with Vanilla JavaScript?
+
+> I have a BS in computer science and want to eventually become a software project manager. Should I gain some technical experience as a front end engineer first or apply for junior project manager positions?
+
+> I am a 35 year old computer programmer with ten years experience. Yet I am continually released from positions for poor performance. Why?
+
+> Is software development really a dead-end job after age 35-40?
+
+> I just started my first full-time job as a software engineer today. Is it normal to feel like you're wildly underqualified off the bat?
+
+> I am starting a software development company what do I need to setup a great office?
+
+> I was fired by Facebook as a software engineer in less than 2 months. Should I write this on my resume? Can I have another job?
+
+> What type of software engineer has the most demand and greatest salary?
+
+> My dad just quit his senior SWE job from a top company to open a restaurant. He said don't program with no passion like him. Is he right or wrong?
+
+> What was your most arrogant software engineering interview candidate experience?
+
+> I am an experienced software engineer in a new job, but I finding it extremely hard to follow someone else's vision and timelines. What can help me be a better team player?
+
+> Has anyone ever turned down a software engineer offer from Amazon? If so, why?
+
+> When can I start calling myself a senior developer?
+
+> How does a project manager address a software engineer on their team that is not pulling their weight in deliverables?
+
+> As a software engineer, how do you go the extra mile at a job?
+
+> If software engineering is in demand, why is it so hard to get a software engineering job?
+
+> How can software engineers stop underestimating how long tasks take to complete?
+
+> Can bad software engineers bring a company down?
+
+> As a software engineer, how do you really care about using the best software engineering practices at work or are you happy simply getting your work done?
+
+> What career advice do you have for a software engineer approaching 50 years old in order to stay employed?
+
+> Do senior software engineers feel threatened when junior hires are catching up?
+
+> What skills does a senior engineer have over an intermediate developer?
+
+> Why is it damn near impossible to get a software engineering job if you don’t have “experience”?
+
+> As a software engineer, did you ever have a colleague younger than you but way better than you in terms of skills?
+
+> I am doing all the work in my DevOps department and the Senior Engineers are clueless, what can I do to move up the ladder?
+
+> What are the cons of hiring an overqualified software engineer?
+
+> Who is the most skillful software engineer you have worked with? What are the three things you admired about them?
+
+> What does a regret hire look like in Software Engineering?
+
+> What are the most common reasons why software engineers get fired?
+
+> As a software engineer, what complaints of other software engineers are you tired of?
 
 ### Misc
 
