@@ -17,26 +17,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> I'm 27 year old and just starting to learn coding. When I see younger kids learn coding I feel they will have an unfair advantage over me since they are learning before me. What should I do?
-
-> I love writing code but I hate debugging it. How do I get over this hump? Finding the bug is easy. Usually I write pretty understandable code, but when I find the bug, it annoys me, and then it takes me a long time to find out how to fix it.
-
-> What is the best way to find and hire a freelancer?
-
-> My sister thinks she's so great because she builds all of her software from the bottom up with C. She calls me a noob when I use Ruby to build a tic-tac-toe game and says that I'll never have as good of fundamentals as her. How do I tell her off?
-
-> I just had a production bug. How should I deal with it?
-
-> I am the only female on our software development team at work. Is this a common occurrence?
-
-> I don't want to be a software engineer anymore. What are some transferable skills?
-
-> I never went to a good school, college, or university. Can I still become a good programmer and get recruited by the top companies?
-
-> I keep getting distracted while coding a project or a problem that isn't challenging enough. What can I do?
-
-> I'm a software engineer at Google, but I don't work very hard and don't care about getting promoted or finding a better job. Am I lazy?
-
 > I have been working as a software developer for several years and I got fired last year and can't find any job, should I consider to start my own company?
 
 > I failed my software engineering internship. I feel so sad and overwhelmed. I would do anything to solve an issue which I diagnosed in the first place, but after two weeks in front of Eclipse, I just couldn't figure it out. What should I do now?
