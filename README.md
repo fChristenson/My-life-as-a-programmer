@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Maybe you could make a video about how to increase self esteem for developers, if possible, of course. I do not think it is a skill related issue for all, but rather something deeper and it needs some serious self work.
+
 > I have been working as a software developer for several years and I got fired last year and can't find any job, should I consider to start my own company?
 
 > I failed my software engineering internship. I feel so sad and overwhelmed. I would do anything to solve an issue which I diagnosed in the first place, but after two weeks in front of Eclipse, I just couldn't figure it out. What should I do now?
