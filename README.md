@@ -17,43 +17,17 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Maybe you could make a video about how to increase self esteem for developers, if possible, of course. I do not think it is a skill related issue for all, but rather something deeper and it needs some serious self work.
-
-> I have been working as a software developer for several years and I got fired last year and can't find any job, should I consider to start my own company?
-
-> I failed my software engineering internship. I feel so sad and overwhelmed. I would do anything to solve an issue which I diagnosed in the first place, but after two weeks in front of Eclipse, I just couldn't figure it out. What should I do now?
-
-> I can create a really simple app with MEAN stack, but I can't create it only with JavaScript. Is it important to code all stuff only with Vanilla JavaScript?
-
-> I have a BS in computer science and want to eventually become a software project manager. Should I gain some technical experience as a front end engineer first or apply for junior project manager positions?
-
-> I am a 35 year old computer programmer with ten years experience. Yet I am continually released from positions for poor performance. Why?
-
-> Is software development really a dead-end job after age 35-40?
-
-> I just started my first full-time job as a software engineer today. Is it normal to feel like you're wildly underqualified off the bat?
-
 > I am starting a software development company what do I need to setup a great office?
 
 > I was fired by Facebook as a software engineer in less than 2 months. Should I write this on my resume? Can I have another job?
 
 > What type of software engineer has the most demand and greatest salary?
 
-> My dad just quit his senior SWE job from a top company to open a restaurant. He said don't program with no passion like him. Is he right or wrong?
-
 > What was your most arrogant software engineering interview candidate experience?
 
 > I am an experienced software engineer in a new job, but I finding it extremely hard to follow someone else's vision and timelines. What can help me be a better team player?
 
-> Has anyone ever turned down a software engineer offer from Amazon? If so, why?
-
-> When can I start calling myself a senior developer?
-
-> How does a project manager address a software engineer on their team that is not pulling their weight in deliverables?
-
 > As a software engineer, how do you go the extra mile at a job?
-
-> If software engineering is in demand, why is it so hard to get a software engineering job?
 
 > How can software engineers stop underestimating how long tasks take to complete?
 
