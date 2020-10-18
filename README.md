@@ -17,6 +17,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> what give biggest valute to your customers?  But if all my closer customers are stucked on old tech? Do I risk to remain behind?
+
+> Hey fredrick, what language are you working on the most?
+
 > I am starting a software development company what do I need to setup a great office?
 
 > I was fired by Facebook as a software engineer in less than 2 months. Should I write this on my resume? Can I have another job?
