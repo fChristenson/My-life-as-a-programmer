@@ -17,10 +17,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> what give biggest valute to your customers?  But if all my closer customers are stucked on old tech? Do I risk to remain behind?
-
-> Hey fredrick, what language are you working on the most?
-
 > I am starting a software development company what do I need to setup a great office?
 
 > I was fired by Facebook as a software engineer in less than 2 months. Should I write this on my resume? Can I have another job?
@@ -30,12 +26,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > What was your most arrogant software engineering interview candidate experience?
 
 > I am an experienced software engineer in a new job, but I finding it extremely hard to follow someone else's vision and timelines. What can help me be a better team player?
-
-> As a software engineer, how do you go the extra mile at a job?
-
-> How can software engineers stop underestimating how long tasks take to complete?
-
-> Can bad software engineers bring a company down?
 
 > As a software engineer, how do you really care about using the best software engineering practices at work or are you happy simply getting your work done?
 
