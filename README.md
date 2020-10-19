@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> I was looking at one of your old videos ( 2 yrs ago)  about "How to get up to speed in a new codebase" -https://www.youtube.com/watch?v=g0sO_SHUxfk Would you like to add anything more to this  based on your experience. The reason I ask is that I have changed my project and the change is not just a project but there is a total paradigm shift from OO to Functional Programming (Java8 + RxJava). With the new code base I see interfaces everywhere, so kind of difficult to see from where and how data is flowing and the actual implementations. Would you like to give any suggestions?
+
 > Hey Fredrik, Thank You for all of your video . It help me a lot as a self taught developer. As i see your videos on daily bases. You become my virtual Mentor who is guiding me daily with new Topics. Thank You for all of your videos. Fredrik I have a Question which hanged me lot of time. Please help to clarify this query. As being a Bachlores degree graduate in C.S i was just in a Front End Developer . So i want to try or want to be a part of some research team not in a leading companies like MICROSOFT Or Google but want to work as an researcher in Computer Science Field What ot where should i try in which stack so that i can get a Researching oppurtunity for Computer Science Field. Should i go for M.S degree does it help for me or Any other way i can proceed for in the research field .?
 
 > I am starting a software development company what do I need to setup a great office?
