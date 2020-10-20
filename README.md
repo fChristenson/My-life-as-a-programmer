@@ -21,10 +21,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Fredrik, what kind of React project would you consider hard/advanced? How would you rank for example phpmyadmin or a site like Youtube, should they be built with React?
 
-> Hey Fredrik. I have a weird theoretical question. Do you think we will ever get to the point where web development is so mature that the invention of new frameworks and libraries will slow down ? Will we ever get to the point where web development, specifically frontend has a standard of best practices that the community follows ?
-
-> Do u know of any services that test programmers to see if they meet these requirements?
-
 > Hey Fredrik, Thank You for all of your video . It help me a lot as a self taught developer. As i see your videos on daily bases. You become my virtual Mentor who is guiding me daily with new Topics. Thank You for all of your videos. Fredrik I have a Question which hanged me lot of time. Please help to clarify this query. As being a Bachlores degree graduate in C.S i was just in a Front End Developer . So i want to try or want to be a part of some research team not in a leading companies like MICROSOFT Or Google but want to work as an researcher in Computer Science Field What ot where should i try in which stack so that i can get a Researching oppurtunity for Computer Science Field. Should i go for M.S degree does it help for me or Any other way i can proceed for in the research field .?
 
 > What type of software engineer has the most demand and greatest salary?
@@ -35,15 +31,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What career advice do you have for a software engineer approaching 50 years old in order to stay employed?
 
-> Do senior software engineers feel threatened when junior hires are catching up?
-
-> As a software engineer, did you ever have a colleague younger than you but way better than you in terms of skills?
-
 > I am doing all the work in my DevOps department and the Senior Engineers are clueless, what can I do to move up the ladder?
-
-> What does a regret hire look like in Software Engineering?
-
-> What are the most common reasons why software engineers get fired?
 
 > As a software engineer, what complaints of other software engineers are you tired of?
 
