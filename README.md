@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Fredrik, what kind of React project would you consider hard/advanced? How would you rank for example phpmyadmin or a site like Youtube, should they be built with React?
+
 > Hey Fredrik. I have a weird theoretical question. Do you think we will ever get to the point where web development is so mature that the invention of new frameworks and libraries will slow down ? Will we ever get to the point where web development, specifically frontend has a standard of best practices that the community follows ?
 
 > Do u know of any services that test programmers to see if they meet these requirements?
