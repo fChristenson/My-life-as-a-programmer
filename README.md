@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> @Fredrik Christenson Thank you for your response.I was asked about my React experince today.There was a freelance job, recriuter wanted to know how many years I had worked with React.I had to admit that you my React experience cannot be listed in years.Maybe I have overlooked the importance of React in the job market. I have used to do my frontend using WebComponents and a custom element factory library. It has worked quite well, but I do acknowledge that for other developers' sake you should use some standard tools. I have been thinking what I should do as a React learning project. I have one fairly complex spa project that I could take and write a React version of it. What would you recommend to learn? Is Redux used a lot with React? I got also asked of GraphQL experience, so I guess I could integrate that in the project as well. What do you think?
+
 > Fredrik, what kind of React project would you consider hard/advanced? How would you rank for example phpmyadmin or a site like Youtube, should they be built with React?
 
 > Hey Fredrik. I have a weird theoretical question. Do you think we will ever get to the point where web development is so mature that the invention of new frameworks and libraries will slow down ? Will we ever get to the point where web development, specifically frontend has a standard of best practices that the community follows ?
