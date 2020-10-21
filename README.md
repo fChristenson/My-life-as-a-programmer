@@ -17,24 +17,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> @Fredrik Christenson Thank you for your response.I was asked about my React experince today.There was a freelance job, recriuter wanted to know how many years I had worked with React.I had to admit that you my React experience cannot be listed in years.Maybe I have overlooked the importance of React in the job market. I have used to do my frontend using WebComponents and a custom element factory library. It has worked quite well, but I do acknowledge that for other developers' sake you should use some standard tools. I have been thinking what I should do as a React learning project. I have one fairly complex spa project that I could take and write a React version of it. What would you recommend to learn? Is Redux used a lot with React? I got also asked of GraphQL experience, so I guess I could integrate that in the project as well. What do you think?
-
-> Fredrik, what kind of React project would you consider hard/advanced? How would you rank for example phpmyadmin or a site like Youtube, should they be built with React?
-
-> Hey Fredrik, Thank You for all of your video . It help me a lot as a self taught developer. As i see your videos on daily bases. You become my virtual Mentor who is guiding me daily with new Topics. Thank You for all of your videos. Fredrik I have a Question which hanged me lot of time. Please help to clarify this query. As being a Bachlores degree graduate in C.S i was just in a Front End Developer . So i want to try or want to be a part of some research team not in a leading companies like MICROSOFT Or Google but want to work as an researcher in Computer Science Field What ot where should i try in which stack so that i can get a Researching oppurtunity for Computer Science Field. Should i go for M.S degree does it help for me or Any other way i can proceed for in the research field .?
-
-> What type of software engineer has the most demand and greatest salary?
-
-> What was your most arrogant software engineering interview candidate experience?
-
-> I am an experienced software engineer in a new job, but I finding it extremely hard to follow someone else's vision and timelines. What can help me be a better team player?
-
-> What career advice do you have for a software engineer approaching 50 years old in order to stay employed?
-
-> I am doing all the work in my DevOps department and the Senior Engineers are clueless, what can I do to move up the ladder?
-
-> As a software engineer, what complaints of other software engineers are you tired of?
-
 ### Misc
 
 ## Pending tutorials
