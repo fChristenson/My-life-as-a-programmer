@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hey fredrik, as a backend developer i work in a python tech stack but i see many jobs in node or golang(both of which i'm familiar with but no professional experience) how can i confidently convince the recuiter i can learn the new stack too as the underlaying concepts and principles are the same
+
 > Fredrick I have a question for you, do you think one should work in a company which gives you stress and pressure to work , where you feel stressed and don't want to work anymore there ?
 
 > When one is a mid-senior level software engineer, how do they best present a case to be hired on as such from a contract position? 
