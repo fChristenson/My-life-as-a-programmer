@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Fredrick I have a question for you, do you think one should work in a company which gives you stress and pressure to work , where you feel stressed and don't want to work anymore there ?
+
 ### Misc
 
 ## Pending tutorials
