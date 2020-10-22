@@ -17,25 +17,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Hey fredrik, as a backend developer i work in a python tech stack but i see many jobs in node or golang(both of which i'm familiar with but no professional experience) how can i confidently convince the recuiter i can learn the new stack too as the underlaying concepts and principles are the same
-
-> Fredrick I have a question for you, do you think one should work in a company which gives you stress and pressure to work , where you feel stressed and don't want to work anymore there ?
-
-> When one is a mid-senior level software engineer, how do they best present a case to be hired on as such from a contract position? 
-
 > What is your advice for who want to be a full stack web developer? What is the best way to reach that?
-
-> As a developer, what is the most frequent problem you solve by writing non-reusable code?
-
-> As a software engineer, what is the most dangerous bug you have found inside an important codebase? 
 
 > As a senior programmer, what makes you mad when you look at a junior developers code?
 
-> Why do engineers get paid so much, especially software engineers?
-
 > How do programmers know what to code before they write any code?
-
-> As a software enginner what makes you roll your eyes?
 
 > What is the dark secret of software developers?
 
