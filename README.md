@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hey Fredrick. Is it ok for a company to make a background check on you? I recently had an interview for a frontend position. And it went pretty well. Then I had a call from hr, she was selling me how great it is to work for themasked about my salary expectations and told me that they'll prepare an offer for me. One hour later my boss from a previous job wrote me that this hr was asking him about me. She didn't even ask me if I had references from my previous jobs our if it's ok to talk to my previous employer. And her questions were not about soft skill and how well I was doing with my coworkers. She was wary of my young age. I have already done code test and had a technical interview (which by the way lasted for 2h). For me it's strange as hell. So what do you think about this situation? Should I even consider their offer?
+
 > You talk about being a 'team player' but you dont explain what do you really mean by that.
 
 > How do I communicate with my manager? In my one on ones I find it hard to have a conversation and I just basically ask questions where he answers all the time if that makes sense.
