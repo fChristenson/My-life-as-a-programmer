@@ -17,6 +17,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> You talk about being a 'team player' but you dont explain what do you really mean by that.
+
+> How do I communicate with my manager? In my one on ones I find it hard to have a conversation and I just basically ask questions where he answers all the time if that makes sense.
+
 > What is your advice for who want to be a full stack web developer? What is the best way to reach that?
 
 > As a senior programmer, what makes you mad when you look at a junior developers code?
