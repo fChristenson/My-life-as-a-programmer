@@ -17,16 +17,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Hi Fredrik, I’d love your thoughts on this: How do you reconcile with the uncomfortable feeling where you have to stop chasing understanding that goes outside of the scope of what you’re trying to learn from a tutorial as a beginner? I often find that I’ll be following a tutorial and there are lines/syntax/logic that I am supposed to take for granted as it’s too far from what the tutorial is trying to teach, but I’ll get very uncomfortable with the idea that I am writing code that I couldn’t explain to someone who asked about it, however when I follow through with figuring out what a line means that process seems to be endless, as there’s always a deeper layer to understand. It makes the process so much slower than just following the tutorial and it’s demotivating because it doesn’t feel like progress when you finish a tutorial in 10 hours instead of the 2 hours that it’s expected to take.
-
-> Hey, what do you think about monorepo? I'm using lerna and yarn workspaces for my front end and back end and I kind of like it... but man, it is complicated to setup on CI/CD, to the point I'm thinking whether it is worth splitting them back to multiple repositories or even a monolith.
-
-> What is your advice for who want to be a full stack web developer? What is the best way to reach that?
-
-> As a senior programmer, what makes you mad when you look at a junior developers code?
-
-> How do programmers know what to code before they write any code?
-
 > What is the dark secret of software developers?
 
 ### Misc
