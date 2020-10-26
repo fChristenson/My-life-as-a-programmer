@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hi Fredrik, Currently I'm an intern as a programmer. What should I do/be doing so that my internship is extended, or so that I get a permanent position? Thanks again
+
 > Why are programming salaries so high when education is often very poor?
 
 > How do I take my programming and software engineering skills to another level?
