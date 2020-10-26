@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Why are programming salaries so high when education is often very poor?
+
 > How do I take my programming and software engineering skills to another level?
 
 > What computer language should I start with if I have no previous knowledge of coding?
