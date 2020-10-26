@@ -17,35 +17,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> I am a self-taught fullstack developer. I have only being in internships, worked on free projects etc. Why is it not easy to get my first junior developer role?
-
-> What is something only a senior developer would know about coding?
-
-> What one tip changed your coding skills forever?
-
 > How do I take my programming and software engineering skills to another level?
-
-> As a software engineer with a few years of experience, what helped you the most to land a good job, top coding skills, system design or leadership skills?
-
-> Is software engineering a future proof job, or should I study something else?
-
-> How can you find your way through the jungle of web development technologies?
-
-> I've heard that in Java, polymorphism can be used in the place of if/else statements to make code cleaner/more efficient. What does this mean? Can someone provide an example?
-
-> I just started working for a company as a software engineer, but their existing code base is very badly written. How could I proceed?
-
-> I'm 35 years old. I've been a software developer for 8 years but am still not a manager. Should I be concerned for my career?
-
-> When the interviewer asks you "Why Google?", or ‘why any company?’, how do you answer?
 
 > What computer language should I start with if I have no previous knowledge of coding?
 
-> If you only had one word to define each of the most popular programming languages, what would that word be?
-
 > I'm a programmer and I want to quit programming, what should I do?
-
-> I can't learn any programming language. Whenever I try I fail. Tutorials on the web are so difficult for a beginner like me. What can I do?
 
 > My friend wants to learn C as his first programming language. How do I convince him that C is a dying language and that JavaScript is the way to go?
 
