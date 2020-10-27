@@ -17,8 +17,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> How do I take my programming and software engineering skills to another level?
-
 > What computer language should I start with if I have no previous knowledge of coding?
 
 > I'm a programmer and I want to quit programming, what should I do?
@@ -45,17 +43,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What are the pros of working as a software engineer in a no-name company?
 
-> I feel tired, scared and frustrated over working a job as a software engineer. The hours are bad, the work is demanding. What should I do?
-
 > Do whiteboard interviews for software developer and software engineering jobs really test programming skills since this kind of pressure would not be part of the real job?
-
-> I am really good at all the theoretical aspects of CS but I am not good in programming. What do I do?
-
-> I'm very competitive by nature, but I've had bad luck that led me to graduate with a computer science degree at 25 rather than 22. Looking at all the people who have been working at SE for the past 3 years gets me very jealous. What should I do?
-
-> I'm a SE at Google battling depression and marijuana addiction for last 2 years. Will I get fired if I tell my manager? What should I do?
-
-> Why is a career in software testing looked down upon?
 
 ### Misc
 
