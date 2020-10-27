@@ -17,10 +17,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Hi Fredrik, Currently I'm an intern as a programmer. What should I do/be doing so that my internship is extended, or so that I get a permanent position? Thanks again
-
-> Why are programming salaries so high when education is often very poor?
-
 > How do I take my programming and software engineering skills to another level?
 
 > What computer language should I start with if I have no previous knowledge of coding?
@@ -37,8 +33,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I'm a software engineer in my mid-40s and want to get out of the field because competition has become too extreme. What choices do I have?
 
-> As a software engineer/ programmer what skill is your single greatest strength?
-
 > As a software engineer/ programmer how old school are you?
 
 > As a software engineer/ programmer what experience/ lesson changed how you see software engineering?
@@ -47,23 +41,13 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I'm thinking about starting software development company. How do I make this happen? What are some helpful tips?
 
-> I transferred from DevOps to software development three years ago, but my manager always asks me to do DevOps tasks, and rarely lets me pursue opportunities my development skills. Is it time to start looking for a new job?
-
 > Why am I being asked to write algorithm during DevOps interview instead of DevOps related scripting?
 
 > What are the pros of working as a software engineer in a no-name company?
 
-> I want to be a software developer, Does the job get interesting as you progress or does it get repetitive and boring?
-
-> Do software engineers have great job security?
-
 > I feel tired, scared and frustrated over working a job as a software engineer. The hours are bad, the work is demanding. What should I do?
 
 > Do whiteboard interviews for software developer and software engineering jobs really test programming skills since this kind of pressure would not be part of the real job?
-
-> I've been a professional software engineer for nearly 20 years. I love programming, but have grown weary of legacy-code fixes, client support, etc. I want to spend my days doing POCs, research, and "clean-slate" work. What are my career options?
-
-> I want to hire a team of software engineers for an open source, crowdfunded initiative. Should I go with local developers in a low-cost coworking space or with a geographically distributed team working remotely?
 
 > I am really good at all the theoretical aspects of CS but I am not good in programming. What do I do?
 
