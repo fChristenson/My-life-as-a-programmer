@@ -17,9 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Would you like to elaborate on how to get out of that "Victim Mindset". When you were in the same position what was your thought process ?
-
-> Thought to ask you a help, I'm being in java development for 6 years, I've been asked to work on Scala by leaving java now by my delivery head. I'm being stuck with decision paralysis. They're just asking to move because they want Scala resource but I don't have realtime exposure to Scala. Could you please give me some comments/guide line s ? Thanks.
+> hey Fredrik, great advice as always. How much are you expected to contribute as a new hire in a company. Should you try very hard to interject and ask questions to seem engaged? or are you better of letting the seniors run the show and wait till they half jokingly say "tell me what to do" or give u assignments?
 
 > What computer language should I start with if I have no previous knowledge of coding?
 
