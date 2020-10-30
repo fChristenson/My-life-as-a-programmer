@@ -17,19 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> hey Fredrik, great advice as always. How much are you expected to contribute as a new hire in a company. Should you try very hard to interject and ask questions to seem engaged? or are you better of letting the seniors run the show and wait till they half jokingly say "tell me what to do" or give u assignments?
-
-> What computer language should I start with if I have no previous knowledge of coding?
-
 > I'm a programmer and I want to quit programming, what should I do?
-
-> My friend wants to learn C as his first programming language. How do I convince him that C is a dying language and that JavaScript is the way to go?
-
-> Does every software engineer/ programmer go through that phase, when they think they made a mistake while choosing their careers?
-
-> My friend said I should not use languages like Java or C# to learn data structures and algorithms as this will teach me bad coding practices. What did he mean?
-
-> What is the dark secret of software developers?
 
 > I'm a software engineer in my mid-40s and want to get out of the field because competition has become too extreme. What choices do I have?
 
