@@ -21,15 +21,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I'm a software engineer in my mid-40s and want to get out of the field because competition has become too extreme. What choices do I have?
 
-> As a software engineer/ programmer how old school are you?
-
-> As a software engineer/ programmer what experience/ lesson changed how you see software engineering?
-
 > I'm afraid I will never be a good software engineer.  Should I quit?
 
 > I'm thinking about starting software development company. How do I make this happen? What are some helpful tips?
-
-> Why am I being asked to write algorithm during DevOps interview instead of DevOps related scripting?
 
 > What are the pros of working as a software engineer in a no-name company?
 
