@@ -19,15 +19,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I'm a programmer and I want to quit programming, what should I do?
 
-> I’ve lost motivation after Freecodecamp. What should I do? I've done all of the required lessons in FreeCodeCamp, and after I arrived the seventh bonfire challenge I couldn't get past it. I've been trying for 3 days. I don't want to search on Google.
-
 > I'm losing motivation in a project I am a part of, and it is becoming more difficult to continue working on this project, and I feel like I'm not contributing to the highest extent that I can. Does this make me a bad developer?
 
 > I'm 34 and I have only 20k in my savings. I'm a software engineer with a well paid job and not sure if I'm doing things correctly. What is some advice?
 
 > I started a software development job that is too advanced for my experience. What should I do?
-
-> I'm interested in being a computer programmer. I have a few questions though. Does it take over your life? Is it mentally exhausting to the point where you can't be bothered to do anything after work?
 
 > I am a Software Development Director for a small software firm. Any tips on how to move to next level quickly?
 
@@ -35,13 +31,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I'm a computer science major. Am I supposed to spend all my spare time coding?
 
-> Is it possible to write a code that can increase views on YouTube for a video, given that no login is required to view YouTube videos?
-
 > I was working on a task for last 10 days, now that I have simplified my task and talked my senior about this. I and my senior both believe that if the senior do the task he can finish it in 3-4 hours as he has experience of such thing while how much time I could take I am not sure. Shall I talk my boss about this and tell him that please let him do  this task for 4-5 hours or a day? as I have already spent more time on  this. my senior is confident that he can do it in 3-4 hours.
 
 > I am 26 and started learning programming. I feel like am so late and there's no way that I can achieve anythin at this point. Should I give up?
-
-> What are the things a software engineer can do but a self taught developer can't?
 
 > What would happen if all software engineers/ programmers in the world were equally skillful and talented?
 
@@ -50,8 +42,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > What is a "hero programmer"?
 
 > How important is a quiet working environment for software developers?
-
-> If a software engineer mentions Python under their skills in his resume, does it mean they know absolutely everything about Python?
 
 > Does JavaScript's increasing popularity show that software engineers/ programmers are slowly starting to like it - in spite of its horrible syntax?
 
