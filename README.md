@@ -19,8 +19,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I'm a programmer and I want to quit programming, what should I do?
 
-> I'm losing motivation in a project I am a part of, and it is becoming more difficult to continue working on this project, and I feel like I'm not contributing to the highest extent that I can. Does this make me a bad developer?
-
 > I'm 34 and I have only 20k in my savings. I'm a software engineer with a well paid job and not sure if I'm doing things correctly. What is some advice?
 
 > I started a software development job that is too advanced for my experience. What should I do?
@@ -30,8 +28,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > I enjoy programming but I am not creative and have a crippling fear of failure and asking for help. Should I try a different career?
 
 > I'm a computer science major. Am I supposed to spend all my spare time coding?
-
-> I was working on a task for last 10 days, now that I have simplified my task and talked my senior about this. I and my senior both believe that if the senior do the task he can finish it in 3-4 hours as he has experience of such thing while how much time I could take I am not sure. Shall I talk my boss about this and tell him that please let him do  this task for 4-5 hours or a day? as I have already spent more time on  this. my senior is confident that he can do it in 3-4 hours.
 
 > I am 26 and started learning programming. I feel like am so late and there's no way that I can achieve anythin at this point. Should I give up?
 
