@@ -27,8 +27,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I enjoy programming but I am not creative and have a crippling fear of failure and asking for help. Should I try a different career?
 
-> I'm a computer science major. Am I supposed to spend all my spare time coding?
-
 > I am 26 and started learning programming. I feel like am so late and there's no way that I can achieve anythin at this point. Should I give up?
 
 > What would happen if all software engineers/ programmers in the world were equally skillful and talented?
@@ -39,13 +37,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > How important is a quiet working environment for software developers?
 
-> Does JavaScript's increasing popularity show that software engineers/ programmers are slowly starting to like it - in spite of its horrible syntax?
-
 > I'm a pretty bad programmer, can I get better? Has anyone who knew they were bad at programming become better with time by practicing coding questions online?
-
-> I'm a software engineer and my HR wants that I follow the daily breaks rules, but I feeling as a component of a production pipeline not a creative programmer. What should I do?
-
-> I'm a female software engineer and I have trouble sounding confident. What are some ways to be more confident in the field?
 
 > How can one become a successful software developer?
 
@@ -60,8 +52,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > I'm thinking about starting software development company. How do I make this happen? What are some helpful tips?
 
 > What are the pros of working as a software engineer in a no-name company?
-
-> Do whiteboard interviews for software developer and software engineering jobs really test programming skills since this kind of pressure would not be part of the real job?
 
 ### Misc
 
