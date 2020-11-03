@@ -19,8 +19,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I'm a programmer and I want to quit programming, what should I do?
 
-> I'm 34 and I have only 20k in my savings. I'm a software engineer with a well paid job and not sure if I'm doing things correctly. What is some advice?
-
 > I started a software development job that is too advanced for my experience. What should I do?
 
 > I am a Software Development Director for a small software firm. Any tips on how to move to next level quickly?
