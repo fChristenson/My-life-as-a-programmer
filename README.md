@@ -31,8 +31,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > As a software engineer in your free time, do you learn new frameworks/ languages - not related to work, to keep yourself updated with current & latest trends?
 
-> What is a "hero programmer"?
-
 > How important is a quiet working environment for software developers?
 
 > I'm a pretty bad programmer, can I get better? Has anyone who knew they were bad at programming become better with time by practicing coding questions online?
