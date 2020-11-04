@@ -19,27 +19,15 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I'm a programmer and I want to quit programming, what should I do?
 
-> I started a software development job that is too advanced for my experience. What should I do?
-
-> I am a Software Development Director for a small software firm. Any tips on how to move to next level quickly?
-
 > I enjoy programming but I am not creative and have a crippling fear of failure and asking for help. Should I try a different career?
 
-> I am 26 and started learning programming. I feel like am so late and there's no way that I can achieve anythin at this point. Should I give up?
-
 > What would happen if all software engineers/ programmers in the world were equally skillful and talented?
-
-> As a software engineer in your free time, do you learn new frameworks/ languages - not related to work, to keep yourself updated with current & latest trends?
 
 > How important is a quiet working environment for software developers?
 
 > I'm a pretty bad programmer, can I get better? Has anyone who knew they were bad at programming become better with time by practicing coding questions online?
 
 > How can one become a successful software developer?
-
-> I am working as a software developer for a startup, the company doesn’t care about code quality and requires us to deliver just working code to meet deadline, should I quit even the salary is very good?
-
-> I'm a software engineer in my mid-40s and want to get out of the field because competition has become too extreme. What choices do I have?
 
 > I'm afraid I will never be a good software engineer.  Should I quit?
 
