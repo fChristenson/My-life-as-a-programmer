@@ -17,25 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> I'm a programmer and I want to quit programming, what should I do?
-
-> I enjoy programming but I am not creative and have a crippling fear of failure and asking for help. Should I try a different career?
-
-> What would happen if all software engineers/ programmers in the world were equally skillful and talented?
-
-> How important is a quiet working environment for software developers?
-
-> I'm a pretty bad programmer, can I get better? Has anyone who knew they were bad at programming become better with time by practicing coding questions online?
-
 > How can one become a successful software developer?
-
-> I'm afraid I will never be a good software engineer.  Should I quit?
-
-> Should one learn Java even though it’s being less frequently used today?
-
-> I'm thinking about starting software development company. How do I make this happen? What are some helpful tips?
-
-> What are the pros of working as a software engineer in a no-name company?
 
 ### Misc
 
