@@ -17,8 +17,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> How can one become a successful software developer?
-
 ### Misc
 
 ## Pending tutorials
