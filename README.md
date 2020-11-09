@@ -19,12 +19,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Misc
 
-> I am starting programming at 32 years old. What can I do to decrease the gap between myself and more experienced developers?
-
-> I feel like a weak programmer, although I have a PhD in CS have been known for the ability to solve problems (even programming puzzles). Why do I feel disinterested and dumb about coding at work, even after a year in the industry? How can I improve?
-
-> I have been working as a software developer for many years but I still feel insecure when I work on the same programming language and framework as a new graduate, what should I do?
-
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
