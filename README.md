@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Fredrik when should i lie on my resumé?
+
 ### Misc
 
 ## Pending tutorials
