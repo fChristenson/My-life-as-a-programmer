@@ -17,10 +17,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Fredrik when should i lie on my resumé?
-
-> Do you consider as a bad developer if someone uses too much google to remember how to do things, sintaxis or something like that? What should be the balance between remembering things and searching to help remember on that moment?
-
 ### Misc
 
 ## Pending tutorials
