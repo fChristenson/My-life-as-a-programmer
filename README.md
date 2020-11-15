@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> What do you think is faster on average, tdd or writing code and then tests after?
+
 ### Misc
 
 ## Pending tutorials
