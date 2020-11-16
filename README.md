@@ -17,7 +17,17 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> What do you think is faster on average, tdd or writing code and then tests after?
+> I make $110 K per year as a senior software developer. Should I leave for the sake of professional development? I am bored. I received offers from BlackBerry and IBM, but my current employer offered me a better package each time.
+
+> I'm a software engineer who works mostly on Java. What can I start doing now that will help me in my career in long run?
+
+> I really enjoy writing software as a hobby, but I can rarely do it for more than a few hours a week. What are the odds that I would also like writing software as a real job, where I would be coding all day every day?
+
+> I think I cannot do software development. I suffer from severe depression and imposter syndrome . Graduated from NSIT 2k16 .I got fired from my first job after college due to low performance I have a fear same will happen again. What to do?
+
+> I started at Google as a software engineer 3 months ago but I totally hate it, it is unbearable. Should I quit or keep trying? Will leaving so soon impact me badly? How much should I wait?
+
+> Why do I do poorly in interviews although I am strong technically?
 
 ### Misc
 
