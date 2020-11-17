@@ -25,10 +25,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I started at Google as a software engineer 3 months ago but I totally hate it, it is unbearable. Should I quit or keep trying? Will leaving so soon impact me badly? How much should I wait?
 
-> What surprised you the most in your career as a software engineer?
-
-> Why do DevOps engineers make so much more than software engineers? Are their day-to-day responsibilities that complex?
-
 > Why are programmers so anti-optimization? Why is optimizing so stigmatized in the Ruby and Node.JS community?
 
 > With so many people trying out coding, why is there still a big shortage of software engineers and software developers?
@@ -40,8 +36,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > Why aren't software engineers afraid that without a union, their salaries will decline and their jobs will go overseas?
 
 > As a software engineer, what should be my plan after 40s when I'm too expensive for any company?
-
-> What screams "You're a brilliant software engineer"?
 
 > What is the best career advice for a software developer to earn a higher salary?
 
