@@ -17,11 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Hi Fredrik. Thanks for your content. Are you using any ergonomic keyboard/mouse/standing desk/blue light blocking glasses etc? Do you limit time in front monitors? How much caffeine? I see from your videos that you walk a lot. Do you also go running or  to the gym in order to counterbalance the long programming sessions?
-
 > I make $110 K per year as a senior software developer. Should I leave for the sake of professional development? I am bored. I received offers from BlackBerry and IBM, but my current employer offered me a better package each time.
-
-> I'm a software engineer who works mostly on Java. What can I start doing now that will help me in my career in long run?
 
 > I really enjoy writing software as a hobby, but I can rarely do it for more than a few hours a week. What are the odds that I would also like writing software as a real job, where I would be coding all day every day?
 
