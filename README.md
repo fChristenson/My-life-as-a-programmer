@@ -27,6 +27,32 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Why do I do poorly in interviews although I am strong technically?
 
+> What surprised you the most in your career as a software engineer?
+
+> Why do DevOps engineers make so much more than software engineers? Are their day-to-day responsibilities that complex?
+
+> Why are programmers so anti-optimization? Why is optimizing so stigmatized in the Ruby and Node.JS community?
+
+> With so many people trying out coding, why is there still a big shortage of software engineers and software developers?
+
+> If software engineers only get paid a decent salary but have a high risk of being let go & finding another job, is it not a risky profession?
+
+> One of my friends, a software developer, said he spent many hours in learning programming to get a developer job. He said he spent all his free time after work to learn technical skills and he is still single after 30. Is this common in the IT field?
+
+> Why aren't software engineers afraid that without a union, their salaries will decline and their jobs will go overseas?
+
+> As a software engineer, what should be my plan after 40s when I'm too expensive for any company?
+
+> What screams "You're a brilliant software engineer"?
+
+> What is the best career advice for a software developer to earn a higher salary?
+
+> When a software engineer leaves a top company like Google/ Facebook to go work in no-name company, do they find the challenges and daily work 10x easier?
+
+> Is software development one of the most intellectually/mentally rigorous careers in the world?
+
+> What is the career ladder for software engineers?
+
 ### Misc
 
 ## Pending tutorials
