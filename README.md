@@ -25,8 +25,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I started at Google as a software engineer 3 months ago but I totally hate it, it is unbearable. Should I quit or keep trying? Will leaving so soon impact me badly? How much should I wait?
 
-> Why do I do poorly in interviews although I am strong technically?
-
 > What surprised you the most in your career as a software engineer?
 
 > Why do DevOps engineers make so much more than software engineers? Are their day-to-day responsibilities that complex?
