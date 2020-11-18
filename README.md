@@ -19,19 +19,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I make $110 K per year as a senior software developer. Should I leave for the sake of professional development? I am bored. I received offers from BlackBerry and IBM, but my current employer offered me a better package each time.
 
-> I really enjoy writing software as a hobby, but I can rarely do it for more than a few hours a week. What are the odds that I would also like writing software as a real job, where I would be coding all day every day?
-
 > I think I cannot do software development. I suffer from severe depression and imposter syndrome . Graduated from NSIT 2k16 .I got fired from my first job after college due to low performance I have a fear same will happen again. What to do?
 
 > I started at Google as a software engineer 3 months ago but I totally hate it, it is unbearable. Should I quit or keep trying? Will leaving so soon impact me badly? How much should I wait?
 
-> Why are programmers so anti-optimization? Why is optimizing so stigmatized in the Ruby and Node.JS community?
-
 > With so many people trying out coding, why is there still a big shortage of software engineers and software developers?
-
-> If software engineers only get paid a decent salary but have a high risk of being let go & finding another job, is it not a risky profession?
-
-> One of my friends, a software developer, said he spent many hours in learning programming to get a developer job. He said he spent all his free time after work to learn technical skills and he is still single after 30. Is this common in the IT field?
 
 > Why aren't software engineers afraid that without a union, their salaries will decline and their jobs will go overseas?
 
