@@ -17,15 +17,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
-> Why aren't software engineers afraid that without a union, their salaries will decline and their jobs will go overseas?
-
-> As a software engineer, what should be my plan after 40s when I'm too expensive for any company?
-
 > What is the best career advice for a software developer to earn a higher salary?
-
-> When a software engineer leaves a top company like Google/ Facebook to go work in no-name company, do they find the challenges and daily work 10x easier?
-
-> Is software development one of the most intellectually/mentally rigorous careers in the world?
 
 > What is the career ladder for software engineers?
 
