@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Hi fredrik: I have a question! And the question in question is ! Where to find best talent for a tech startup in Europe! Giving that a Startup should be able to scale fast when needed ! 1. London 2. Stockholm 3. München 4. Berlin 5. Paris 6. Dose not matter Can you describe the positives and negatives of a city for a programmer from your point of view ? Comparing maybe two places such as London(metropolitan) vs Gothenburg
+
 > I make $110 K per year as a senior software developer. Should I leave for the sake of professional development? I am bored. I received offers from BlackBerry and IBM, but my current employer offered me a better package each time.
 
 > I think I cannot do software development. I suffer from severe depression and imposter syndrome . Graduated from NSIT 2k16 .I got fired from my first job after college due to low performance I have a fear same will happen again. What to do?
