@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> In order to get resume experience for an aspiring dev, do you think it would be effective to attempt to volunteer at a software company? The idea would to do simple things they needed involving code. Do you think a software company would be interested in a volunteer?
+
 > I want to specialise instead of being a full-stack developer. What are some niches I should look at?
 
 > I'm taking a programming class, and I'm more skilled than most of my classmates. I'm starting to get bored. How can I optimize my learning experience while helping my classmates get better?
