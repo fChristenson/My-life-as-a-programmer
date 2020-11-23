@@ -11,16 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-### Thoughts
-
-### Popular
-
-### Comments
-
-> In order to get resume experience for an aspiring dev, do you think it would be effective to attempt to volunteer at a software company? The idea would to do simple things they needed involving code. Do you think a software company would be interested in a volunteer?
-
-> I want to specialise instead of being a full-stack developer. What are some niches I should look at?
-
 > I'm taking a programming class, and I'm more skilled than most of my classmates. I'm starting to get bored. How can I optimize my learning experience while helping my classmates get better?
 
 > Will it be unfair for a manager to tell a software engineer with no web development experience to learn JS and React, so he can join a team which desperately needs another React developer?
@@ -30,8 +20,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 > My boss told me that I shouldn’t focus this much on the elegance of code and should focus more on reducing the costs. I’m a little confused, are the “costs” really much more important than the quality of the code I’m writing?
 
 > I am a software engineer who gets bored and wants to quit after 2 years, is this normal?
-
-### Misc
 
 ## Pending tutorials
 
