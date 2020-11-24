@@ -13,8 +13,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I'm taking a programming class, and I'm more skilled than most of my classmates. I'm starting to get bored. How can I optimize my learning experience while helping my classmates get better?
 
-> Will it be unfair for a manager to tell a software engineer with no web development experience to learn JS and React, so he can join a team which desperately needs another React developer?
-
 > If I have been programming for years and I suddenly stop programming for a long period of time, will I lose the ability to program?
 
 > My boss told me that I shouldn’t focus this much on the elegance of code and should focus more on reducing the costs. I’m a little confused, are the “costs” really much more important than the quality of the code I’m writing?
