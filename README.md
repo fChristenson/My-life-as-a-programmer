@@ -11,8 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> I'm taking a programming class, and I'm more skilled than most of my classmates. I'm starting to get bored. How can I optimize my learning experience while helping my classmates get better?
-
 > If I have been programming for years and I suddenly stop programming for a long period of time, will I lose the ability to program?
 
 > My boss told me that I shouldn’t focus this much on the elegance of code and should focus more on reducing the costs. I’m a little confused, are the “costs” really much more important than the quality of the code I’m writing?
