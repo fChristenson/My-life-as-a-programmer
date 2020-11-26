@@ -11,12 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> If I have been programming for years and I suddenly stop programming for a long period of time, will I lose the ability to program?
-
-> My boss told me that I shouldn’t focus this much on the elegance of code and should focus more on reducing the costs. I’m a little confused, are the “costs” really much more important than the quality of the code I’m writing?
-
-> I am a software engineer who gets bored and wants to quit after 2 years, is this normal?
-
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
