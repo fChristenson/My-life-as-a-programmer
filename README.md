@@ -11,6 +11,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> I want to become a great developer but I have no one to help me. How can I do it on my own?
+
+> How do you know when you actually understand a programming language?
+
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
