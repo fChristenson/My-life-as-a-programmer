@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Hey Fredrik, Do you prefer working in a product company or a consultancy company? And why?
+
 > I want to become a great developer but I have no one to help me. How can I do it on my own?
 
 > How do you know when you actually understand a programming language?
