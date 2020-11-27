@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Hey Fredrik, how to understand that a company has a strong team if they ask really basic questions on the interview. I recently had one, they were hiring for a senior position but asked about really basic stuff(iife, fixing react component bugs, event loop, etc). And in terms of overall architecture/technical questions, there also were not anything deep. I'm sure that I could pass this interview when I was a junior dev. And to be honest, most of the interviews that I had were like that. so it seems that if a company doesn't check their future employees well, then the team wouldn't be that good. What questions could be asked to understand the level of developers?
+
 > Hey Fredrik, Do you prefer working in a product company or a consultancy company? And why?
 
 > I want to become a great developer but I have no one to help me. How can I do it on my own?
