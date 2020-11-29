@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Hi brother, can you please make a video on maintaining Healthy life as a dev? And how do you maintain?
+
 > Hey Fredrik, so i have a situation at work. There is this, I guess you could call it a service, in our app, and I am tasked to change the core implementation of said service. Now, I can either completely remake it from scratch, or only try to change the things that need changing. So my question is, how do I actually know which path to choose? Do I basically have to guess or are there some rules of thumb that I could use? Also the priority is bascially whatever takes less time to do is better. tl;dr - idk if remaking the whole thing is faster than just changing some part of it
 
 > Hey Fredrik, how to understand that a company has a strong team if they ask really basic questions on the interview. I recently had one, they were hiring for a senior position but asked about really basic stuff(iife, fixing react component bugs, event loop, etc). And in terms of overall architecture/technical questions, there also were not anything deep. I'm sure that I could pass this interview when I was a junior dev. And to be honest, most of the interviews that I had were like that. so it seems that if a company doesn't check their future employees well, then the team wouldn't be that good. What questions could be asked to understand the level of developers?
