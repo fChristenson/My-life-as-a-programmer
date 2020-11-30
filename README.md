@@ -11,6 +11,16 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> I want to quit my job and plan to open own software company. I want to know how to get new software project for my company?
+
+> I have been working as a software developer for almost 10 years and I just joined a startup and forced to learn Git, I found it difficult and can't understand rebase, cherrypicks and other advanced features, what should I do?
+
+> I want to hire a web developer for my eCommerce startup company. Where and how can I hire a good person?
+
+> What are the golden rules of programming in JavaScript?
+
+> I have a software engineer on my team who can't seem to get his code reviews approved. His code gets rejected 10 times before finally approved. There’s issues with design, sloppiness, maintainability, etc. He isn’t improving. What do I do?
+
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
