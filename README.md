@@ -13,6 +13,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I want to quit my job and plan to open own software company. I want to know how to get new software project for my company?
 
+> Hi Fredrik, What certificates would u recommend to new programmers before they apply for their first job? I dont have a degree, so certificates would mean something for a junior level position. I had a look at your linkedin profile and saw u had CS50 listed. I completed Java Nanodegree from Udacity(took me 20 days) and Im planning on taking CS50 from edx. Im mostly a backend guy and I can see myself in the future creating apis and microservices in java/go. The part I enjoy the most is optimizing (ha, junior) data/persistence layer and queries.  I also have some competitive programming experience, shitty rating tho. Thanks in advance!
+
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
