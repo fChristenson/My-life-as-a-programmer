@@ -11,11 +11,19 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Hi Fredrik! Could you spill some light on how should a CV of a senior software engineer differ from that of a mid-level SE and a junior? Or rather, how can I as a recruiter figure out that someone is not quite who he/she claims to be from his/her CV? What mistakes do SE usually do trying to look better than they are? Or, looking at it from a different perspective, how can I avoid the mistakes of inexperienced job seekers and better reflect my level of experience? If I try to answer my own question, I would suggest that junior developers make emphasis on tools, languages, libs and frameworks they presumably know even if those are very basic things which every developer should know, such as git, make/cmake, google test, bash scripting and so on. But I can imagine that it wouldn't look suitable for a senior developer to list these basic tools in his CV? So what would a senior developer state instead to emphasize his seniority? Thank you in advance!
+> What are your rules as a software engineer/ programmer on how NOT to write crappy code?
+
+> I’m an integration analyst, and work a lot in business process automation and REST services. All of my solutions work, but I’m always scared there’s a better way to do them. How do seasoned software engineer’s stay up to date with the evolving tech?
+
+> I mismanaged my relationships at work; how should I answer 'why are you looking for another job?' 
+
+> Is it important to have a mentor while learning programming?
+
+> What 3 factors do you believe determines whether a software engineer will have a successful career or not?
 
 > I want to quit my job and plan to open own software company. I want to know how to get new software project for my company?
 
-> Hi Fredrik, What certificates would u recommend to new programmers before they apply for their first job? I dont have a degree, so certificates would mean something for a junior level position. I had a look at your linkedin profile and saw u had CS50 listed. I completed Java Nanodegree from Udacity(took me 20 days) and Im planning on taking CS50 from edx. Im mostly a backend guy and I can see myself in the future creating apis and microservices in java/go. The part I enjoy the most is optimizing (ha, junior) data/persistence layer and queries.  I also have some competitive programming experience, shitty rating tho. Thanks in advance!
+> I am happy with my current job, but I hear that you should change things up frequently to move ahead as a developer. Is it really necessary to jump from job to job to succeed as a developer?
 
 ## Pending tutorials
 
