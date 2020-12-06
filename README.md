@@ -11,15 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> What are your rules as a software engineer/ programmer on how NOT to write crappy code?
-
-> I’m an integration analyst, and work a lot in business process automation and REST services. All of my solutions work, but I’m always scared there’s a better way to do them. How do seasoned software engineer’s stay up to date with the evolving tech?
-
 > I mismanaged my relationships at work; how should I answer 'why are you looking for another job?' 
-
-> Is it important to have a mentor while learning programming?
-
-> What 3 factors do you believe determines whether a software engineer will have a successful career or not?
 
 > I want to quit my job and plan to open own software company. I want to know how to get new software project for my company?
 
