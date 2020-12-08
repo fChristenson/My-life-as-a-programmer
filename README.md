@@ -11,12 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> I mismanaged my relationships at work; how should I answer 'why are you looking for another job?' 
-
-> I want to quit my job and plan to open own software company. I want to know how to get new software project for my company?
-
-> I am happy with my current job, but I hear that you should change things up frequently to move ahead as a developer. Is it really necessary to jump from job to job to succeed as a developer?
-
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
