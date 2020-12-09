@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> I've been a Junior Software Developer for 2 years now. Should I start looking for a Senior Software Developer position now?
+
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
