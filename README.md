@@ -13,6 +13,14 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I've been a Junior Software Developer for 2 years now. Should I start looking for a Senior Software Developer position now?
 
+> How do I stop my coworkers from breaking my code?
+
+> My manager tells me I am to aggressive in my communication, what should I do?
+
+> I made a bad joke and now I might lose my job, what should I do?
+
+> My team has complained about how ineffective our boss is but management won't listen, what should we do?
+
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
