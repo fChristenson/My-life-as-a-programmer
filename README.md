@@ -11,15 +11,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> I've been a Junior Software Developer for 2 years now. Should I start looking for a Senior Software Developer position now?
+> Fredrick i am new programmer and i am learning javascript and i hate html and css i better at math an physics in school   not sure if that info helps but i prefer logic that creative  so my question: is can i avoid html and css as a new programer and aspiring fullstack developer(can i make website while avoiding html and css) Side note: how about python
 
-> How do I stop my coworkers from breaking my code?
-
-> My manager tells me I am to aggressive in my communication, what should I do?
+> out of topic technical question am a self taught fullstack web/app developer  I learned dart/flutter as my first language  am willing to learn angular 10 / node.js and or deno and nest.js  the question is can I learn typescript right away without learning JavaScript ??
 
 > I made a bad joke and now I might lose my job, what should I do?
-
-> My team has complained about how ineffective our boss is but management won't listen, what should we do?
 
 ## Pending tutorials
 
