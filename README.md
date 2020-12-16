@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I made a bad joke and now I might lose my job, what should I do?
 
+> Hi, Fredrik! As you say that companies do not care about the number of PL you know,  but rather about that one specific language they use, would you agree that one shouldn't list all the languages he knows in his CV when applying for a certain position in a specific company, but rather stress the knowledge of the language they use? I am asking it because there is an opinion that it doesn't matter whether or not you know a certain language if you know some. For example, a C++ or C# developer could very well be taken on a C# position and vice versa. Therefore, does it really make sense to list all the languages you know (if you know several) in a CV? And if the assumption above is true, does it make sense to learn any other languages (except maybe JS, which stands apart in a way) if switching is such a no-brainer (as some people say)?
+
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
