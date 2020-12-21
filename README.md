@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> If all companies need more devs ,why don't companies pay entry level developers a very low salary for maybe six months while they train them then increase once they are useful?
+
 > Fredrik, if stressed and unfocused, and sick programmers are less productive, why are open-offices so popular in IT?
 
 > Hi, Frederick! I would appreciate it if you could help me make a decision here. Should I stick with my current job and slowly lose hope of ever working as a developer? Or, quit and start giving interviews. Thanks Some context. I graduated this year in July. Interned for 6 months at a software company where I was working on tools in the company's cloud platform. I did very little development then. Following the internship and another six months of contractual work, I'm being offered a position in a Customer Success cum DevOps team. I have made it clear that my intentions are to work as a developer. But I'm afraid if I accept this role, I'll probably never be able to join a development team.
