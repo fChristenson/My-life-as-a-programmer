@@ -11,10 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Great video like always, I'd love for you to elaborate more on the part about hobby projects, you said that demo sites are not as marketable in your CV as a proper application. What in your opinion would carry more weight? 
-1) A more kind of fullstack approach on some application with some real world value - Kinda jack of all trades, master of none type of person. 
-2) Picking a niche and  sticking to it, for example say, becoming really good at Next.js, and learning the concepts of serverless really well, then use that to build something with some real world value.
-
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
