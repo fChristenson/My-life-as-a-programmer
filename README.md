@@ -11,20 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> If all companies need more devs ,why don't companies pay entry level developers a very low salary for maybe six months while they train them then increase once they are useful?
-
-> Fredrik, if stressed and unfocused, and sick programmers are less productive, why are open-offices so popular in IT?
-
-> Hi, Frederick! I would appreciate it if you could help me make a decision here. Should I stick with my current job and slowly lose hope of ever working as a developer? Or, quit and start giving interviews. Thanks Some context. I graduated this year in July. Interned for 6 months at a software company where I was working on tools in the company's cloud platform. I did very little development then. Following the internship and another six months of contractual work, I'm being offered a position in a Customer Success cum DevOps team. I have made it clear that my intentions are to work as a developer. But I'm afraid if I accept this role, I'll probably never be able to join a development team.
-
-> Fredrick i am new programmer and i am learning javascript and i hate html and css i better at math an physics in school   not sure if that info helps but i prefer logic that creative  so my question: is can i avoid html and css as a new programer and aspiring fullstack developer(can i make website while avoiding html and css) Side note: how about python
-
-> out of topic technical question am a self taught fullstack web/app developer  I learned dart/flutter as my first language  am willing to learn angular 10 / node.js and or deno and nest.js  the question is can I learn typescript right away without learning JavaScript ??
-
-> I made a bad joke and now I might lose my job, what should I do?
-
-> Hi, Fredrik! As you say that companies do not care about the number of PL you know,  but rather about that one specific language they use, would you agree that one shouldn't list all the languages he knows in his CV when applying for a certain position in a specific company, but rather stress the knowledge of the language they use? I am asking it because there is an opinion that it doesn't matter whether or not you know a certain language if you know some. For example, a C++ or C# developer could very well be taken on a C# position and vice versa. Therefore, does it really make sense to list all the languages you know (if you know several) in a CV? And if the assumption above is true, does it make sense to learn any other languages (except maybe JS, which stands apart in a way) if switching is such a no-brainer (as some people say)?
-
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
