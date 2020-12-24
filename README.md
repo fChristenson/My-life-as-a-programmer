@@ -11,6 +11,46 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> I just completed the front-end certificate on Free Code Camp. How do I get a job now?
+
+> I am 31 years old and I don't want to be a software developer anymore. Also, I don't like being at an office. What do you think I should do?
+
+> Why do we use functions in a programming language? My boss argues that we need to create a function only if it is used somewhere else. Is that true?
+
+> What 3 things can say a lot about a software engineer/ programmer's quality?
+
+> I just joined a startup, there is no version control and code review, should I quit?
+
+> I felt I was a pretty good software engineer with a successful career, but I did quite poorly in my Google interview, does this mean I'm not as good an engineer as I thought?
+
+> As a software engineer/ programmer how do you feel when your team chooses a language for a project - you're not comfortable with?
+
+> As a software engineer in your free time, do you learn new frameworks/ languages - not related to work, to keep yourself updated with current & latest trends?
+
+> As a software engineer/ programmer do you feel embarrassed asking a senior engineer about a problem you might think is is silly?
+
+> I'm a male software engineer. Is it right to not want to work on a team that has no female engineers?
+
+> Given their army of really talented software engineers, why doesn't Google or Facebook make a new pure programming language for the web, so we don't have to stick to JavaScript?
+
+> What should a programmer never put on his resume?
+
+> I'm 45. It's getting increasingly difficult to get a software engineering job. I don't want to be a boss, I just love making stuff myself. What do I do?
+
+> As a software engineer, what rules do you follow to create robust, maintainable systems?
+
+> I'm a software engineer and as I grow older I find myself being less efficient and willing to work, debug, modify code that I haven't written. Are there other engineers that have felt the same way?
+
+> I have to develop a big project of software for a company I have never did this type projects. Should I go for it or not or guide me what to do?
+
+> What have you learnt about life from programming?
+
+> As a software engineer/ programmer what has been your longest streak of not doing any coding at all?
+
+> What are the drawbacks for a company when they hire a full stack engineer and not a specialized front end and backend developer?
+
+> I've worked for 3 years as a sustaining software developer on a complex software solution built in an old technology. Now I have to switch my job but I'm not up-to date with latest technologies. What should I do?
+
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
