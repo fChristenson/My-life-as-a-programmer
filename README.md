@@ -11,19 +11,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> I just completed the front-end certificate on Free Code Camp. How do I get a job now?
+> Hi, thanks for the video. So I'm studying CS and we've gone through the regular two semesters of Java. I also have Java experience from an earlier university attempt. In the last few years I've been studying C# on my own, using for example Pluralsight and books. I've seen there are C# remote courses in the universities around the land. Would it be a waste of time of taking a C# 1 and C# 2 course? I feel that I won't learn much new but is it worth having them or would I be better served by just using my knowledge to build a demo app?
 
 > I am 31 years old and I don't want to be a software developer anymore. Also, I don't like being at an office. What do you think I should do?
 
-> Why do we use functions in a programming language? My boss argues that we need to create a function only if it is used somewhere else. Is that true?
-
-> What 3 things can say a lot about a software engineer/ programmer's quality?
-
-> I just joined a startup, there is no version control and code review, should I quit?
-
 > I felt I was a pretty good software engineer with a successful career, but I did quite poorly in my Google interview, does this mean I'm not as good an engineer as I thought?
-
-> As a software engineer/ programmer how do you feel when your team chooses a language for a project - you're not comfortable with?
 
 > As a software engineer in your free time, do you learn new frameworks/ languages - not related to work, to keep yourself updated with current & latest trends?
 
