@@ -11,21 +11,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> I'm a male software engineer. Is it right to not want to work on a team that has no female engineers?
-
-> Given their army of really talented software engineers, why doesn't Google or Facebook make a new pure programming language for the web, so we don't have to stick to JavaScript?
-
-> What should a programmer never put on his resume?
-
 > I'm 45. It's getting increasingly difficult to get a software engineering job. I don't want to be a boss, I just love making stuff myself. What do I do?
-
-> As a software engineer, what rules do you follow to create robust, maintainable systems?
 
 > I'm a software engineer and as I grow older I find myself being less efficient and willing to work, debug, modify code that I haven't written. Are there other engineers that have felt the same way?
 
 > I have to develop a big project of software for a company I have never did this type projects. Should I go for it or not or guide me what to do?
-
-> What have you learnt about life from programming?
 
 > As a software engineer/ programmer what has been your longest streak of not doing any coding at all?
 
