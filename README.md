@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Fredrik, should I go for a CS degree here in the UK. Most people are trashing it, and I am aware that it won't make me much of a better coder and I had a choice over my destiny I would just start working.
+
 > I'm 45. It's getting increasingly difficult to get a software engineering job. I don't want to be a boss, I just love making stuff myself. What do I do?
 
 > I'm a software engineer and as I grow older I find myself being less efficient and willing to work, debug, modify code that I haven't written. Are there other engineers that have felt the same way?
