@@ -11,12 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Hey Fredrik, Why does it seem like there arent a whole lot of part time programming positions available? Is it just standard for most positions to be full time or are the strategies to finding part time gigs that dont require you to go on one of the freelancing sites?
-
-> I'm 45. It's getting increasingly difficult to get a software engineering job. I don't want to be a boss, I just love making stuff myself. What do I do?
-
-> As a software engineer/ programmer what has been your longest streak of not doing any coding at all?
-
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
