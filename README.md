@@ -11,17 +11,9 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> I am building an investment engine for a startup, and my choice for developer wants to code it in Haskell. Is this the right choice? Do enough people know this so if he leaves I can continue without interruption?
-
-> If a person thought he is not good enough at programming, what would you suggest to him?
-
 > What are some highly overlooked things in software development?
 
-> As a software engineer with a few years of experience, what helped you the most to land a good job, top coding skills, system design or leadership skills?
-
 > As a professional programmer, what tip can you give someone who just started learning about programming?
-
-> What are some programs every programmer should make at least once?
 
 ## Pending tutorials
 
