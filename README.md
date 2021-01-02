@@ -15,6 +15,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > As a professional programmer, what tip can you give someone who just started learning about programming?
 
+> Which stack or technologies do you recommend for freelancing?
+
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
