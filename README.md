@@ -11,14 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> This actually makes me wonder how does one learn Ops without being a Dev first. Like where would you get the application to practice the operations skills on said app?
-
-> Do you think, can Rust become a solid language for microservices backend development in nex few years?
-
-> What's the diff between devops engineers, infrastructure engineers, and cloud engineers? The job descriptions I see are mostly the same
-
-> What are some highly overlooked things in software development?
-
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
