@@ -11,8 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Hello Fredrik, really appreciate the content that you provided daily. I have a question, can a software engineer from 3rd world country like Nepal, apply for jobs in Europe? If yes, what are the chances of getting hired, and what do you suggest for increasing the chances of getting hired? Thank you.
-
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
