@@ -11,6 +11,14 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> 1. Hur ser branschens kompetensbehov ut på kort och på lång sikt?
+
+> 2. Vilka trender är på gång?
+
+> 3. Hur ser branschen på medarbetarens kompenstutveckling och vems ansvar ligger detta på?
+
+> 4. Hur ser branschen på begreppet ”affärsmannaskap”? Vad betyder detta mer konkret för olika företag? Vilket ansvar ligger på medarbetarna kring detta?
+
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
