@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Great talk, and thank you for sharing. Speaking of git, I'm curious that if you are an experienced developer(say 3-5 years ), when you go out to the market and hunt for new job, do you need put a github link on your resume like all the new grads, even if it's just all personal/pet project? Do things like sample code in git and pet project website(eCommerse/Blog) help at all for the experienced? Do hiring managers/HR care about it when looking for a bit more senior candidates?
+
 > 1. Hur ser branschens kompetensbehov ut på kort och på lång sikt?
 
 > 2. Vilka trender är på gång?
