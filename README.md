@@ -13,6 +13,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > Would love to hear your thoughts on agile and waterfall project management from your experience.
 
+> Hi fredrik question What’s your opinion on asp.net core  sql server performance ,jobs and future wise is it worth learning compared to other backends and databases like node nest php laravel  python, django or db like Postgres I like c# it’s by far my favorite  programming language but I see most people are interested in other languages and technologies and I wonder why ??although.net outperform them and it’s also cross platform and visual studio is an amazing IDE??
+
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
