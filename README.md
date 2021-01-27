@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> @Fredrik Christenson Thanks, right it is. On your opinion, does converting a team from less motivated to high performing works vise versa? If so, what key point to achive it for me as an potential team lead?
+
 ## Pending tutorials
 
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
