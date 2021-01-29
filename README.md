@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Thanks! Quick q: What's the most common use of .net core in the industry? To build a REST API or an MVC project with Razor?
+
 > I'm a software engineer who works mostly on Java. What can I start doing now that will help me in my career in long run?
 
 > Am I learning too slow that I know dependency injection, decoupling, weak/soft reference and code coverage only after 2+ years of work experience?
