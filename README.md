@@ -11,7 +11,27 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> @Fredrik Christenson Thanks, right it is. On your opinion, does converting a team from less motivated to high performing works vise versa? If so, what key point to achive it for me as an potential team lead?
+> I'm a software engineer who works mostly on Java. What can I start doing now that will help me in my career in long run?
+
+> Am I learning too slow that I know dependency injection, decoupling, weak/soft reference and code coverage only after 2+ years of work experience?
+
+> How do I make my life more interesting as a software engineer?
+
+> My projects always evolve into spaghetti code and tightly coupled classes. How do I become better at writing clean and maintainable code?
+
+> I have the design and algorithms of a complex distributed system. How can I test this system before I start coding or with minimum coding?
+
+> I am a software developer, I have all the knowledge about my work, but I am not timely efficient, I do it but it takes me extra time than other do. What should I do?
+
+> I just quit my software developer job to try to become a singer. My friends and parents don't support me. What should I do?
+
+> Am I a bad Software Engineer if I can not implement sorting algorithms from the top of my head?
+
+> I'm not a great developer and I fear I'll be found out and fired. What should I do (immediately)?
+
+> I am not a detail-oriented person but I like how software development can change people's lives, would I enjoy coding?
+
+> I've heard that "Separation of Concerns" opposes "Dependency Injection". If so, how?
 
 ## Pending tutorials
 
