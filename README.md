@@ -11,19 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Fredrik, Could you please share your views on negotiation ?
-
-Negotiation can depend a lot on context - [My current thinking]
-1 - If you're direct employee asking for Raise  may depend on (a) Performance (b) A lot of x,y,z factors
-2 - When you're a freelancer asking for raise in Rate/hr can be configured by dev as they can choose what project to take, right?
-3 - You're working as a contract developer [consultant but not to be confused with Sr Staff Engineer] - Where you work for a company through a 3rd party company. I found out even though my performance was really good, I was getting paid less than the Jr's I have had interviewed and which sucks. I do understand that it's how this system works but can we expect fairness?. What are your thoughts on this?
-
-> Hey Fredrik. If you had your own IT company, what would your hiring process look like ?
-
-> Fredrik, What's your opinion on ReasonML & React Reason  & react after Jordan Walke quit facebook to go it alone?
-
-> Fredrik, do you think that programmers in general live poor social life?
-
 > I'm a software engineer who works mostly on Java. What can I start doing now that will help me in my career in long run?
 
 > Am I learning too slow that I know dependency injection, decoupling, weak/soft reference and code coverage only after 2+ years of work experience?
