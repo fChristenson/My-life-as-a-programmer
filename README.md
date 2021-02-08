@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> How much should a senior (4 years of experience) backend developer know?
+
 > Hey Fredrik, do u prefer freelance or regular job? And what ur current job now? (freelance or regular?)
 
 > Hey Fredrik. Do you think Typescript is becoming a requirement in the job market ?
