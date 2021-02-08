@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Hey Fredrik. Do you think Typescript is becoming a requirement in the job market ?
+
 > Hi fredrik, great advice. I am a front end developer. work on react js mostly. What are your thoughts on keeping up with skills and expertise while working as individual ?
 
 > I'm a software engineer who works mostly on Java. What can I start doing now that will help me in my career in long run?
