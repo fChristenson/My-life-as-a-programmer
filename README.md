@@ -11,14 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> How much should a senior (4 years of experience) backend developer know?
-
-> Hey Fredrik, do u prefer freelance or regular job? And what ur current job now? (freelance or regular?)
-
-> Hey Fredrik. Do you think Typescript is becoming a requirement in the job market ?
-
-> Hi fredrik, great advice. I am a front end developer. work on react js mostly. What are your thoughts on keeping up with skills and expertise while working as individual ?
-
 > I'm a software engineer who works mostly on Java. What can I start doing now that will help me in my career in long run?
 
 > Am I learning too slow that I know dependency injection, decoupling, weak/soft reference and code coverage only after 2+ years of work experience?
