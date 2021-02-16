@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Hi Frederick, I have a question for you. why technology giants (think google, amazon, facebook, ibm, etc) mostly use java and very few use .NET ?
+
 > I'm a software engineer who works mostly on Java. What can I start doing now that will help me in my career in long run?
 
 > Am I learning too slow that I know dependency injection, decoupling, weak/soft reference and code coverage only after 2+ years of work experience?
