@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Hey Frederick, I don’t know if you’ve made a video covering this topic, but how would I stay motivated or avoid being bogged down from either being ignored from companies that I have applied to or being rejected?
+
 > Hi Frederick, I have a question for you. why technology giants (think google, amazon, facebook, ibm, etc) mostly use java and very few use .NET ?
 
 > I'm a software engineer who works mostly on Java. What can I start doing now that will help me in my career in long run?
