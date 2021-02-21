@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Hi, Fredrik. I am a long time subscriber and regular watcher of your vlog. I need your help and advice. I am on my first job and I am doing React development in a small IT company for about a year. I am not unhappy at this company but it is very small. The good thing is that I work on projects from scratch. The bad thing is that I don't work on any big projects. Now the company is finishing the React project and they have asked me to do Java work. I know basic Java and would love to learn it better. But does switching languages so early in my career before mastering one, hurt my long term career prospects? I am scared of becoming a full stack developer that knows a little bit of everything but is a master of nothing. I feel like I should leave this company and look for a bigger firm where I can do large scale React projects. Is leaving after one year in my first job too early?  What do you think?
+
 > Hey Fredrik, do you think the frontend community will ever developer best practices the same way the backed community has ? Or do you think that’s impossible because frontend development is inherently chaotic ?
 
 > Hey Frederick, I don’t know if you’ve made a video covering this topic, but how would I stay motivated or avoid being bogged down from either being ignored from companies that I have applied to or being rejected?
