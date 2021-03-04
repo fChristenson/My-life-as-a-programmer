@@ -11,12 +11,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> I'm a software engineer who works mostly on Java. What can I start doing now that will help me in my career in long run?
-
-> Am I learning too slow that I know dependency injection, decoupling, weak/soft reference and code coverage only after 2+ years of work experience?
-
-> How do I make my life more interesting as a software engineer?
-
 > I am a software developer, I have all the knowledge about my work, but I am not timely efficient, I do it but it takes me extra time than other do. What should I do?
 
 > I just quit my software developer job to try to become a singer. My friends and parents don't support me. What should I do?
