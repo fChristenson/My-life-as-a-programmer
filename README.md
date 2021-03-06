@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Hello Frederik, can I ask if you have wife and children? I assume not but might be wrong. I in a situation where my work life is thriving and my girlfriend wants to start a family.  Not sure how to handle this one as short-term this will kill my progress in programming field and long-term it might be a good balance from work. What do you think?
+
 > I am a software developer, I have all the knowledge about my work, but I am not timely efficient, I do it but it takes me extra time than other do. What should I do?
 
 > I just quit my software developer job to try to become a singer. My friends and parents don't support me. What should I do?
