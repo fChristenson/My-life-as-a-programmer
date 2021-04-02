@@ -11,6 +11,14 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Do you learn a new language every year. ?
+
+> Hi Fredrik, been listening for you for quite some time now and I really appriciate the time and effort you do. Huge help for people like me in the start of my career. I have a question, got offered an position at my current internship(digital agency). My role as an intern is .NET developer. I am currently studying a higher vocational education(.NET utvecklare, Stockholm). The agency offered me this offer with the clause that I learn Wordpress too as they really need Wordpress developers, so I will have a mix of .NET and WP work. I have no problems learning WP and I think it might be fun since I enjoy webdev. My question is will this hurt my career long term as a .NET developer? Or should I just take it and roll with it just to get my "foot in the door" since im a junior dev?
+
+> ok Fredrick What do you think about companies seeing their devs as a cost centre?
+
+> How do you practice backend skills?
+
 > Hi Frefrik! I am working for the company on the implementation of a new ERP system for more than 2 years now. My job is mainly to migrate data between the old and new system. I also worked on a few modifications of the new system where I had the opportunity to program business logic and UX a bit. Apart from that, I maintain the old system and support the users. I briefly deal with everything that the current situation requires (Excel, SSRS, System integrations, Windows etc.)
 The main reason why I was tempted to take this job was the information about the knowledge of C # in the requirements. I thought it was a great opportunity to deepen my programming knowledge.
 Unfortunately, the reality is disappointing, and so I have a few questions that may become the topic of a podcast series. BTW I like them very much!
