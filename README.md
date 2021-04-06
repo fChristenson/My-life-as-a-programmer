@@ -11,6 +11,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Portfolio sites are a popular enough way for junior developers to show off their skills and improve their chances of getting the first job. Do midlevel developers still do portfolio sites and is it a good idea?
+
+> Any updates on your thoughts on blockchains, cryptocurrencies and careers in this space since your last video on the subject?
+
 > Do you learn a new language every year. ?
 
 > Hi Fredrik, been listening for you for quite some time now and I really appriciate the time and effort you do. Huge help for people like me in the start of my career. I have a question, got offered an position at my current internship(digital agency). My role as an intern is .NET developer. I am currently studying a higher vocational education(.NET utvecklare, Stockholm). The agency offered me this offer with the clause that I learn Wordpress too as they really need Wordpress developers, so I will have a mix of .NET and WP work. I have no problems learning WP and I think it might be fun since I enjoy webdev. My question is will this hurt my career long term as a .NET developer? Or should I just take it and roll with it just to get my "foot in the door" since im a junior dev?
