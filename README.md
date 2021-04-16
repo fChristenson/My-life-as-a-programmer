@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Thank you for the video! Got the point about ML. But more generally, how about CS? If you taught yourself building things, and just using higher level technologies, do you think it's worth in the long term investing the time to learn the fundamentals of CS? Probably a topic for a video? : )
+
 > Portfolio sites are a popular enough way for junior developers to show off their skills and improve their chances of getting the first job. Do midlevel developers still do portfolio sites and is it a good idea?
 
 > Any updates on your thoughts on blockchains, cryptocurrencies and careers in this space since your last video on the subject?
