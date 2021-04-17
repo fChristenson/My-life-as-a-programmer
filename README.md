@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Hi Fredrik. How useful do you think is knowing multithreading , concurrency as a Junior developer ? As I found it to be quite difficult to learn especially for people like me who dont get the chance to use it at work. From my understanding , that kind optimization is rarely the thing we need for small application ?  will I ever need to be good at multi, concurrency at all ?
+
 > Thank you for the video! Got the point about ML. But more generally, how about CS? If you taught yourself building things, and just using higher level technologies, do you think it's worth in the long term investing the time to learn the fundamentals of CS? Probably a topic for a video? : )
 
 > Portfolio sites are a popular enough way for junior developers to show off their skills and improve their chances of getting the first job. Do midlevel developers still do portfolio sites and is it a good idea?
