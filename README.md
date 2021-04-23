@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> I'm a developer who I guess can be considered a backend developer (I can write Qt style UIs I guess... But no actual web UIs). I'm working in my own time on building out a website, and I have never really done any serious css and website design, it seems very daunting to me. Do you think I should try to attempt this with either vanilla css or some kind of framework? Or just use something like bootstrap?
+
 > Thank you so much, Fredrik! You mentioned 1 to 5 years, which begs the question, how to direct efforts to get rock star status within 1 year? Should you become Jack of all trades, or specialize (eg. in frontend, go deep in React, Next.js). I tend to go with the second, but I'm not sure...
 
 > Fredric, how can I become full stack engineer the fastest way? I have been working for one year as backend engineer and I am thinking of joining start up where I would be able to work on frontend, backend, devops
