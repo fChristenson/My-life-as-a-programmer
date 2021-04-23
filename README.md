@@ -11,6 +11,10 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Thank you so much, Fredrik! You mentioned 1 to 5 years, which begs the question, how to direct efforts to get rock star status within 1 year? Should you become Jack of all trades, or specialize (eg. in frontend, go deep in React, Next.js). I tend to go with the second, but I'm not sure...
+
+> Fredric, how can I become full stack engineer the fastest way? I have been working for one year as backend engineer and I am thinking of joining start up where I would be able to work on frontend, backend, devops
+
 > Hi Fredrik. How useful do you think is knowing multithreading , concurrency as a Junior developer ? As I found it to be quite difficult to learn especially for people like me who dont get the chance to use it at work. From my understanding , that kind optimization is rarely the thing we need for small application ?  will I ever need to be good at multi, concurrency at all ?
 
 > Thank you for the video! Got the point about ML. But more generally, how about CS? If you taught yourself building things, and just using higher level technologies, do you think it's worth in the long term investing the time to learn the fundamentals of CS? Probably a topic for a video? : )
