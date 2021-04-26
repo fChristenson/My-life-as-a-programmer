@@ -11,6 +11,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
+> Question in question: Do you think working with JavaScript frameworks can hinder developers from having a deeper understanding of DOM manipulation (and the core JavaScript browser apis)? Consider React. We are discouraged from interacting with the DOM. Instead, we are encouraged to work with the virtual DOM only. Do you feel that juniors who jump into such frameworks are missing out on important concepts that would only be learned through “framework-free” DOM manipulation?
+
 > I'm a developer who I guess can be considered a backend developer (I can write Qt style UIs I guess... But no actual web UIs). I'm working in my own time on building out a website, and I have never really done any serious css and website design, it seems very daunting to me. Do you think I should try to attempt this with either vanilla css or some kind of framework? Or just use something like bootstrap?
 
 > Thank you so much, Fredrik! You mentioned 1 to 5 years, which begs the question, how to direct efforts to get rock star status within 1 year? Should you become Jack of all trades, or specialize (eg. in frontend, go deep in React, Next.js). I tend to go with the second, but I'm not sure...
