@@ -11,29 +11,11 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> Question in question: Do you think working with JavaScript frameworks can hinder developers from having a deeper understanding of DOM manipulation (and the core JavaScript browser apis)? Consider React. We are discouraged from interacting with the DOM. Instead, we are encouraged to work with the virtual DOM only. Do you feel that juniors who jump into such frameworks are missing out on important concepts that would only be learned through “framework-free” DOM manipulation?
-
-> I'm a developer who I guess can be considered a backend developer (I can write Qt style UIs I guess... But no actual web UIs). I'm working in my own time on building out a website, and I have never really done any serious css and website design, it seems very daunting to me. Do you think I should try to attempt this with either vanilla css or some kind of framework? Or just use something like bootstrap?
-
-> Thank you so much, Fredrik! You mentioned 1 to 5 years, which begs the question, how to direct efforts to get rock star status within 1 year? Should you become Jack of all trades, or specialize (eg. in frontend, go deep in React, Next.js). I tend to go with the second, but I'm not sure...
-
-> Fredric, how can I become full stack engineer the fastest way? I have been working for one year as backend engineer and I am thinking of joining start up where I would be able to work on frontend, backend, devops
-
-> Hi Fredrik. How useful do you think is knowing multithreading , concurrency as a Junior developer ? As I found it to be quite difficult to learn especially for people like me who dont get the chance to use it at work. From my understanding , that kind optimization is rarely the thing we need for small application ?  will I ever need to be good at multi, concurrency at all ?
-
-> Thank you for the video! Got the point about ML. But more generally, how about CS? If you taught yourself building things, and just using higher level technologies, do you think it's worth in the long term investing the time to learn the fundamentals of CS? Probably a topic for a video? : )
-
-> Portfolio sites are a popular enough way for junior developers to show off their skills and improve their chances of getting the first job. Do midlevel developers still do portfolio sites and is it a good idea?
-
 > Any updates on your thoughts on blockchains, cryptocurrencies and careers in this space since your last video on the subject?
-
-> Do you learn a new language every year. ?
 
 > Hi Fredrik, been listening for you for quite some time now and I really appriciate the time and effort you do. Huge help for people like me in the start of my career. I have a question, got offered an position at my current internship(digital agency). My role as an intern is .NET developer. I am currently studying a higher vocational education(.NET utvecklare, Stockholm). The agency offered me this offer with the clause that I learn Wordpress too as they really need Wordpress developers, so I will have a mix of .NET and WP work. I have no problems learning WP and I think it might be fun since I enjoy webdev. My question is will this hurt my career long term as a .NET developer? Or should I just take it and roll with it just to get my "foot in the door" since im a junior dev?
 
 > ok Fredrick What do you think about companies seeing their devs as a cost centre?
-
-> How do you practice backend skills?
 
 > Hi Frefrik! I am working for the company on the implementation of a new ERP system for more than 2 years now. My job is mainly to migrate data between the old and new system. I also worked on a few modifications of the new system where I had the opportunity to program business logic and UX a bit. Apart from that, I maintain the old system and support the users. I briefly deal with everything that the current situation requires (Excel, SSRS, System integrations, Windows etc.)
 The main reason why I was tempted to take this job was the information about the knowledge of C # in the requirements. I thought it was a great opportunity to deepen my programming knowledge.
