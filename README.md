@@ -13,11 +13,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > I just quit my software developer job to try to become a singer. My friends and parents don't support me. What should I do?
 
-> Am I a bad Software Engineer if I can not implement sorting algorithms from the top of my head?
-
 > I am not a detail-oriented person but I like how software development can change people's lives, would I enjoy coding?
-
-> I've heard that "Separation of Concerns" opposes "Dependency Injection". If so, how?
 
 ## Pending tutorials
 
