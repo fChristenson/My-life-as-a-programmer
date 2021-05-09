@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending tutorials
 
+> What concept do a junior developer need to learn in order to grasp the workflow and code structure of a large scale company. I've seen you talk about MVC as a way to structure code in web development. Are there any other concepts that one should try to learn or understand to be able to work with a large team?
+
 > @Fredrik Christenson Can you make a video on CSP and why is it important?
 
 > Hey Fredrik can you make a video on what are the things that I need to include in a portfolio. The best way to build a portfolio
