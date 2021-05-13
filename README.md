@@ -11,11 +11,7 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ## Pending questions
 
-> I was asked to solve a well known NP-complete problem in an interview. Should I refuse to solve it?
-
 > What should I do if I get distracted/bored whenever I'm coding something that's monotous?
-
-> I wrote a program that could be written in 5 lines of code in 29. When I looked at the 5 liner version, I was like "I would've never been able to write it that way." Is that normal? 
 
 > I'm a software engineer. I have experience of around 7 years. What should I do to revive my career?
 
