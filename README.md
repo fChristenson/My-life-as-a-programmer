@@ -13,8 +13,6 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 > What should I do if I get distracted/bored whenever I'm coding something that's monotous?
 
-> I'm a software engineer. I have experience of around 7 years. What should I do to revive my career?
-
 ## Pending tutorials
 
 > What concept do a junior developer need to learn in order to grasp the workflow and code structure of a large scale company. I've seen you talk about MVC as a way to structure code in web development. Are there any other concepts that one should try to learn or understand to be able to work with a large team?
